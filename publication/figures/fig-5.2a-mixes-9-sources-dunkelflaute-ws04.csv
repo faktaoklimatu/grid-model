@@ -1,0 +1,232 @@
+name,region,source_group,production_TWh,country_name
+Bez Sev.en a SUAS,AT,Bio,0.178,Rakousko
+Bez Sev.en a SUAS,AT,Gas,16.758,Rakousko
+Bez Sev.en a SUAS,AT,Hydro,30.238,Rakousko
+Bez Sev.en a SUAS,AT,NetImport,-1.575,Rakousko
+Bez Sev.en a SUAS,AT,Other,0.473,Rakousko
+Bez Sev.en a SUAS,AT,Solar,18.274,Rakousko
+Bez Sev.en a SUAS,AT,Wind,17.735,Rakousko
+Bez Sev.en a SUAS,BA,Coal,0,Bosna a Hercegovina
+Bez Sev.en a SUAS,BA,Hydro,6.165,Bosna a Hercegovina
+Bez Sev.en a SUAS,BA,NetImport,-0.109,Bosna a Hercegovina
+Bez Sev.en a SUAS,BA,Solar,2.386,Bosna a Hercegovina
+Bez Sev.en a SUAS,BA,Wind,3.467,Bosna a Hercegovina
+Bez Sev.en a SUAS,BE,Bio,0.31,Belgie
+Bez Sev.en a SUAS,BE,Gas,21.691,Belgie
+Bez Sev.en a SUAS,BE,Hydro,0.451,Belgie
+Bez Sev.en a SUAS,BE,NetImport,26.169,Belgie
+Bez Sev.en a SUAS,BE,Nuclear,9.464,Belgie
+Bez Sev.en a SUAS,BE,Other,0.155,Belgie
+Bez Sev.en a SUAS,BE,Solar,13.2,Belgie
+Bez Sev.en a SUAS,BE,Wind,24.977,Belgie
+Bez Sev.en a SUAS,BG,Bio,0,Bulharsko
+Bez Sev.en a SUAS,BG,Coal,0,Bulharsko
+Bez Sev.en a SUAS,BG,Gas,4.422,Bulharsko
+Bez Sev.en a SUAS,BG,Hydro,4.228,Bulharsko
+Bez Sev.en a SUAS,BG,NetImport,-1.411,Bulharsko
+Bez Sev.en a SUAS,BG,Nuclear,16.046,Bulharsko
+Bez Sev.en a SUAS,BG,Solar,7.206,Bulharsko
+Bez Sev.en a SUAS,BG,Wind,3.086,Bulharsko
+Bez Sev.en a SUAS,CH,Bio,0.006,Švýcarsko
+Bez Sev.en a SUAS,CH,Gas,1.133,Švýcarsko
+Bez Sev.en a SUAS,CH,Hydro,39.198,Švýcarsko
+Bez Sev.en a SUAS,CH,NetImport,-13.006,Švýcarsko
+Bez Sev.en a SUAS,CH,Nuclear,22.052,Švýcarsko
+Bez Sev.en a SUAS,CH,Other,1.012,Švýcarsko
+Bez Sev.en a SUAS,CH,Solar,15.941,Švýcarsko
+Bez Sev.en a SUAS,CH,Wind,0.46,Švýcarsko
+Bez Sev.en a SUAS,CZ,Bio,0.82,Česko
+Bez Sev.en a SUAS,CZ,Coal,5.212,Česko
+Bez Sev.en a SUAS,CZ,Gas,8.684,Česko
+Bez Sev.en a SUAS,CZ,Hydro,2.353,Česko
+Bez Sev.en a SUAS,CZ,NetImport,12.175,Česko
+Bez Sev.en a SUAS,CZ,Nuclear,28.599,Česko
+Bez Sev.en a SUAS,CZ,Other,1.143,Česko
+Bez Sev.en a SUAS,CZ,Solar,7.138,Česko
+Bez Sev.en a SUAS,CZ,Wind,1.082,Česko
+Bez Sev.en a SUAS,DE,Coal,8.974,Německo
+Bez Sev.en a SUAS,DE,Gas,148.759,Německo
+Bez Sev.en a SUAS,DE,Hydro,18.404,Německo
+Bez Sev.en a SUAS,DE,NetImport,30.334,Německo
+Bez Sev.en a SUAS,DE,Other,0.013,Německo
+Bez Sev.en a SUAS,DE,Solar,167.09,Německo
+Bez Sev.en a SUAS,DE,Wind,235.563,Německo
+Bez Sev.en a SUAS,DK,Bio,1.967,Dánsko
+Bez Sev.en a SUAS,DK,Coal,0.043,Dánsko
+Bez Sev.en a SUAS,DK,Gas,4.727,Dánsko
+Bez Sev.en a SUAS,DK,NetImport,3.78,Dánsko
+Bez Sev.en a SUAS,DK,Solar,13.199,Dánsko
+Bez Sev.en a SUAS,DK,Wind,30.053,Dánsko
+Bez Sev.en a SUAS,EE,Bio,0.047,Estonsko
+Bez Sev.en a SUAS,EE,Gas,0.399,Estonsko
+Bez Sev.en a SUAS,EE,NetImport,3.678,Estonsko
+Bez Sev.en a SUAS,EE,Other,0.066,Estonsko
+Bez Sev.en a SUAS,EE,Solar,1.29,Estonsko
+Bez Sev.en a SUAS,EE,Wind,4.474,Estonsko
+Bez Sev.en a SUAS,ES,Bio,0,Španělsko
+Bez Sev.en a SUAS,ES,Gas,51.727,Španělsko
+Bez Sev.en a SUAS,ES,Hydro,32.852,Španělsko
+Bez Sev.en a SUAS,ES,NetImport,-2.454,Španělsko
+Bez Sev.en a SUAS,ES,Nuclear,45.69,Španělsko
+Bez Sev.en a SUAS,ES,Solar,76.184,Španělsko
+Bez Sev.en a SUAS,ES,Wind,82.03,Španělsko
+Bez Sev.en a SUAS,FI,Bio,1.219,Finsko
+Bez Sev.en a SUAS,FI,Coal,0.01,Finsko
+Bez Sev.en a SUAS,FI,Gas,3.074,Finsko
+Bez Sev.en a SUAS,FI,Hydro,13.5,Finsko
+Bez Sev.en a SUAS,FI,NetImport,7.872,Finsko
+Bez Sev.en a SUAS,FI,Nuclear,21.888,Finsko
+Bez Sev.en a SUAS,FI,Other,0.575,Finsko
+Bez Sev.en a SUAS,FI,Solar,5.454,Finsko
+Bez Sev.en a SUAS,FI,Wind,41.367,Finsko
+Bez Sev.en a SUAS,FR,Bio,0.007,Francie
+Bez Sev.en a SUAS,FR,Gas,10.676,Francie
+Bez Sev.en a SUAS,FR,Hydro,58.606,Francie
+Bez Sev.en a SUAS,FR,NetImport,-75.286,Francie
+Bez Sev.en a SUAS,FR,Nuclear,391.861,Francie
+Bez Sev.en a SUAS,FR,Other,1.967,Francie
+Bez Sev.en a SUAS,FR,Solar,37.618,Francie
+Bez Sev.en a SUAS,FR,Wind,81.904,Francie
+Bez Sev.en a SUAS,GB,Bio,0.053,Spojené království
+Bez Sev.en a SUAS,GB,Gas,55.376,Spojené království
+Bez Sev.en a SUAS,GB,Hydro,3.245,Spojené království
+Bez Sev.en a SUAS,GB,NetImport,-21.103,Spojené království
+Bez Sev.en a SUAS,GB,Nuclear,38.512,Spojené království
+Bez Sev.en a SUAS,GB,Other,14.812,Spojené království
+Bez Sev.en a SUAS,GB,Solar,26.984,Spojené království
+Bez Sev.en a SUAS,GB,Wind,212.234,Spojené království
+Bez Sev.en a SUAS,GR,Bio,0,Řecko
+Bez Sev.en a SUAS,GR,Coal,0,Řecko
+Bez Sev.en a SUAS,GR,Gas,22.849,Řecko
+Bez Sev.en a SUAS,GR,Hydro,5.716,Řecko
+Bez Sev.en a SUAS,GR,NetImport,-2.694,Řecko
+Bez Sev.en a SUAS,GR,Other,0,Řecko
+Bez Sev.en a SUAS,GR,Solar,16.271,Řecko
+Bez Sev.en a SUAS,GR,Wind,16.54,Řecko
+Bez Sev.en a SUAS,HR,Bio,0.005,Chorvatsko
+Bez Sev.en a SUAS,HR,Coal,0.002,Chorvatsko
+Bez Sev.en a SUAS,HR,Gas,7.976,Chorvatsko
+Bez Sev.en a SUAS,HR,Hydro,7.316,Chorvatsko
+Bez Sev.en a SUAS,HR,NetImport,-3.309,Chorvatsko
+Bez Sev.en a SUAS,HR,Other,0,Chorvatsko
+Bez Sev.en a SUAS,HR,Solar,1.174,Chorvatsko
+Bez Sev.en a SUAS,HR,Wind,3.571,Chorvatsko
+Bez Sev.en a SUAS,HU,Bio,0.332,Maďarsko
+Bez Sev.en a SUAS,HU,Coal,0.006,Maďarsko
+Bez Sev.en a SUAS,HU,Gas,17.54,Maďarsko
+Bez Sev.en a SUAS,HU,Hydro,0.24,Maďarsko
+Bez Sev.en a SUAS,HU,NetImport,4.379,Maďarsko
+Bez Sev.en a SUAS,HU,Nuclear,14.805,Maďarsko
+Bez Sev.en a SUAS,HU,Other,0.162,Maďarsko
+Bez Sev.en a SUAS,HU,Solar,12.964,Maďarsko
+Bez Sev.en a SUAS,HU,Wind,0.695,Maďarsko
+Bez Sev.en a SUAS,IE,Bio,0.012,Irsko
+Bez Sev.en a SUAS,IE,Gas,14.934,Irsko
+Bez Sev.en a SUAS,IE,Hydro,0.389,Irsko
+Bez Sev.en a SUAS,IE,NetImport,3.776,Irsko
+Bez Sev.en a SUAS,IE,Other,0.342,Irsko
+Bez Sev.en a SUAS,IE,Solar,4.176,Irsko
+Bez Sev.en a SUAS,IE,Wind,19.405,Irsko
+Bez Sev.en a SUAS,IT,Bio,0,Itálie
+Bez Sev.en a SUAS,IT,Coal,0,Itálie
+Bez Sev.en a SUAS,IT,Gas,126.405,Itálie
+Bez Sev.en a SUAS,IT,Hydro,44.779,Itálie
+Bez Sev.en a SUAS,IT,NetImport,16.368,Itálie
+Bez Sev.en a SUAS,IT,Other,3.622,Itálie
+Bez Sev.en a SUAS,IT,Solar,84.726,Itálie
+Bez Sev.en a SUAS,IT,Wind,60.933,Itálie
+Bez Sev.en a SUAS,LT,Bio,0.035,Litva
+Bez Sev.en a SUAS,LT,Gas,1.471,Litva
+Bez Sev.en a SUAS,LT,Hydro,0.47,Litva
+Bez Sev.en a SUAS,LT,NetImport,-0.911,Litva
+Bez Sev.en a SUAS,LT,Other,0.232,Litva
+Bez Sev.en a SUAS,LT,Solar,3.343,Litva
+Bez Sev.en a SUAS,LT,Wind,11.212,Litva
+Bez Sev.en a SUAS,LU,Bio,0.093,Lucembursko
+Bez Sev.en a SUAS,LU,Gas,0.069,Lucembursko
+Bez Sev.en a SUAS,LU,NetImport,6.519,Lucembursko
+Bez Sev.en a SUAS,LU,Solar,0.66,Lucembursko
+Bez Sev.en a SUAS,LU,Wind,0.783,Lucembursko
+Bez Sev.en a SUAS,LV,Bio,0.021,Lotyšsko
+Bez Sev.en a SUAS,LV,Gas,1.975,Lotyšsko
+Bez Sev.en a SUAS,LV,Hydro,3.62,Lotyšsko
+Bez Sev.en a SUAS,LV,NetImport,-0.568,Lotyšsko
+Bez Sev.en a SUAS,LV,Other,0,Lotyšsko
+Bez Sev.en a SUAS,LV,Solar,0.833,Lotyšsko
+Bez Sev.en a SUAS,LV,Wind,1.175,Lotyšsko
+Bez Sev.en a SUAS,ME,Coal,0,Černá Hora
+Bez Sev.en a SUAS,ME,Hydro,4.428,Černá Hora
+Bez Sev.en a SUAS,ME,NetImport,-2.161,Černá Hora
+Bez Sev.en a SUAS,ME,Solar,0.567,Černá Hora
+Bez Sev.en a SUAS,ME,Wind,0.508,Černá Hora
+Bez Sev.en a SUAS,MK,Bio,0,Severní Makedonie
+Bez Sev.en a SUAS,MK,Coal,0,Severní Makedonie
+Bez Sev.en a SUAS,MK,Gas,2.622,Severní Makedonie
+Bez Sev.en a SUAS,MK,Hydro,1.174,Severní Makedonie
+Bez Sev.en a SUAS,MK,NetImport,1.306,Severní Makedonie
+Bez Sev.en a SUAS,MK,Solar,2.244,Severní Makedonie
+Bez Sev.en a SUAS,MK,Wind,0.202,Severní Makedonie
+Bez Sev.en a SUAS,NL,Bio,0.582,Nizozemsko
+Bez Sev.en a SUAS,NL,Coal,1.198,Nizozemsko
+Bez Sev.en a SUAS,NL,Gas,62.628,Nizozemsko
+Bez Sev.en a SUAS,NL,Hydro,0.105,Nizozemsko
+Bez Sev.en a SUAS,NL,NetImport,4.122,Nizozemsko
+Bez Sev.en a SUAS,NL,Nuclear,3.33,Nizozemsko
+Bez Sev.en a SUAS,NL,Other,0.014,Nizozemsko
+Bez Sev.en a SUAS,NL,Solar,42.15,Nizozemsko
+Bez Sev.en a SUAS,NL,Wind,44.515,Nizozemsko
+Bez Sev.en a SUAS,NO,Gas,0.046,Norsko
+Bez Sev.en a SUAS,NO,Hydro,141.398,Norsko
+Bez Sev.en a SUAS,NO,NetImport,-8.758,Norsko
+Bez Sev.en a SUAS,NO,Solar,3.047,Norsko
+Bez Sev.en a SUAS,NO,Wind,14.065,Norsko
+Bez Sev.en a SUAS,PL,Coal,13.099,Polsko
+Bez Sev.en a SUAS,PL,Gas,48.38,Polsko
+Bez Sev.en a SUAS,PL,Hydro,1.992,Polsko
+Bez Sev.en a SUAS,PL,NetImport,18.065,Polsko
+Bez Sev.en a SUAS,PL,Solar,23.68,Polsko
+Bez Sev.en a SUAS,PL,Wind,65.39,Polsko
+Bez Sev.en a SUAS,PT,Gas,12.093,Portugalsko
+Bez Sev.en a SUAS,PT,Hydro,15.694,Portugalsko
+Bez Sev.en a SUAS,PT,NetImport,6.276,Portugalsko
+Bez Sev.en a SUAS,PT,Solar,16.415,Portugalsko
+Bez Sev.en a SUAS,PT,Wind,17.03,Portugalsko
+Bez Sev.en a SUAS,RO,Bio,0,Rumunsko
+Bez Sev.en a SUAS,RO,Coal,0,Rumunsko
+Bez Sev.en a SUAS,RO,Gas,13.773,Rumunsko
+Bez Sev.en a SUAS,RO,Hydro,15.539,Rumunsko
+Bez Sev.en a SUAS,RO,NetImport,-10.739,Rumunsko
+Bez Sev.en a SUAS,RO,Nuclear,5.102,Rumunsko
+Bez Sev.en a SUAS,RO,Solar,14.554,Rumunsko
+Bez Sev.en a SUAS,RO,Wind,19.587,Rumunsko
+Bez Sev.en a SUAS,RS,Coal,0.089,Srbsko
+Bez Sev.en a SUAS,RS,Gas,2.15,Srbsko
+Bez Sev.en a SUAS,RS,Hydro,9.289,Srbsko
+Bez Sev.en a SUAS,RS,NetImport,15.687,Srbsko
+Bez Sev.en a SUAS,RS,Other,0.131,Srbsko
+Bez Sev.en a SUAS,RS,Solar,3.977,Srbsko
+Bez Sev.en a SUAS,RS,Wind,14.577,Srbsko
+Bez Sev.en a SUAS,SE,Bio,0.021,Švédsko
+Bez Sev.en a SUAS,SE,Gas,0.937,Švédsko
+Bez Sev.en a SUAS,SE,Hydro,75.095,Švédsko
+Bez Sev.en a SUAS,SE,NetImport,-29.305,Švédsko
+Bez Sev.en a SUAS,SE,Nuclear,53.032,Švédsko
+Bez Sev.en a SUAS,SE,Other,1.655,Švédsko
+Bez Sev.en a SUAS,SE,Solar,4.84,Švédsko
+Bez Sev.en a SUAS,SE,Wind,51.456,Švédsko
+Bez Sev.en a SUAS,SI,Coal,0.002,Slovinsko
+Bez Sev.en a SUAS,SI,Gas,3.292,Slovinsko
+Bez Sev.en a SUAS,SI,Hydro,3.367,Slovinsko
+Bez Sev.en a SUAS,SI,NetImport,-1.774,Slovinsko
+Bez Sev.en a SUAS,SI,Nuclear,5.49,Slovinsko
+Bez Sev.en a SUAS,SI,Other,0,Slovinsko
+Bez Sev.en a SUAS,SI,Solar,5.409,Slovinsko
+Bez Sev.en a SUAS,SI,Wind,0.176,Slovinsko
+Bez Sev.en a SUAS,SK,Bio,0.037,Slovensko
+Bez Sev.en a SUAS,SK,Coal,0.037,Slovensko
+Bez Sev.en a SUAS,SK,Gas,4.554,Slovensko
+Bez Sev.en a SUAS,SK,Hydro,4.772,Slovensko
+Bez Sev.en a SUAS,SK,NetImport,0.341,Slovensko
+Bez Sev.en a SUAS,SK,Nuclear,20.48,Slovensko
+Bez Sev.en a SUAS,SK,Solar,1.232,Slovensko
+Bez Sev.en a SUAS,SK,Wind,0.809,Slovensko

@@ -1,0 +1,31 @@
+name,region,source_group,production_TWh
+Základní,CZ,Coal,5.898
+Základní,CZ,Gas,9.408
+Základní,CZ,NetImport,10.834
+Základní,CZ,Nuclear,28.599
+Základní,CZ,Other,1.143
+Základní,CZ,Renewables,10.816
+Základní+,CZ,Coal,5.769
+Základní+,CZ,Gas,9.071
+Základní+,CZ,NetImport,11.436
+Základní+,CZ,Nuclear,28.599
+Základní+,CZ,Other,1.143
+Základní+,CZ,Renewables,10.688
+Bez Sev.en,CZ,Coal,5.653
+Bez Sev.en,CZ,Gas,9.301
+Bez Sev.en,CZ,NetImport,11.173
+Bez Sev.en,CZ,Nuclear,28.599
+Bez Sev.en,CZ,Other,1.143
+Bez Sev.en,CZ,Renewables,10.829
+Bez Sev.en a SUAS,CZ,Coal,5.212
+Bez Sev.en a SUAS,CZ,Gas,8.684
+Bez Sev.en a SUAS,CZ,NetImport,12.175
+Bez Sev.en a SUAS,CZ,Nuclear,28.599
+Bez Sev.en a SUAS,CZ,Other,1.143
+Bez Sev.en a SUAS,CZ,Renewables,10.888
+Stresový,CZ,Coal,6.085
+Stresový,CZ,Gas,8.927
+Stresový,CZ,NetImport,15.135
+Stresový,CZ,Nuclear,24.132
+Stresový,CZ,Other,1.143
+Stresový,CZ,Renewables,11.283

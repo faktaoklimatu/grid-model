@@ -1,0 +1,21 @@
+name,neighbour,ImportTWh,ExportTWh
+Základní,AT,4.888,0.082
+Základní,DE,6.266,0.627
+Základní,PL,1.452,2.386
+Základní,SK,1.83,0.509
+Základní+,AT,4.038,0.096
+Základní+,DE,9.768,0.846
+Základní+,PL,1.154,2.824
+Základní+,SK,1.563,1.322
+Bez Sev.en,AT,4.94,0.072
+Bez Sev.en,DE,6.331,0.586
+Bez Sev.en,PL,1.487,2.34
+Bez Sev.en,SK,1.914,0.501
+Bez Sev.en a SUAS,AT,5.11,0.062
+Bez Sev.en a SUAS,DE,6.586,0.512
+Bez Sev.en a SUAS,PL,1.571,2.194
+Bez Sev.en a SUAS,SK,2.151,0.477
+Stresový,AT,5.692,0.067
+Stresový,DE,7.989,0.479
+Stresový,PL,2.155,1.671
+Stresový,SK,2.235,0.719

@@ -1,0 +1,10 @@
+For simplicity, we work with daily maximum / minimum temperature measurements, from CHMU.
+Those must be stored in the "[STA]-{min,max}.csv" format.
+
+Instead of the Czech column names, inject the English translation:
+Year;Month;Day;Value;Tag
+
+From those, we generate a synthetic hourly dataset, assuming attaining those extreme values at:
+- 5:00 - lowest temperature
+- 15:00 - highest temperature
+and linear interpolation. This dataset is generated using generate.ipynb.

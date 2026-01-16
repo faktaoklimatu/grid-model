@@ -1,0 +1,990 @@
+MARKET_NODE,PEMMDB_PLANT_TYPE,MAX PUMPING CAP (MW),Storage Capacity [TWh],TARGET_YEAR,Country,data_version
+AL00,Reservoir,0,1.72,2028,AL,ERAA 2025 final
+AL00,Run of river,0,,2028,AL,ERAA 2025 final
+AT00,Open loop pumping,3687.42,1.74,2028,AT,ERAA 2025 final
+AT00,Pondage,0,0.01,2028,AT,ERAA 2025 final
+AT00,Reservoir,0,0.8,2028,AT,ERAA 2025 final
+AT00,Run of river,0,,2028,AT,ERAA 2025 final
+BA00,Open loop pumping,440,0,2028,BA,ERAA 2025 final
+BA00,Pondage,0,0,2028,BA,ERAA 2025 final
+BA00,Reservoir,0,1.75,2028,BA,ERAA 2025 final
+BA00,Run of river,0,,2028,BA,ERAA 2025 final
+BE00,Closed loop pumping,1226.76,0.01,2028,BE,ERAA 2025 final
+BE00,Run of river,0,,2028,BE,ERAA 2025 final
+BG00,Closed loop pumping,784,0.01,2028,BG,ERAA 2025 final
+BG00,Open loop pumping,148,0.39,2028,BG,ERAA 2025 final
+BG00,Reservoir,0,1.99,2028,BG,ERAA 2025 final
+BG00,Run of river,0,,2028,BG,ERAA 2025 final
+CH00,Closed loop pumping,1900,0.06,2028,CH,ERAA 2025 final
+CH00,Open loop pumping,1805,1.02,2028,CH,ERAA 2025 final
+CH00,Reservoir,0,7.82,2028,CH,ERAA 2025 final
+CH00,Run of river,0,,2028,CH,ERAA 2025 final
+CZ00,Closed loop pumping,664,0,2028,CZ,ERAA 2025 final
+CZ00,Open loop pumping,440,0,2028,CZ,ERAA 2025 final
+CZ00,Reservoir,0,0,2028,CZ,ERAA 2025 final
+CZ00,Run of river,0,,2028,CZ,ERAA 2025 final
+DE00,Closed loop pumping,6439.6,0.25,2028,DE,ERAA 2025 final
+DE00,Open loop pumping,1861.8,0.44,2028,DE,ERAA 2025 final
+DE00,Reservoir,0,0.24,2028,DE,ERAA 2025 final
+DE00,Run of river,0,,2028,DE,ERAA 2025 final
+ES00,Closed loop pumping,3141.03,0.1,2028,ES,ERAA 2025 final
+ES00,Open loop pumping,2457.400633,5.94,2028,ES,ERAA 2025 final
+ES00,Reservoir,0,13.34,2028,ES,ERAA 2025 final
+ES00,Run of river,0,,2028,ES,ERAA 2025 final
+FI00,Reservoir,0,5.53,2028,FI,ERAA 2025 final
+FR00,Closed loop pumping,1950,0.01,2028,FR,ERAA 2025 final
+FR00,Open loop pumping,1850,0.09,2028,FR,ERAA 2025 final
+FR00,Reservoir,0,10,2028,FR,ERAA 2025 final
+FR00,Run of river,0,,2028,FR,ERAA 2025 final
+GR00,Closed loop pumping,730,0.01,2028,GR,ERAA 2025 final
+GR00,Open loop pumping,735,0,2028,GR,ERAA 2025 final
+GR00,Pondage,0,0,2028,GR,ERAA 2025 final
+GR00,Reservoir,0,2.3,2028,GR,ERAA 2025 final
+GR00,Run of river,0,,2028,GR,ERAA 2025 final
+HR00,Open loop pumping,247.7,0.02,2028,HR,ERAA 2025 final
+HR00,Pondage,0,0,2028,HR,ERAA 2025 final
+HR00,Reservoir,0,2.05,2028,HR,ERAA 2025 final
+HR00,Run of river,0,,2028,HR,ERAA 2025 final
+HU00,Run of river,0,,2028,HU,ERAA 2025 final
+IE00,Closed loop pumping,292,0,2028,IE,ERAA 2025 final
+IE00,Run of river,0,,2028,IE,ERAA 2025 final
+ITCA,Reservoir,0,0.57,2028,IT,ERAA 2025 final
+ITCA,Run of river,0,,2028,IT,ERAA 2025 final
+ITCN,Reservoir,0,0.19,2028,IT,ERAA 2025 final
+ITCN,Run of river,0,,2028,IT,ERAA 2025 final
+ITCS,Closed loop pumping,985,0,2028,IT,ERAA 2025 final
+ITCS,Open loop pumping,333,0.09,2028,IT,ERAA 2025 final
+ITCS,Reservoir,0,0.8,2028,IT,ERAA 2025 final
+ITCS,Run of river,0,,2028,IT,ERAA 2025 final
+ITN1,Closed loop pumping,2377,0.03,2028,IT,ERAA 2025 final
+ITN1,Open loop pumping,1831,0.19,2028,IT,ERAA 2025 final
+ITN1,Reservoir,0,3.71,2028,IT,ERAA 2025 final
+ITN1,Run of river,0,,2028,IT,ERAA 2025 final
+ITS1,Reservoir,0,0.15,2028,IT,ERAA 2025 final
+ITSA,Closed loop pumping,242,0.01,2028,IT,ERAA 2025 final
+ITSA,Reservoir,0,0.14,2028,IT,ERAA 2025 final
+ITSA,Run of river,0,,2028,IT,ERAA 2025 final
+ITSI,Closed loop pumping,570,0,2028,IT,ERAA 2025 final
+ITSI,Open loop pumping,58,0,2028,IT,ERAA 2025 final
+ITSI,Reservoir,0,0.08,2028,IT,ERAA 2025 final
+ITSI,Run of river,0,,2028,IT,ERAA 2025 final
+LT00,Closed loop pumping,990,0.01,2028,LT,ERAA 2025 final
+LT00,Run of river,0,,2028,LT,ERAA 2025 final
+LUV1,Closed loop pumping,1100,0.01,2028,LU,ERAA 2025 final
+LV00,Pondage,0,0.02,2028,LV,ERAA 2025 final
+MD00,Run of river,0,,2028,,ERAA 2025 final
+ME00,Reservoir,0,1.11,2028,ME,ERAA 2025 final
+ME00,Run of river,0,,2028,ME,ERAA 2025 final
+MK00,Reservoir,0,0.6,2028,MK,ERAA 2025 final
+MK00,Run of river,0,,2028,MK,ERAA 2025 final
+NL00,Run of river,0,,2028,NL,ERAA 2025 final
+NOM1,Open loop pumping,76.00000001,1.04,2028,NO,ERAA 2025 final
+NOM1,Reservoir,0,7.69,2028,NO,ERAA 2025 final
+NOM1,Run of river,0,,2028,NO,ERAA 2025 final
+NON1,Reservoir,0,21.14,2028,NO,ERAA 2025 final
+NON1,Run of river,0,,2028,NO,ERAA 2025 final
+NOS1,Reservoir,0,20,2028,NO,ERAA 2025 final
+NOS1,Run of river,0,,2028,NO,ERAA 2025 final
+NOS2,Open loop pumping,252.1599999,6.92,2028,NO,ERAA 2025 final
+NOS2,Reservoir,0,22.76,2028,NO,ERAA 2025 final
+NOS2,Run of river,0,,2028,NO,ERAA 2025 final
+NOS3,Open loop pumping,430.86,3.37,2028,NO,ERAA 2025 final
+NOS3,Reservoir,0,9.87,2028,NO,ERAA 2025 final
+NOS3,Run of river,0,,2028,NO,ERAA 2025 final
+PL00,Closed loop pumping,1486,0.01,2028,PL,ERAA 2025 final
+PL00,Open loop pumping,84,0,2028,PL,ERAA 2025 final
+PL00,Reservoir,0,0,2028,PL,ERAA 2025 final
+PL00,Run of river,0,,2028,PL,ERAA 2025 final
+PT00,Open loop pumping,3587,2.02,2028,PT,ERAA 2025 final
+PT00,Pondage,0,0,2028,PT,ERAA 2025 final
+PT00,Reservoir,0,1.29,2028,PT,ERAA 2025 final
+PT00,Run of river,0,,2028,PT,ERAA 2025 final
+RO00,Pondage,0,0,2028,RO,ERAA 2025 final
+RO00,Reservoir,0,3.16,2028,RO,ERAA 2025 final
+RO00,Run of river,0,,2028,RO,ERAA 2025 final
+RS00,Closed loop pumping,560,0.19,2028,RS,ERAA 2025 final
+RS00,Reservoir,0,0.65,2028,RS,ERAA 2025 final
+RS00,Run of river,0,,2028,RS,ERAA 2025 final
+SE01,Reservoir,0,14.43,2028,SE,ERAA 2025 final
+SE02,Reservoir,0,14.8,2028,SE,ERAA 2025 final
+SE03,Reservoir,0,2.64,2028,SE,ERAA 2025 final
+SE04,Reservoir,0,0.07,2028,SE,ERAA 2025 final
+SI00,Pondage,0,0,2028,SI,ERAA 2025 final
+SI00,Run of river,0,,2028,SI,ERAA 2025 final
+SK00,Closed loop pumping,600,0,2028,SK,ERAA 2025 final
+SK00,Open loop pumping,178.28,0.05,2028,SK,ERAA 2025 final
+SK00,Pondage,0,0.01,2028,SK,ERAA 2025 final
+SK00,Reservoir,0,0.02,2028,SK,ERAA 2025 final
+SK00,Run of river,0,,2028,SK,ERAA 2025 final
+UK00,Closed loop pumping,2744,0.02,2028,UK,ERAA 2025 final
+UK00,Run of river,0,,2028,UK,ERAA 2025 final
+AL00,Reservoir,0,1.72,2030,AL,ERAA 2025 final
+AL00,Run of river,0,,2030,AL,ERAA 2025 final
+AT00,Closed loop pumping,300,0,2030,AT,ERAA 2025 final
+AT00,Open loop pumping,5127.42,1.75,2030,AT,ERAA 2025 final
+AT00,Pondage,0,0.01,2030,AT,ERAA 2025 final
+AT00,Reservoir,0,0.8,2030,AT,ERAA 2025 final
+AT00,Run of river,0,,2030,AT,ERAA 2025 final
+BA00,Open loop pumping,440,0,2030,BA,ERAA 2025 final
+BA00,Pondage,0,0,2030,BA,ERAA 2025 final
+BA00,Reservoir,0,1.75,2030,BA,ERAA 2025 final
+BA00,Run of river,0,,2030,BA,ERAA 2025 final
+BE00,Closed loop pumping,1226.76,0.01,2030,BE,ERAA 2025 final
+BE00,Run of river,0,,2030,BE,ERAA 2025 final
+BG00,Closed loop pumping,784,0.01,2030,BG,ERAA 2025 final
+BG00,Open loop pumping,148,0.39,2030,BG,ERAA 2025 final
+BG00,Reservoir,0,1.99,2030,BG,ERAA 2025 final
+BG00,Run of river,0,,2030,BG,ERAA 2025 final
+CH00,Closed loop pumping,1900,0.06,2030,CH,ERAA 2025 final
+CH00,Open loop pumping,1813.2,1.19,2030,CH,ERAA 2025 final
+CH00,Reservoir,0,8.91,2030,CH,ERAA 2025 final
+CH00,Run of river,0,,2030,CH,ERAA 2025 final
+CZ00,Closed loop pumping,664,0,2030,CZ,ERAA 2025 final
+CZ00,Open loop pumping,525,0,2030,CZ,ERAA 2025 final
+CZ00,Reservoir,0,0,2030,CZ,ERAA 2025 final
+CZ00,Run of river,0,,2030,CZ,ERAA 2025 final
+DE00,Closed loop pumping,6715.6,0.6,2030,DE,ERAA 2025 final
+DE00,Open loop pumping,1861.8,0.44,2030,DE,ERAA 2025 final
+DE00,Reservoir,0,0.24,2030,DE,ERAA 2025 final
+DE00,Run of river,0,,2030,DE,ERAA 2025 final
+ES00,Closed loop pumping,3831.77,0.11,2030,ES,ERAA 2025 final
+ES00,Open loop pumping,2897.400633,5.95,2030,ES,ERAA 2025 final
+ES00,Reservoir,0,13.34,2030,ES,ERAA 2025 final
+ES00,Run of river,0,,2030,ES,ERAA 2025 final
+FI00,Reservoir,0,5.53,2030,FI,ERAA 2025 final
+FR00,Closed loop pumping,1950,0.01,2030,FR,ERAA 2025 final
+FR00,Open loop pumping,1850,0.09,2030,FR,ERAA 2025 final
+FR00,Reservoir,0,10,2030,FR,ERAA 2025 final
+FR00,Run of river,0,,2030,FR,ERAA 2025 final
+GR00,Closed loop pumping,730,0.01,2030,GR,ERAA 2025 final
+GR00,Open loop pumping,735,0,2030,GR,ERAA 2025 final
+GR00,Pondage,0,0,2030,GR,ERAA 2025 final
+GR00,Reservoir,0,2.3,2030,GR,ERAA 2025 final
+GR00,Run of river,0,,2030,GR,ERAA 2025 final
+HR00,Open loop pumping,247.7,0.02,2030,HR,ERAA 2025 final
+HR00,Pondage,0,0,2030,HR,ERAA 2025 final
+HR00,Reservoir,0,2.05,2030,HR,ERAA 2025 final
+HR00,Run of river,0,,2030,HR,ERAA 2025 final
+HU00,Run of river,0,,2030,HU,ERAA 2025 final
+IE00,Closed loop pumping,292,0,2030,IE,ERAA 2025 final
+IE00,Run of river,0,,2030,IE,ERAA 2025 final
+ITCA,Reservoir,0,0.57,2030,IT,ERAA 2025 final
+ITCA,Run of river,0,,2030,IT,ERAA 2025 final
+ITCN,Reservoir,0,0.19,2030,IT,ERAA 2025 final
+ITCN,Run of river,0,,2030,IT,ERAA 2025 final
+ITCS,Closed loop pumping,985,0.01,2030,IT,ERAA 2025 final
+ITCS,Open loop pumping,333,0.09,2030,IT,ERAA 2025 final
+ITCS,Reservoir,0,0.8,2030,IT,ERAA 2025 final
+ITCS,Run of river,0,,2030,IT,ERAA 2025 final
+ITN1,Closed loop pumping,2377,0.03,2030,IT,ERAA 2025 final
+ITN1,Open loop pumping,1831,0.19,2030,IT,ERAA 2025 final
+ITN1,Reservoir,0,3.71,2030,IT,ERAA 2025 final
+ITN1,Run of river,0,,2030,IT,ERAA 2025 final
+ITS1,Reservoir,0,0.15,2030,IT,ERAA 2025 final
+ITSA,Closed loop pumping,242,0.01,2030,IT,ERAA 2025 final
+ITSA,Reservoir,0,0.14,2030,IT,ERAA 2025 final
+ITSA,Run of river,0,,2030,IT,ERAA 2025 final
+ITSI,Closed loop pumping,570,0,2030,IT,ERAA 2025 final
+ITSI,Open loop pumping,58,0,2030,IT,ERAA 2025 final
+ITSI,Reservoir,0,0.08,2030,IT,ERAA 2025 final
+ITSI,Run of river,0,,2030,IT,ERAA 2025 final
+LT00,Closed loop pumping,990,0.01,2030,LT,ERAA 2025 final
+LT00,Run of river,0,,2030,LT,ERAA 2025 final
+LUV1,Closed loop pumping,1100,0.01,2030,LU,ERAA 2025 final
+LV00,Pondage,0,0.02,2030,LV,ERAA 2025 final
+MD00,Run of river,0,,2030,,ERAA 2025 final
+ME00,Reservoir,0,1.11,2030,ME,ERAA 2025 final
+ME00,Run of river,0,,2030,ME,ERAA 2025 final
+MK00,Reservoir,0,0.6,2030,MK,ERAA 2025 final
+MK00,Run of river,0,,2030,MK,ERAA 2025 final
+NL00,Run of river,0,,2030,NL,ERAA 2025 final
+NOM1,Open loop pumping,76.00000001,1.04,2030,NO,ERAA 2025 final
+NOM1,Reservoir,0,7.74,2030,NO,ERAA 2025 final
+NOM1,Run of river,0,,2030,NO,ERAA 2025 final
+NON1,Reservoir,0,21.19,2030,NO,ERAA 2025 final
+NON1,Run of river,0,,2030,NO,ERAA 2025 final
+NOS1,Reservoir,0,20.13,2030,NO,ERAA 2025 final
+NOS1,Run of river,0,,2030,NO,ERAA 2025 final
+NOS2,Open loop pumping,252.1599999,6.92,2030,NO,ERAA 2025 final
+NOS2,Reservoir,0,22.87,2030,NO,ERAA 2025 final
+NOS2,Run of river,0,,2030,NO,ERAA 2025 final
+NOS3,Open loop pumping,430.86,3.37,2030,NO,ERAA 2025 final
+NOS3,Reservoir,0,9.92,2030,NO,ERAA 2025 final
+NOS3,Run of river,0,,2030,NO,ERAA 2025 final
+PL00,Closed loop pumping,1486,0.01,2030,PL,ERAA 2025 final
+PL00,Open loop pumping,84,0,2030,PL,ERAA 2025 final
+PL00,Reservoir,0,0,2030,PL,ERAA 2025 final
+PL00,Run of river,0,,2030,PL,ERAA 2025 final
+PT00,Open loop pumping,3837,2.23,2030,PT,ERAA 2025 final
+PT00,Pondage,0,0,2030,PT,ERAA 2025 final
+PT00,Reservoir,0,1.08,2030,PT,ERAA 2025 final
+PT00,Run of river,0,,2030,PT,ERAA 2025 final
+RO00,Pondage,0,0,2030,RO,ERAA 2025 final
+RO00,Reservoir,0,3.16,2030,RO,ERAA 2025 final
+RO00,Run of river,0,,2030,RO,ERAA 2025 final
+RS00,Closed loop pumping,560,0.25,2030,RS,ERAA 2025 final
+RS00,Reservoir,0,0.65,2030,RS,ERAA 2025 final
+RS00,Run of river,0,,2030,RS,ERAA 2025 final
+SE01,Reservoir,0,14.43,2030,SE,ERAA 2025 final
+SE02,Reservoir,0,14.8,2030,SE,ERAA 2025 final
+SE03,Reservoir,0,2.64,2030,SE,ERAA 2025 final
+SE04,Reservoir,0,0.07,2030,SE,ERAA 2025 final
+SI00,Pondage,0,0,2030,SI,ERAA 2025 final
+SI00,Run of river,0,,2030,SI,ERAA 2025 final
+SK00,Closed loop pumping,618,0,2030,SK,ERAA 2025 final
+SK00,Open loop pumping,178.28,0.05,2030,SK,ERAA 2025 final
+SK00,Pondage,0,0.01,2030,SK,ERAA 2025 final
+SK00,Reservoir,0,0.02,2030,SK,ERAA 2025 final
+SK00,Run of river,0,,2030,SK,ERAA 2025 final
+UK00,Closed loop pumping,3566,0.02,2030,UK,ERAA 2025 final
+UK00,Run of river,0,,2030,UK,ERAA 2025 final
+AL00,Reservoir,0,1.72,2033,AL,ERAA 2025 final
+AL00,Run of river,0,,2033,AL,ERAA 2025 final
+AT00,Closed loop pumping,300,0,2033,AT,ERAA 2025 final
+AT00,Open loop pumping,5637.42,1.75,2033,AT,ERAA 2025 final
+AT00,Pondage,0,0.01,2033,AT,ERAA 2025 final
+AT00,Reservoir,0,0.8,2033,AT,ERAA 2025 final
+AT00,Run of river,0,,2033,AT,ERAA 2025 final
+BA00,Open loop pumping,440,0,2033,BA,ERAA 2025 final
+BA00,Pondage,0,0,2033,BA,ERAA 2025 final
+BA00,Reservoir,0,1.75,2033,BA,ERAA 2025 final
+BA00,Run of river,0,,2033,BA,ERAA 2025 final
+BE00,Closed loop pumping,1226.76,0.01,2033,BE,ERAA 2025 final
+BE00,Run of river,0,,2033,BE,ERAA 2025 final
+BG00,Closed loop pumping,784,0.01,2033,BG,ERAA 2025 final
+BG00,Open loop pumping,148,0.39,2033,BG,ERAA 2025 final
+BG00,Reservoir,0,1.99,2033,BG,ERAA 2025 final
+BG00,Run of river,0,,2033,BG,ERAA 2025 final
+CH00,Closed loop pumping,1900,0.06,2033,CH,ERAA 2025 final
+CH00,Open loop pumping,2388,1.24,2033,CH,ERAA 2025 final
+CH00,Reservoir,0,8.91,2033,CH,ERAA 2025 final
+CH00,Run of river,0,,2033,CH,ERAA 2025 final
+CY00,Closed loop pumping,40,0,2033,CY,ERAA 2025 final
+CZ00,Closed loop pumping,664,0,2033,CZ,ERAA 2025 final
+CZ00,Open loop pumping,610,0,2033,CZ,ERAA 2025 final
+CZ00,Reservoir,0,0,2033,CZ,ERAA 2025 final
+CZ00,Run of river,0,,2033,CZ,ERAA 2025 final
+DE00,Closed loop pumping,6915.6,0.6,2033,DE,ERAA 2025 final
+DE00,Open loop pumping,1861.8,0.44,2033,DE,ERAA 2025 final
+DE00,Reservoir,0,0.24,2033,DE,ERAA 2025 final
+DE00,Run of river,0,,2033,DE,ERAA 2025 final
+ES00,Closed loop pumping,3831.77,0.11,2033,ES,ERAA 2025 final
+ES00,Open loop pumping,2897.400633,5.95,2033,ES,ERAA 2025 final
+ES00,Reservoir,0,13.34,2033,ES,ERAA 2025 final
+ES00,Run of river,0,,2033,ES,ERAA 2025 final
+FI00,Reservoir,0,5.53,2033,FI,ERAA 2025 final
+FR00,Closed loop pumping,1950,0.01,2033,FR,ERAA 2025 final
+FR00,Open loop pumping,1850,0.09,2033,FR,ERAA 2025 final
+FR00,Reservoir,0,10,2033,FR,ERAA 2025 final
+FR00,Run of river,0,,2033,FR,ERAA 2025 final
+GR00,Closed loop pumping,1223.5,0.01,2033,GR,ERAA 2025 final
+GR00,Open loop pumping,735,0,2033,GR,ERAA 2025 final
+GR00,Pondage,0,0,2033,GR,ERAA 2025 final
+GR00,Reservoir,0,2.3,2033,GR,ERAA 2025 final
+GR00,Run of river,0,,2033,GR,ERAA 2025 final
+HR00,Open loop pumping,247.7,0.02,2033,HR,ERAA 2025 final
+HR00,Pondage,0,0,2033,HR,ERAA 2025 final
+HR00,Reservoir,0,2.05,2033,HR,ERAA 2025 final
+HR00,Run of river,0,,2033,HR,ERAA 2025 final
+HU00,Run of river,0,,2033,HU,ERAA 2025 final
+IE00,Closed loop pumping,292,0,2033,IE,ERAA 2025 final
+IE00,Run of river,0,,2033,IE,ERAA 2025 final
+ITCA,Reservoir,0,0.57,2033,IT,ERAA 2025 final
+ITCA,Run of river,0,,2033,IT,ERAA 2025 final
+ITCN,Reservoir,0,0.19,2033,IT,ERAA 2025 final
+ITCN,Run of river,0,,2033,IT,ERAA 2025 final
+ITCS,Closed loop pumping,985,0.01,2033,IT,ERAA 2025 final
+ITCS,Open loop pumping,333,0.09,2033,IT,ERAA 2025 final
+ITCS,Reservoir,0,0.8,2033,IT,ERAA 2025 final
+ITCS,Run of river,0,,2033,IT,ERAA 2025 final
+ITN1,Closed loop pumping,2377,0.03,2033,IT,ERAA 2025 final
+ITN1,Open loop pumping,1831,0.19,2033,IT,ERAA 2025 final
+ITN1,Reservoir,0,3.71,2033,IT,ERAA 2025 final
+ITN1,Run of river,0,,2033,IT,ERAA 2025 final
+ITS1,Reservoir,0,0.15,2033,IT,ERAA 2025 final
+ITSA,Closed loop pumping,242,0.01,2033,IT,ERAA 2025 final
+ITSA,Reservoir,0,0.14,2033,IT,ERAA 2025 final
+ITSA,Run of river,0,,2033,IT,ERAA 2025 final
+ITSI,Closed loop pumping,570,0,2033,IT,ERAA 2025 final
+ITSI,Open loop pumping,58,0,2033,IT,ERAA 2025 final
+ITSI,Reservoir,0,0.08,2033,IT,ERAA 2025 final
+ITSI,Run of river,0,,2033,IT,ERAA 2025 final
+LT00,Closed loop pumping,990,0.01,2033,LT,ERAA 2025 final
+LT00,Run of river,0,,2033,LT,ERAA 2025 final
+LUV1,Closed loop pumping,1100,0.01,2033,LU,ERAA 2025 final
+LV00,Pondage,0,0.02,2033,LV,ERAA 2025 final
+MD00,Run of river,0,,2033,,ERAA 2025 final
+ME00,Reservoir,0,1.11,2033,ME,ERAA 2025 final
+ME00,Run of river,0,,2033,ME,ERAA 2025 final
+MK00,Reservoir,0,0.6,2033,MK,ERAA 2025 final
+MK00,Run of river,0,,2033,MK,ERAA 2025 final
+NL00,Run of river,0,,2033,NL,ERAA 2025 final
+NOM1,Open loop pumping,76.00000001,1.04,2033,NO,ERAA 2025 final
+NOM1,Reservoir,0,7.78,2033,NO,ERAA 2025 final
+NOM1,Run of river,0,,2033,NO,ERAA 2025 final
+NON1,Reservoir,0,21.22,2033,NO,ERAA 2025 final
+NON1,Run of river,0,,2033,NO,ERAA 2025 final
+NOS1,Reservoir,0,19.94,2033,NO,ERAA 2025 final
+NOS1,Run of river,0,,2033,NO,ERAA 2025 final
+NOS2,Open loop pumping,252.1599999,6.92,2033,NO,ERAA 2025 final
+NOS2,Reservoir,0,23.02,2033,NO,ERAA 2025 final
+NOS2,Run of river,0,,2033,NO,ERAA 2025 final
+NOS3,Open loop pumping,430.86,3.37,2033,NO,ERAA 2025 final
+NOS3,Reservoir,0,10.12,2033,NO,ERAA 2025 final
+NOS3,Run of river,0,,2033,NO,ERAA 2025 final
+PL00,Closed loop pumping,1486,0.01,2033,PL,ERAA 2025 final
+PL00,Open loop pumping,84,0,2033,PL,ERAA 2025 final
+PL00,Reservoir,0,0,2033,PL,ERAA 2025 final
+PL00,Run of river,0,,2033,PL,ERAA 2025 final
+PT00,Open loop pumping,3837,2.23,2033,PT,ERAA 2025 final
+PT00,Pondage,0,0,2033,PT,ERAA 2025 final
+PT00,Reservoir,0,1.08,2033,PT,ERAA 2025 final
+PT00,Run of river,0,,2033,PT,ERAA 2025 final
+RO00,Pondage,0,0,2033,RO,ERAA 2025 final
+RO00,Reservoir,0,3.16,2033,RO,ERAA 2025 final
+RO00,Run of river,0,,2033,RO,ERAA 2025 final
+RS00,Closed loop pumping,1314,0.25,2033,RS,ERAA 2025 final
+RS00,Reservoir,0,0.65,2033,RS,ERAA 2025 final
+RS00,Run of river,0,,2033,RS,ERAA 2025 final
+SE01,Reservoir,0,14.43,2033,SE,ERAA 2025 final
+SE02,Reservoir,0,14.8,2033,SE,ERAA 2025 final
+SE03,Reservoir,0,2.64,2033,SE,ERAA 2025 final
+SE04,Reservoir,0,0.07,2033,SE,ERAA 2025 final
+SI00,Open loop pumping,464,0,2033,SI,ERAA 2025 final
+SI00,Pondage,0,0,2033,SI,ERAA 2025 final
+SI00,Run of river,0,,2033,SI,ERAA 2025 final
+SK00,Closed loop pumping,618,0,2033,SK,ERAA 2025 final
+SK00,Open loop pumping,178.28,0.05,2033,SK,ERAA 2025 final
+SK00,Pondage,0,0.01,2033,SK,ERAA 2025 final
+SK00,Reservoir,0,0.02,2033,SK,ERAA 2025 final
+SK00,Run of river,0,,2033,SK,ERAA 2025 final
+UK00,Closed loop pumping,4115.9,0.02,2033,UK,ERAA 2025 final
+UK00,Run of river,0,,2033,UK,ERAA 2025 final
+AL00,Reservoir,0,1.72,2035,AL,ERAA 2025 final
+AL00,Run of river,0,,2035,AL,ERAA 2025 final
+AT00,Closed loop pumping,300,0,2035,AT,ERAA 2025 final
+AT00,Open loop pumping,6037.42,1.96,2035,AT,ERAA 2025 final
+AT00,Pondage,0,0.01,2035,AT,ERAA 2025 final
+AT00,Reservoir,0,0.8,2035,AT,ERAA 2025 final
+AT00,Run of river,0,,2035,AT,ERAA 2025 final
+BA00,Open loop pumping,440,0,2035,BA,ERAA 2025 final
+BA00,Pondage,0,0,2035,BA,ERAA 2025 final
+BA00,Reservoir,0,1.75,2035,BA,ERAA 2025 final
+BA00,Run of river,0,,2035,BA,ERAA 2025 final
+BE00,Closed loop pumping,1226.76,0.01,2035,BE,ERAA 2025 final
+BE00,Run of river,0,,2035,BE,ERAA 2025 final
+BG00,Closed loop pumping,784,0.01,2035,BG,ERAA 2025 final
+BG00,Open loop pumping,514,0.39,2035,BG,ERAA 2025 final
+BG00,Reservoir,0,1.99,2035,BG,ERAA 2025 final
+BG00,Run of river,0,,2035,BG,ERAA 2025 final
+CH00,Closed loop pumping,1900,0.06,2035,CH,ERAA 2025 final
+CH00,Open loop pumping,2720,1.27,2035,CH,ERAA 2025 final
+CH00,Reservoir,0,9.13,2035,CH,ERAA 2025 final
+CH00,Run of river,0,,2035,CH,ERAA 2025 final
+CY00,Closed loop pumping,80,0,2035,CY,ERAA 2025 final
+CZ00,Closed loop pumping,664,0,2035,CZ,ERAA 2025 final
+CZ00,Open loop pumping,610,0,2035,CZ,ERAA 2025 final
+CZ00,Reservoir,0,0,2035,CZ,ERAA 2025 final
+CZ00,Run of river,0,,2035,CZ,ERAA 2025 final
+DE00,Closed loop pumping,7315.6,0.6,2035,DE,ERAA 2025 final
+DE00,Open loop pumping,1861.8,0.44,2035,DE,ERAA 2025 final
+DE00,Reservoir,0,0.24,2035,DE,ERAA 2025 final
+DE00,Run of river,0,,2035,DE,ERAA 2025 final
+ES00,Closed loop pumping,3831.77,0.11,2035,ES,ERAA 2025 final
+ES00,Open loop pumping,2897.400633,5.95,2035,ES,ERAA 2025 final
+ES00,Reservoir,0,13.34,2035,ES,ERAA 2025 final
+ES00,Run of river,0,,2035,ES,ERAA 2025 final
+FI00,Reservoir,0,5.53,2035,FI,ERAA 2025 final
+FR00,Closed loop pumping,1950,0.01,2035,FR,ERAA 2025 final
+FR00,Open loop pumping,2350,0.09,2035,FR,ERAA 2025 final
+FR00,Reservoir,0,10,2035,FR,ERAA 2025 final
+FR00,Run of river,0,,2035,FR,ERAA 2025 final
+GR00,Closed loop pumping,1223.5,0.01,2035,GR,ERAA 2025 final
+GR00,Open loop pumping,735,0,2035,GR,ERAA 2025 final
+GR00,Pondage,0,0,2035,GR,ERAA 2025 final
+GR00,Reservoir,0,2.3,2035,GR,ERAA 2025 final
+GR00,Run of river,0,,2035,GR,ERAA 2025 final
+HR00,Open loop pumping,247.7,0.02,2035,HR,ERAA 2025 final
+HR00,Pondage,0,0,2035,HR,ERAA 2025 final
+HR00,Reservoir,0,2.05,2035,HR,ERAA 2025 final
+HR00,Run of river,0,,2035,HR,ERAA 2025 final
+HU00,Run of river,0,,2035,HU,ERAA 2025 final
+IE00,Closed loop pumping,292,0,2035,IE,ERAA 2025 final
+IE00,Run of river,0,,2035,IE,ERAA 2025 final
+ITCA,Reservoir,0,0.57,2035,IT,ERAA 2025 final
+ITCA,Run of river,0,,2035,IT,ERAA 2025 final
+ITCN,Reservoir,0,0.19,2035,IT,ERAA 2025 final
+ITCN,Run of river,0,,2035,IT,ERAA 2025 final
+ITCS,Closed loop pumping,985,0.01,2035,IT,ERAA 2025 final
+ITCS,Open loop pumping,333,0.09,2035,IT,ERAA 2025 final
+ITCS,Reservoir,0,0.8,2035,IT,ERAA 2025 final
+ITCS,Run of river,0,,2035,IT,ERAA 2025 final
+ITN1,Closed loop pumping,2377,0.03,2035,IT,ERAA 2025 final
+ITN1,Open loop pumping,1831,0.19,2035,IT,ERAA 2025 final
+ITN1,Reservoir,0,3.71,2035,IT,ERAA 2025 final
+ITN1,Run of river,0,,2035,IT,ERAA 2025 final
+ITS1,Reservoir,0,0.15,2035,IT,ERAA 2025 final
+ITSA,Closed loop pumping,242,0.01,2035,IT,ERAA 2025 final
+ITSA,Reservoir,0,0.14,2035,IT,ERAA 2025 final
+ITSA,Run of river,0,,2035,IT,ERAA 2025 final
+ITSI,Closed loop pumping,570,0,2035,IT,ERAA 2025 final
+ITSI,Open loop pumping,58,0,2035,IT,ERAA 2025 final
+ITSI,Reservoir,0,0.08,2035,IT,ERAA 2025 final
+ITSI,Run of river,0,,2035,IT,ERAA 2025 final
+LT00,Closed loop pumping,990,0.01,2035,LT,ERAA 2025 final
+LT00,Run of river,0,,2035,LT,ERAA 2025 final
+LUV1,Closed loop pumping,1100,0.01,2035,LU,ERAA 2025 final
+LV00,Pondage,0,0.02,2035,LV,ERAA 2025 final
+MD00,Run of river,0,,2035,,ERAA 2025 final
+ME00,Reservoir,0,1.11,2035,ME,ERAA 2025 final
+ME00,Run of river,0,,2035,ME,ERAA 2025 final
+MK00,Open loop pumping,347.34,0.27,2035,MK,ERAA 2025 final
+MK00,Reservoir,0,0.6,2035,MK,ERAA 2025 final
+MK00,Run of river,0,,2035,MK,ERAA 2025 final
+NL00,Run of river,0,,2035,NL,ERAA 2025 final
+NOM1,Open loop pumping,76.00000001,1.04,2035,NO,ERAA 2025 final
+NOM1,Reservoir,0,7.8,2035,NO,ERAA 2025 final
+NOM1,Run of river,0,,2035,NO,ERAA 2025 final
+NON1,Reservoir,0,21.25,2035,NO,ERAA 2025 final
+NON1,Run of river,0,,2035,NO,ERAA 2025 final
+NOS1,Reservoir,0,20.26,2035,NO,ERAA 2025 final
+NOS1,Run of river,0,,2035,NO,ERAA 2025 final
+NOS2,Open loop pumping,252.1599999,6.92,2035,NO,ERAA 2025 final
+NOS2,Reservoir,0,22.98,2035,NO,ERAA 2025 final
+NOS2,Run of river,0,,2035,NO,ERAA 2025 final
+NOS3,Open loop pumping,430.86,3.37,2035,NO,ERAA 2025 final
+NOS3,Reservoir,0,9.96,2035,NO,ERAA 2025 final
+NOS3,Run of river,0,,2035,NO,ERAA 2025 final
+PL00,Closed loop pumping,1486,0.01,2035,PL,ERAA 2025 final
+PL00,Open loop pumping,84,0,2035,PL,ERAA 2025 final
+PL00,Reservoir,0,0,2035,PL,ERAA 2025 final
+PL00,Run of river,0,,2035,PL,ERAA 2025 final
+PT00,Open loop pumping,3837,2.23,2035,PT,ERAA 2025 final
+PT00,Pondage,0,0,2035,PT,ERAA 2025 final
+PT00,Reservoir,0,1.08,2035,PT,ERAA 2025 final
+PT00,Run of river,0,,2035,PT,ERAA 2025 final
+RO00,Closed loop pumping,800,0.01,2035,RO,ERAA 2025 final
+RO00,Pondage,0,0,2035,RO,ERAA 2025 final
+RO00,Reservoir,0,3.16,2035,RO,ERAA 2025 final
+RO00,Run of river,0,,2035,RO,ERAA 2025 final
+RS00,Closed loop pumping,1314,0.25,2035,RS,ERAA 2025 final
+RS00,Reservoir,0,0.65,2035,RS,ERAA 2025 final
+RS00,Run of river,0,,2035,RS,ERAA 2025 final
+SE01,Reservoir,0,14.43,2035,SE,ERAA 2025 final
+SE02,Reservoir,0,14.8,2035,SE,ERAA 2025 final
+SE03,Reservoir,0,2.64,2035,SE,ERAA 2025 final
+SE04,Reservoir,0,0.07,2035,SE,ERAA 2025 final
+SI00,Open loop pumping,664,0,2035,SI,ERAA 2025 final
+SI00,Pondage,0,0,2035,SI,ERAA 2025 final
+SI00,Run of river,0,,2035,SI,ERAA 2025 final
+SK00,Closed loop pumping,618,0,2035,SK,ERAA 2025 final
+SK00,Open loop pumping,178.28,0.05,2035,SK,ERAA 2025 final
+SK00,Pondage,0,0.01,2035,SK,ERAA 2025 final
+SK00,Reservoir,0,0.02,2035,SK,ERAA 2025 final
+SK00,Run of river,0,,2035,SK,ERAA 2025 final
+UK00,Closed loop pumping,4115.9,0.02,2035,UK,ERAA 2025 final
+UK00,Run of river,0,,2035,UK,ERAA 2025 final
+AL00,Reservoir,0,1.72,2028,AL,ERAA 2025 pre-CfE
+AL00,Run of river,0,,2028,AL,ERAA 2025 pre-CfE
+AT00,Open loop pumping,3687.42,1.74,2028,AT,ERAA 2025 pre-CfE
+AT00,Pondage,0,0.01,2028,AT,ERAA 2025 pre-CfE
+AT00,Reservoir,0,0.8,2028,AT,ERAA 2025 pre-CfE
+AT00,Run of river,0,,2028,AT,ERAA 2025 pre-CfE
+BA00,Open loop pumping,440,0,2028,BA,ERAA 2025 pre-CfE
+BA00,Pondage,0,0,2028,BA,ERAA 2025 pre-CfE
+BA00,Reservoir,0,1.75,2028,BA,ERAA 2025 pre-CfE
+BA00,Run of river,0,,2028,BA,ERAA 2025 pre-CfE
+BE00,Closed loop pumping,1226.76,0.01,2028,BE,ERAA 2025 pre-CfE
+BE00,Run of river,0,,2028,BE,ERAA 2025 pre-CfE
+BG00,Closed loop pumping,784,0.01,2028,BG,ERAA 2025 pre-CfE
+BG00,Open loop pumping,148,0.39,2028,BG,ERAA 2025 pre-CfE
+BG00,Reservoir,0,1.99,2028,BG,ERAA 2025 pre-CfE
+BG00,Run of river,0,,2028,BG,ERAA 2025 pre-CfE
+CH00,Closed loop pumping,1900,0.06,2028,CH,ERAA 2025 pre-CfE
+CH00,Open loop pumping,1805,1.02,2028,CH,ERAA 2025 pre-CfE
+CH00,Reservoir,0,7.82,2028,CH,ERAA 2025 pre-CfE
+CH00,Run of river,0,,2028,CH,ERAA 2025 pre-CfE
+CZ00,Closed loop pumping,664,0,2028,CZ,ERAA 2025 pre-CfE
+CZ00,Open loop pumping,440,0,2028,CZ,ERAA 2025 pre-CfE
+CZ00,Reservoir,0,0,2028,CZ,ERAA 2025 pre-CfE
+CZ00,Run of river,0,,2028,CZ,ERAA 2025 pre-CfE
+DE00,Closed loop pumping,6439.6,0.25,2028,DE,ERAA 2025 pre-CfE
+DE00,Open loop pumping,1861.8,0.44,2028,DE,ERAA 2025 pre-CfE
+DE00,Reservoir,0,0.24,2028,DE,ERAA 2025 pre-CfE
+DE00,Run of river,0,,2028,DE,ERAA 2025 pre-CfE
+ES00,Closed loop pumping,3141.03,0.1,2028,ES,ERAA 2025 pre-CfE
+ES00,Open loop pumping,2457.400633,5.94,2028,ES,ERAA 2025 pre-CfE
+ES00,Reservoir,0,13.34,2028,ES,ERAA 2025 pre-CfE
+ES00,Run of river,0,,2028,ES,ERAA 2025 pre-CfE
+FI00,Reservoir,0,5.53,2028,FI,ERAA 2025 pre-CfE
+FR00,Closed loop pumping,1950,0.01,2028,FR,ERAA 2025 pre-CfE
+FR00,Open loop pumping,1850,0.09,2028,FR,ERAA 2025 pre-CfE
+FR00,Reservoir,0,10,2028,FR,ERAA 2025 pre-CfE
+FR00,Run of river,0,,2028,FR,ERAA 2025 pre-CfE
+GR00,Closed loop pumping,730,0.01,2028,GR,ERAA 2025 pre-CfE
+GR00,Open loop pumping,735,0,2028,GR,ERAA 2025 pre-CfE
+GR00,Pondage,0,0,2028,GR,ERAA 2025 pre-CfE
+GR00,Reservoir,0,2.3,2028,GR,ERAA 2025 pre-CfE
+GR00,Run of river,0,,2028,GR,ERAA 2025 pre-CfE
+HR00,Open loop pumping,247.7,0.02,2028,HR,ERAA 2025 pre-CfE
+HR00,Pondage,0,0,2028,HR,ERAA 2025 pre-CfE
+HR00,Reservoir,0,2.05,2028,HR,ERAA 2025 pre-CfE
+HR00,Run of river,0,,2028,HR,ERAA 2025 pre-CfE
+HU00,Run of river,0,,2028,HU,ERAA 2025 pre-CfE
+IE00,Closed loop pumping,292,0,2028,IE,ERAA 2025 pre-CfE
+IE00,Run of river,0,,2028,IE,ERAA 2025 pre-CfE
+ITCA,Reservoir,0,0.57,2028,IT,ERAA 2025 pre-CfE
+ITCA,Run of river,0,,2028,IT,ERAA 2025 pre-CfE
+ITCN,Reservoir,0,0.19,2028,IT,ERAA 2025 pre-CfE
+ITCN,Run of river,0,,2028,IT,ERAA 2025 pre-CfE
+ITCS,Closed loop pumping,985,0,2028,IT,ERAA 2025 pre-CfE
+ITCS,Open loop pumping,333,0.09,2028,IT,ERAA 2025 pre-CfE
+ITCS,Reservoir,0,0.8,2028,IT,ERAA 2025 pre-CfE
+ITCS,Run of river,0,,2028,IT,ERAA 2025 pre-CfE
+ITN1,Closed loop pumping,2377,0.03,2028,IT,ERAA 2025 pre-CfE
+ITN1,Open loop pumping,1831,0.19,2028,IT,ERAA 2025 pre-CfE
+ITN1,Reservoir,0,3.71,2028,IT,ERAA 2025 pre-CfE
+ITN1,Run of river,0,,2028,IT,ERAA 2025 pre-CfE
+ITS1,Reservoir,0,0.15,2028,IT,ERAA 2025 pre-CfE
+ITS1,Run of river,0,,2028,IT,ERAA 2025 pre-CfE
+ITSA,Closed loop pumping,242,0.01,2028,IT,ERAA 2025 pre-CfE
+ITSA,Reservoir,0,0.14,2028,IT,ERAA 2025 pre-CfE
+ITSA,Run of river,0,,2028,IT,ERAA 2025 pre-CfE
+ITSI,Closed loop pumping,570,0,2028,IT,ERAA 2025 pre-CfE
+ITSI,Open loop pumping,58,0,2028,IT,ERAA 2025 pre-CfE
+ITSI,Run of river,0,,2028,IT,ERAA 2025 pre-CfE
+LT00,Closed loop pumping,990,0.01,2028,LT,ERAA 2025 pre-CfE
+LT00,Run of river,0,,2028,LT,ERAA 2025 pre-CfE
+LUG1,Run of river,0,,2028,LU,ERAA 2025 pre-CfE
+LUV1,Closed loop pumping,1100,0.01,2028,LU,ERAA 2025 pre-CfE
+LV00,Pondage,0,0.02,2028,LV,ERAA 2025 pre-CfE
+MD00,Run of river,0,,2028,,ERAA 2025 pre-CfE
+ME00,Reservoir,0,1.11,2028,ME,ERAA 2025 pre-CfE
+ME00,Run of river,0,,2028,ME,ERAA 2025 pre-CfE
+MK00,Reservoir,0,0.6,2028,MK,ERAA 2025 pre-CfE
+MK00,Run of river,0,,2028,MK,ERAA 2025 pre-CfE
+NL00,Run of river,0,,2028,NL,ERAA 2025 pre-CfE
+NOM1,Open loop pumping,76.00000001,1.26,2028,NO,ERAA 2025 pre-CfE
+NOM1,Reservoir,0,11.63,2028,NO,ERAA 2025 pre-CfE
+NOM1,Run of river,0,,2028,NO,ERAA 2025 pre-CfE
+NON1,Open loop pumping,3.58000008,1.65,2028,NO,ERAA 2025 pre-CfE
+NON1,Reservoir,0,31.02,2028,NO,ERAA 2025 pre-CfE
+NON1,Run of river,0,,2028,NO,ERAA 2025 pre-CfE
+NOS1,Open loop pumping,5.687999904,0.31,2028,NO,ERAA 2025 pre-CfE
+NOS1,Reservoir,0,29.95,2028,NO,ERAA 2025 pre-CfE
+NOS1,Run of river,0,,2028,NO,ERAA 2025 pre-CfE
+NOS2,Open loop pumping,252.1599999,7.73,2028,NO,ERAA 2025 pre-CfE
+NOS2,Reservoir,0,37.05,2028,NO,ERAA 2025 pre-CfE
+NOS2,Run of river,0,,2028,NO,ERAA 2025 pre-CfE
+NOS3,Open loop pumping,430.86,3.37,2028,NO,ERAA 2025 pre-CfE
+NOS3,Reservoir,0,18.15,2028,NO,ERAA 2025 pre-CfE
+NOS3,Run of river,0,,2028,NO,ERAA 2025 pre-CfE
+PL00,Closed loop pumping,1486,0.01,2028,PL,ERAA 2025 pre-CfE
+PL00,Open loop pumping,84,0,2028,PL,ERAA 2025 pre-CfE
+PL00,Reservoir,0,0,2028,PL,ERAA 2025 pre-CfE
+PL00,Run of river,0,,2028,PL,ERAA 2025 pre-CfE
+PT00,Open loop pumping,3587,2.02,2028,PT,ERAA 2025 pre-CfE
+PT00,Pondage,0,0,2028,PT,ERAA 2025 pre-CfE
+PT00,Reservoir,0,1.29,2028,PT,ERAA 2025 pre-CfE
+PT00,Run of river,0,,2028,PT,ERAA 2025 pre-CfE
+RO00,Pondage,0,,2028,RO,ERAA 2025 pre-CfE
+RO00,Reservoir,0,3.16,2028,RO,ERAA 2025 pre-CfE
+RO00,Run of river,0,,2028,RO,ERAA 2025 pre-CfE
+RS00,Closed loop pumping,560,0.19,2028,RS,ERAA 2025 pre-CfE
+RS00,Reservoir,0,0.65,2028,RS,ERAA 2025 pre-CfE
+RS00,Run of river,0,,2028,RS,ERAA 2025 pre-CfE
+SE01,Reservoir,0,14.43,2028,SE,ERAA 2025 pre-CfE
+SE02,Reservoir,0,14.8,2028,SE,ERAA 2025 pre-CfE
+SE03,Reservoir,0,2.64,2028,SE,ERAA 2025 pre-CfE
+SE04,Reservoir,0,0.07,2028,SE,ERAA 2025 pre-CfE
+SI00,Pondage,0,0,2028,SI,ERAA 2025 pre-CfE
+SI00,Reservoir,0,0,2028,SI,ERAA 2025 pre-CfE
+SI00,Run of river,0,,2028,SI,ERAA 2025 pre-CfE
+SK00,Closed loop pumping,630,0,2028,SK,ERAA 2025 pre-CfE
+SK00,Open loop pumping,178.28,0.05,2028,SK,ERAA 2025 pre-CfE
+SK00,Pondage,0,0.01,2028,SK,ERAA 2025 pre-CfE
+SK00,Reservoir,0,0.02,2028,SK,ERAA 2025 pre-CfE
+SK00,Run of river,0,,2028,SK,ERAA 2025 pre-CfE
+UK00,Closed loop pumping,2744,0.02,2028,UK,ERAA 2025 pre-CfE
+UK00,Run of river,0,,2028,UK,ERAA 2025 pre-CfE
+UKNI,Run of river,0,,2028,UK,ERAA 2025 pre-CfE
+AL00,Reservoir,0,1.72,2030,AL,ERAA 2025 pre-CfE
+AL00,Run of river,0,,2030,AL,ERAA 2025 pre-CfE
+AT00,Closed loop pumping,300,0,2030,AT,ERAA 2025 pre-CfE
+AT00,Open loop pumping,5127.42,1.75,2030,AT,ERAA 2025 pre-CfE
+AT00,Pondage,0,0.01,2030,AT,ERAA 2025 pre-CfE
+AT00,Reservoir,0,0.8,2030,AT,ERAA 2025 pre-CfE
+AT00,Run of river,0,,2030,AT,ERAA 2025 pre-CfE
+BA00,Open loop pumping,440,0,2030,BA,ERAA 2025 pre-CfE
+BA00,Pondage,0,0,2030,BA,ERAA 2025 pre-CfE
+BA00,Reservoir,0,1.75,2030,BA,ERAA 2025 pre-CfE
+BA00,Run of river,0,,2030,BA,ERAA 2025 pre-CfE
+BE00,Closed loop pumping,1226.76,0.01,2030,BE,ERAA 2025 pre-CfE
+BE00,Run of river,0,,2030,BE,ERAA 2025 pre-CfE
+BG00,Closed loop pumping,784,0.01,2030,BG,ERAA 2025 pre-CfE
+BG00,Open loop pumping,148,0.39,2030,BG,ERAA 2025 pre-CfE
+BG00,Reservoir,0,1.99,2030,BG,ERAA 2025 pre-CfE
+BG00,Run of river,0,,2030,BG,ERAA 2025 pre-CfE
+CH00,Closed loop pumping,1900,0.06,2030,CH,ERAA 2025 pre-CfE
+CH00,Open loop pumping,1813.2,1.19,2030,CH,ERAA 2025 pre-CfE
+CH00,Reservoir,0,8.91,2030,CH,ERAA 2025 pre-CfE
+CH00,Run of river,0,,2030,CH,ERAA 2025 pre-CfE
+CZ00,Closed loop pumping,664,0,2030,CZ,ERAA 2025 pre-CfE
+CZ00,Open loop pumping,525,0,2030,CZ,ERAA 2025 pre-CfE
+CZ00,Reservoir,0,0,2030,CZ,ERAA 2025 pre-CfE
+CZ00,Run of river,0,,2030,CZ,ERAA 2025 pre-CfE
+DE00,Closed loop pumping,6715.6,0.6,2030,DE,ERAA 2025 pre-CfE
+DE00,Open loop pumping,1861.8,0.44,2030,DE,ERAA 2025 pre-CfE
+DE00,Reservoir,0,0.24,2030,DE,ERAA 2025 pre-CfE
+DE00,Run of river,0,,2030,DE,ERAA 2025 pre-CfE
+ES00,Closed loop pumping,6532.35,0.17,2030,ES,ERAA 2025 pre-CfE
+ES00,Open loop pumping,2897.400633,5.84,2030,ES,ERAA 2025 pre-CfE
+ES00,Reservoir,0,13.34,2030,ES,ERAA 2025 pre-CfE
+ES00,Run of river,0,,2030,ES,ERAA 2025 pre-CfE
+FI00,Reservoir,0,5.53,2030,FI,ERAA 2025 pre-CfE
+FR00,Closed loop pumping,1950,0.01,2030,FR,ERAA 2025 pre-CfE
+FR00,Open loop pumping,1850,0.09,2030,FR,ERAA 2025 pre-CfE
+FR00,Reservoir,0,10,2030,FR,ERAA 2025 pre-CfE
+FR00,Run of river,0,,2030,FR,ERAA 2025 pre-CfE
+GR00,Closed loop pumping,730,0.01,2030,GR,ERAA 2025 pre-CfE
+GR00,Open loop pumping,735,0,2030,GR,ERAA 2025 pre-CfE
+GR00,Pondage,0,0,2030,GR,ERAA 2025 pre-CfE
+GR00,Reservoir,0,2.3,2030,GR,ERAA 2025 pre-CfE
+GR00,Run of river,0,,2030,GR,ERAA 2025 pre-CfE
+HR00,Open loop pumping,247.7,0.02,2030,HR,ERAA 2025 pre-CfE
+HR00,Pondage,0,0,2030,HR,ERAA 2025 pre-CfE
+HR00,Reservoir,0,2.05,2030,HR,ERAA 2025 pre-CfE
+HR00,Run of river,0,,2030,HR,ERAA 2025 pre-CfE
+HU00,Run of river,0,,2030,HU,ERAA 2025 pre-CfE
+IE00,Closed loop pumping,292,0,2030,IE,ERAA 2025 pre-CfE
+IE00,Run of river,0,,2030,IE,ERAA 2025 pre-CfE
+ITCA,Reservoir,0,0.57,2030,IT,ERAA 2025 pre-CfE
+ITCA,Run of river,0,,2030,IT,ERAA 2025 pre-CfE
+ITCN,Reservoir,0,0.19,2030,IT,ERAA 2025 pre-CfE
+ITCN,Run of river,0,,2030,IT,ERAA 2025 pre-CfE
+ITCS,Closed loop pumping,985,0.01,2030,IT,ERAA 2025 pre-CfE
+ITCS,Open loop pumping,333,0.09,2030,IT,ERAA 2025 pre-CfE
+ITCS,Reservoir,0,0.8,2030,IT,ERAA 2025 pre-CfE
+ITCS,Run of river,0,,2030,IT,ERAA 2025 pre-CfE
+ITN1,Closed loop pumping,2377,0.03,2030,IT,ERAA 2025 pre-CfE
+ITN1,Open loop pumping,1831,0.19,2030,IT,ERAA 2025 pre-CfE
+ITN1,Reservoir,0,3.71,2030,IT,ERAA 2025 pre-CfE
+ITN1,Run of river,0,,2030,IT,ERAA 2025 pre-CfE
+ITS1,Reservoir,0,0.15,2030,IT,ERAA 2025 pre-CfE
+ITS1,Run of river,0,,2030,IT,ERAA 2025 pre-CfE
+ITSA,Closed loop pumping,242,0.01,2030,IT,ERAA 2025 pre-CfE
+ITSA,Reservoir,0,0.14,2030,IT,ERAA 2025 pre-CfE
+ITSA,Run of river,0,,2030,IT,ERAA 2025 pre-CfE
+ITSI,Closed loop pumping,570,0,2030,IT,ERAA 2025 pre-CfE
+ITSI,Open loop pumping,58,0,2030,IT,ERAA 2025 pre-CfE
+ITSI,Run of river,0,,2030,IT,ERAA 2025 pre-CfE
+LT00,Closed loop pumping,990,0.01,2030,LT,ERAA 2025 pre-CfE
+LT00,Run of river,0,,2030,LT,ERAA 2025 pre-CfE
+LUG1,Run of river,0,,2030,LU,ERAA 2025 pre-CfE
+LUV1,Closed loop pumping,1100,0.01,2030,LU,ERAA 2025 pre-CfE
+LV00,Pondage,0,0.02,2030,LV,ERAA 2025 pre-CfE
+MD00,Run of river,0,,2030,,ERAA 2025 pre-CfE
+ME00,Reservoir,0,1.11,2030,ME,ERAA 2025 pre-CfE
+ME00,Run of river,0,,2030,ME,ERAA 2025 pre-CfE
+MK00,Reservoir,0,0.6,2030,MK,ERAA 2025 pre-CfE
+MK00,Run of river,0,,2030,MK,ERAA 2025 pre-CfE
+NL00,Run of river,0,,2030,NL,ERAA 2025 pre-CfE
+NOM1,Open loop pumping,76.00000001,1.26,2030,NO,ERAA 2025 pre-CfE
+NOM1,Reservoir,0,11.93,2030,NO,ERAA 2025 pre-CfE
+NOM1,Run of river,0,,2030,NO,ERAA 2025 pre-CfE
+NON1,Open loop pumping,3.58000008,1.65,2030,NO,ERAA 2025 pre-CfE
+NON1,Reservoir,0,31.31,2030,NO,ERAA 2025 pre-CfE
+NON1,Run of river,0,,2030,NO,ERAA 2025 pre-CfE
+NOS1,Open loop pumping,5.687999904,0.31,2030,NO,ERAA 2025 pre-CfE
+NOS1,Reservoir,0,30.62,2030,NO,ERAA 2025 pre-CfE
+NOS1,Run of river,0,,2030,NO,ERAA 2025 pre-CfE
+NOS2,Open loop pumping,252.1599999,7.73,2030,NO,ERAA 2025 pre-CfE
+NOS2,Reservoir,0,37.62,2030,NO,ERAA 2025 pre-CfE
+NOS2,Run of river,0,,2030,NO,ERAA 2025 pre-CfE
+NOS3,Open loop pumping,430.86,3.37,2030,NO,ERAA 2025 pre-CfE
+NOS3,Reservoir,0,18.38,2030,NO,ERAA 2025 pre-CfE
+NOS3,Run of river,0,,2030,NO,ERAA 2025 pre-CfE
+PL00,Closed loop pumping,1486,0.01,2030,PL,ERAA 2025 pre-CfE
+PL00,Open loop pumping,84,0,2030,PL,ERAA 2025 pre-CfE
+PL00,Reservoir,0,0,2030,PL,ERAA 2025 pre-CfE
+PL00,Run of river,0,,2030,PL,ERAA 2025 pre-CfE
+PT00,Open loop pumping,3837,2.02,2030,PT,ERAA 2025 pre-CfE
+PT00,Pondage,0,0,2030,PT,ERAA 2025 pre-CfE
+PT00,Reservoir,0,1.29,2030,PT,ERAA 2025 pre-CfE
+PT00,Run of river,0,,2030,PT,ERAA 2025 pre-CfE
+RO00,Pondage,0,,2030,RO,ERAA 2025 pre-CfE
+RO00,Reservoir,0,3.16,2030,RO,ERAA 2025 pre-CfE
+RO00,Run of river,0,,2030,RO,ERAA 2025 pre-CfE
+RS00,Closed loop pumping,560,0.25,2030,RS,ERAA 2025 pre-CfE
+RS00,Reservoir,0,0.65,2030,RS,ERAA 2025 pre-CfE
+RS00,Run of river,0,,2030,RS,ERAA 2025 pre-CfE
+SE01,Reservoir,0,14.43,2030,SE,ERAA 2025 pre-CfE
+SE02,Reservoir,0,14.8,2030,SE,ERAA 2025 pre-CfE
+SE03,Reservoir,0,2.64,2030,SE,ERAA 2025 pre-CfE
+SE04,Reservoir,0,0.07,2030,SE,ERAA 2025 pre-CfE
+SI00,Pondage,0,0,2030,SI,ERAA 2025 pre-CfE
+SI00,Reservoir,0,0,2030,SI,ERAA 2025 pre-CfE
+SI00,Run of river,0,,2030,SI,ERAA 2025 pre-CfE
+SK00,Closed loop pumping,660,0,2030,SK,ERAA 2025 pre-CfE
+SK00,Open loop pumping,178.28,0.05,2030,SK,ERAA 2025 pre-CfE
+SK00,Pondage,0,0.01,2030,SK,ERAA 2025 pre-CfE
+SK00,Reservoir,0,0.02,2030,SK,ERAA 2025 pre-CfE
+SK00,Run of river,0,,2030,SK,ERAA 2025 pre-CfE
+UK00,Closed loop pumping,3566,0.02,2030,UK,ERAA 2025 pre-CfE
+UK00,Run of river,0,,2030,UK,ERAA 2025 pre-CfE
+UKNI,Run of river,0,,2030,UK,ERAA 2025 pre-CfE
+AL00,Reservoir,0,1.72,2033,AL,ERAA 2025 pre-CfE
+AL00,Run of river,0,,2033,AL,ERAA 2025 pre-CfE
+AT00,Closed loop pumping,300,0,2033,AT,ERAA 2025 pre-CfE
+AT00,Open loop pumping,5637.42,1.75,2033,AT,ERAA 2025 pre-CfE
+AT00,Pondage,0,0.01,2033,AT,ERAA 2025 pre-CfE
+AT00,Reservoir,0,0.8,2033,AT,ERAA 2025 pre-CfE
+AT00,Run of river,0,,2033,AT,ERAA 2025 pre-CfE
+BA00,Open loop pumping,440,0,2033,BA,ERAA 2025 pre-CfE
+BA00,Pondage,0,0,2033,BA,ERAA 2025 pre-CfE
+BA00,Reservoir,0,1.75,2033,BA,ERAA 2025 pre-CfE
+BA00,Run of river,0,,2033,BA,ERAA 2025 pre-CfE
+BE00,Closed loop pumping,1226.76,0.01,2033,BE,ERAA 2025 pre-CfE
+BE00,Run of river,0,,2033,BE,ERAA 2025 pre-CfE
+BG00,Closed loop pumping,784,0.01,2033,BG,ERAA 2025 pre-CfE
+BG00,Open loop pumping,148,0.39,2033,BG,ERAA 2025 pre-CfE
+BG00,Reservoir,0,1.99,2033,BG,ERAA 2025 pre-CfE
+BG00,Run of river,0,,2033,BG,ERAA 2025 pre-CfE
+CH00,Closed loop pumping,1900,0.06,2033,CH,ERAA 2025 pre-CfE
+CH00,Open loop pumping,2388,1.24,2033,CH,ERAA 2025 pre-CfE
+CH00,Reservoir,0,8.91,2033,CH,ERAA 2025 pre-CfE
+CH00,Run of river,0,,2033,CH,ERAA 2025 pre-CfE
+CY00,Closed loop pumping,40,0,2033,CY,ERAA 2025 pre-CfE
+CZ00,Closed loop pumping,664,0,2033,CZ,ERAA 2025 pre-CfE
+CZ00,Open loop pumping,610,0,2033,CZ,ERAA 2025 pre-CfE
+CZ00,Reservoir,0,0,2033,CZ,ERAA 2025 pre-CfE
+CZ00,Run of river,0,,2033,CZ,ERAA 2025 pre-CfE
+DE00,Closed loop pumping,6915.6,0.6,2033,DE,ERAA 2025 pre-CfE
+DE00,Open loop pumping,1861.8,0.44,2033,DE,ERAA 2025 pre-CfE
+DE00,Reservoir,0,0.24,2033,DE,ERAA 2025 pre-CfE
+DE00,Run of river,0,,2033,DE,ERAA 2025 pre-CfE
+ES00,Closed loop pumping,7232.35,0.17,2033,ES,ERAA 2025 pre-CfE
+ES00,Open loop pumping,2897.400633,5.84,2033,ES,ERAA 2025 pre-CfE
+ES00,Reservoir,0,13.34,2033,ES,ERAA 2025 pre-CfE
+ES00,Run of river,0,,2033,ES,ERAA 2025 pre-CfE
+FI00,Reservoir,0,5.53,2033,FI,ERAA 2025 pre-CfE
+FR00,Closed loop pumping,1950,0.01,2033,FR,ERAA 2025 pre-CfE
+FR00,Open loop pumping,1850,0.09,2033,FR,ERAA 2025 pre-CfE
+FR00,Reservoir,0,10,2033,FR,ERAA 2025 pre-CfE
+FR00,Run of river,0,,2033,FR,ERAA 2025 pre-CfE
+GR00,Closed loop pumping,1223.5,0.01,2033,GR,ERAA 2025 pre-CfE
+GR00,Open loop pumping,735,0,2033,GR,ERAA 2025 pre-CfE
+GR00,Pondage,0,0,2033,GR,ERAA 2025 pre-CfE
+GR00,Reservoir,0,2.3,2033,GR,ERAA 2025 pre-CfE
+GR00,Run of river,0,,2033,GR,ERAA 2025 pre-CfE
+HR00,Open loop pumping,247.7,0.02,2033,HR,ERAA 2025 pre-CfE
+HR00,Pondage,0,0,2033,HR,ERAA 2025 pre-CfE
+HR00,Reservoir,0,2.05,2033,HR,ERAA 2025 pre-CfE
+HR00,Run of river,0,,2033,HR,ERAA 2025 pre-CfE
+HU00,Run of river,0,,2033,HU,ERAA 2025 pre-CfE
+IE00,Closed loop pumping,292,0,2033,IE,ERAA 2025 pre-CfE
+IE00,Run of river,0,,2033,IE,ERAA 2025 pre-CfE
+ITCA,Reservoir,0,0.57,2033,IT,ERAA 2025 pre-CfE
+ITCA,Run of river,0,,2033,IT,ERAA 2025 pre-CfE
+ITCN,Reservoir,0,0.19,2033,IT,ERAA 2025 pre-CfE
+ITCN,Run of river,0,,2033,IT,ERAA 2025 pre-CfE
+ITCS,Closed loop pumping,985,0.01,2033,IT,ERAA 2025 pre-CfE
+ITCS,Open loop pumping,333,0.09,2033,IT,ERAA 2025 pre-CfE
+ITCS,Reservoir,0,0.8,2033,IT,ERAA 2025 pre-CfE
+ITCS,Run of river,0,,2033,IT,ERAA 2025 pre-CfE
+ITN1,Closed loop pumping,2377,0.03,2033,IT,ERAA 2025 pre-CfE
+ITN1,Open loop pumping,1831,0.19,2033,IT,ERAA 2025 pre-CfE
+ITN1,Reservoir,0,3.71,2033,IT,ERAA 2025 pre-CfE
+ITN1,Run of river,0,,2033,IT,ERAA 2025 pre-CfE
+ITS1,Reservoir,0,0.15,2033,IT,ERAA 2025 pre-CfE
+ITS1,Run of river,0,,2033,IT,ERAA 2025 pre-CfE
+ITSA,Closed loop pumping,242,0.01,2033,IT,ERAA 2025 pre-CfE
+ITSA,Reservoir,0,0.14,2033,IT,ERAA 2025 pre-CfE
+ITSA,Run of river,0,,2033,IT,ERAA 2025 pre-CfE
+ITSI,Closed loop pumping,570,0,2033,IT,ERAA 2025 pre-CfE
+ITSI,Open loop pumping,58,0,2033,IT,ERAA 2025 pre-CfE
+ITSI,Run of river,0,,2033,IT,ERAA 2025 pre-CfE
+LT00,Closed loop pumping,990,0.01,2033,LT,ERAA 2025 pre-CfE
+LT00,Run of river,0,,2033,LT,ERAA 2025 pre-CfE
+LUG1,Run of river,0,,2033,LU,ERAA 2025 pre-CfE
+LUV1,Closed loop pumping,1100,0.01,2033,LU,ERAA 2025 pre-CfE
+LV00,Pondage,0,0.02,2033,LV,ERAA 2025 pre-CfE
+MD00,Run of river,0,,2033,,ERAA 2025 pre-CfE
+ME00,Reservoir,0,1.11,2033,ME,ERAA 2025 pre-CfE
+ME00,Run of river,0,,2033,ME,ERAA 2025 pre-CfE
+MK00,Reservoir,0,0.6,2033,MK,ERAA 2025 pre-CfE
+MK00,Run of river,0,,2033,MK,ERAA 2025 pre-CfE
+NL00,Run of river,0,,2033,NL,ERAA 2025 pre-CfE
+NOM1,Open loop pumping,76.00000001,1.26,2033,NO,ERAA 2025 pre-CfE
+NOM1,Reservoir,0,11.93,2033,NO,ERAA 2025 pre-CfE
+NOM1,Run of river,0,,2033,NO,ERAA 2025 pre-CfE
+NON1,Open loop pumping,3.58000008,1.65,2033,NO,ERAA 2025 pre-CfE
+NON1,Reservoir,0,31.31,2033,NO,ERAA 2025 pre-CfE
+NON1,Run of river,0,,2033,NO,ERAA 2025 pre-CfE
+NOS1,Open loop pumping,5.687999904,0.31,2033,NO,ERAA 2025 pre-CfE
+NOS1,Reservoir,0,30.62,2033,NO,ERAA 2025 pre-CfE
+NOS1,Run of river,0,,2033,NO,ERAA 2025 pre-CfE
+NOS2,Open loop pumping,252.1599999,7.73,2033,NO,ERAA 2025 pre-CfE
+NOS2,Reservoir,0,37.62,2033,NO,ERAA 2025 pre-CfE
+NOS2,Run of river,0,,2033,NO,ERAA 2025 pre-CfE
+NOS3,Open loop pumping,430.86,3.37,2033,NO,ERAA 2025 pre-CfE
+NOS3,Reservoir,0,18.38,2033,NO,ERAA 2025 pre-CfE
+NOS3,Run of river,0,,2033,NO,ERAA 2025 pre-CfE
+PL00,Closed loop pumping,1486,0.01,2033,PL,ERAA 2025 pre-CfE
+PL00,Open loop pumping,84,0,2033,PL,ERAA 2025 pre-CfE
+PL00,Reservoir,0,0,2033,PL,ERAA 2025 pre-CfE
+PL00,Run of river,0,,2033,PL,ERAA 2025 pre-CfE
+PT00,Open loop pumping,3837,2.02,2033,PT,ERAA 2025 pre-CfE
+PT00,Pondage,0,0,2033,PT,ERAA 2025 pre-CfE
+PT00,Reservoir,0,1.29,2033,PT,ERAA 2025 pre-CfE
+PT00,Run of river,0,,2033,PT,ERAA 2025 pre-CfE
+RO00,Pondage,0,,2033,RO,ERAA 2025 pre-CfE
+RO00,Reservoir,0,3.16,2033,RO,ERAA 2025 pre-CfE
+RO00,Run of river,0,,2033,RO,ERAA 2025 pre-CfE
+RS00,Closed loop pumping,1314,0.25,2033,RS,ERAA 2025 pre-CfE
+RS00,Reservoir,0,0.65,2033,RS,ERAA 2025 pre-CfE
+RS00,Run of river,0,,2033,RS,ERAA 2025 pre-CfE
+SE01,Reservoir,0,14.43,2033,SE,ERAA 2025 pre-CfE
+SE02,Reservoir,0,14.8,2033,SE,ERAA 2025 pre-CfE
+SE03,Reservoir,0,2.64,2033,SE,ERAA 2025 pre-CfE
+SE04,Reservoir,0,0.07,2033,SE,ERAA 2025 pre-CfE
+SI00,Open loop pumping,464,0,2033,SI,ERAA 2025 pre-CfE
+SI00,Pondage,0,0,2033,SI,ERAA 2025 pre-CfE
+SI00,Reservoir,0,0,2033,SI,ERAA 2025 pre-CfE
+SI00,Run of river,0,,2033,SI,ERAA 2025 pre-CfE
+SK00,Closed loop pumping,660,0,2033,SK,ERAA 2025 pre-CfE
+SK00,Open loop pumping,178.28,0.05,2033,SK,ERAA 2025 pre-CfE
+SK00,Pondage,0,0.01,2033,SK,ERAA 2025 pre-CfE
+SK00,Reservoir,0,0.02,2033,SK,ERAA 2025 pre-CfE
+SK00,Run of river,0,,2033,SK,ERAA 2025 pre-CfE
+UK00,Closed loop pumping,4115.9,0.02,2033,UK,ERAA 2025 pre-CfE
+UK00,Run of river,0,,2033,UK,ERAA 2025 pre-CfE
+UKNI,Run of river,0,,2033,UK,ERAA 2025 pre-CfE
+AL00,Reservoir,0,1.72,2035,AL,ERAA 2025 pre-CfE
+AL00,Run of river,0,,2035,AL,ERAA 2025 pre-CfE
+AT00,Closed loop pumping,300,0,2035,AT,ERAA 2025 pre-CfE
+AT00,Open loop pumping,6037.42,1.96,2035,AT,ERAA 2025 pre-CfE
+AT00,Pondage,0,0.01,2035,AT,ERAA 2025 pre-CfE
+AT00,Reservoir,0,0.8,2035,AT,ERAA 2025 pre-CfE
+AT00,Run of river,0,,2035,AT,ERAA 2025 pre-CfE
+BA00,Open loop pumping,440,0,2035,BA,ERAA 2025 pre-CfE
+BA00,Pondage,0,0,2035,BA,ERAA 2025 pre-CfE
+BA00,Reservoir,0,1.75,2035,BA,ERAA 2025 pre-CfE
+BA00,Run of river,0,,2035,BA,ERAA 2025 pre-CfE
+BE00,Closed loop pumping,1226.76,0.01,2035,BE,ERAA 2025 pre-CfE
+BE00,Run of river,0,,2035,BE,ERAA 2025 pre-CfE
+BG00,Closed loop pumping,784,0.01,2035,BG,ERAA 2025 pre-CfE
+BG00,Open loop pumping,514,0.39,2035,BG,ERAA 2025 pre-CfE
+BG00,Reservoir,0,1.99,2035,BG,ERAA 2025 pre-CfE
+BG00,Run of river,0,,2035,BG,ERAA 2025 pre-CfE
+CH00,Closed loop pumping,1900,0.06,2035,CH,ERAA 2025 pre-CfE
+CH00,Open loop pumping,2720,1.27,2035,CH,ERAA 2025 pre-CfE
+CH00,Reservoir,0,9.13,2035,CH,ERAA 2025 pre-CfE
+CH00,Run of river,0,,2035,CH,ERAA 2025 pre-CfE
+CY00,Closed loop pumping,80,0,2035,CY,ERAA 2025 pre-CfE
+CZ00,Closed loop pumping,664,0,2035,CZ,ERAA 2025 pre-CfE
+CZ00,Open loop pumping,610,0,2035,CZ,ERAA 2025 pre-CfE
+CZ00,Reservoir,0,0,2035,CZ,ERAA 2025 pre-CfE
+CZ00,Run of river,0,,2035,CZ,ERAA 2025 pre-CfE
+DE00,Closed loop pumping,7315.6,0.6,2035,DE,ERAA 2025 pre-CfE
+DE00,Open loop pumping,1861.8,0.44,2035,DE,ERAA 2025 pre-CfE
+DE00,Reservoir,0,0.24,2035,DE,ERAA 2025 pre-CfE
+DE00,Run of river,0,,2035,DE,ERAA 2025 pre-CfE
+ES00,Closed loop pumping,7232.35,0.17,2035,ES,ERAA 2025 pre-CfE
+ES00,Open loop pumping,2897.400633,5.84,2035,ES,ERAA 2025 pre-CfE
+ES00,Reservoir,0,13.34,2035,ES,ERAA 2025 pre-CfE
+ES00,Run of river,0,,2035,ES,ERAA 2025 pre-CfE
+FI00,Reservoir,0,5.53,2035,FI,ERAA 2025 pre-CfE
+FR00,Closed loop pumping,1950,0.01,2035,FR,ERAA 2025 pre-CfE
+FR00,Open loop pumping,2350,0.09,2035,FR,ERAA 2025 pre-CfE
+FR00,Reservoir,0,10,2035,FR,ERAA 2025 pre-CfE
+FR00,Run of river,0,,2035,FR,ERAA 2025 pre-CfE
+GR00,Closed loop pumping,1223.5,0.01,2035,GR,ERAA 2025 pre-CfE
+GR00,Open loop pumping,735,0,2035,GR,ERAA 2025 pre-CfE
+GR00,Pondage,0,0,2035,GR,ERAA 2025 pre-CfE
+GR00,Reservoir,0,2.3,2035,GR,ERAA 2025 pre-CfE
+GR00,Run of river,0,,2035,GR,ERAA 2025 pre-CfE
+HR00,Open loop pumping,247.7,0.02,2035,HR,ERAA 2025 pre-CfE
+HR00,Pondage,0,0,2035,HR,ERAA 2025 pre-CfE
+HR00,Reservoir,0,2.05,2035,HR,ERAA 2025 pre-CfE
+HR00,Run of river,0,,2035,HR,ERAA 2025 pre-CfE
+HU00,Run of river,0,,2035,HU,ERAA 2025 pre-CfE
+IE00,Closed loop pumping,292,0,2035,IE,ERAA 2025 pre-CfE
+IE00,Run of river,0,,2035,IE,ERAA 2025 pre-CfE
+ITCA,Reservoir,0,0.57,2035,IT,ERAA 2025 pre-CfE
+ITCA,Run of river,0,,2035,IT,ERAA 2025 pre-CfE
+ITCN,Reservoir,0,0.19,2035,IT,ERAA 2025 pre-CfE
+ITCN,Run of river,0,,2035,IT,ERAA 2025 pre-CfE
+ITCS,Closed loop pumping,985,0.01,2035,IT,ERAA 2025 pre-CfE
+ITCS,Open loop pumping,333,0.09,2035,IT,ERAA 2025 pre-CfE
+ITCS,Reservoir,0,0.8,2035,IT,ERAA 2025 pre-CfE
+ITCS,Run of river,0,,2035,IT,ERAA 2025 pre-CfE
+ITN1,Closed loop pumping,2377,0.03,2035,IT,ERAA 2025 pre-CfE
+ITN1,Open loop pumping,1831,0.19,2035,IT,ERAA 2025 pre-CfE
+ITN1,Reservoir,0,3.71,2035,IT,ERAA 2025 pre-CfE
+ITN1,Run of river,0,,2035,IT,ERAA 2025 pre-CfE
+ITS1,Reservoir,0,0.15,2035,IT,ERAA 2025 pre-CfE
+ITS1,Run of river,0,,2035,IT,ERAA 2025 pre-CfE
+ITSA,Closed loop pumping,242,0.01,2035,IT,ERAA 2025 pre-CfE
+ITSA,Reservoir,0,0.14,2035,IT,ERAA 2025 pre-CfE
+ITSA,Run of river,0,,2035,IT,ERAA 2025 pre-CfE
+ITSI,Closed loop pumping,570,0,2035,IT,ERAA 2025 pre-CfE
+ITSI,Open loop pumping,58,0,2035,IT,ERAA 2025 pre-CfE
+ITSI,Run of river,0,,2035,IT,ERAA 2025 pre-CfE
+LT00,Closed loop pumping,990,0.01,2035,LT,ERAA 2025 pre-CfE
+LT00,Run of river,0,,2035,LT,ERAA 2025 pre-CfE
+LUG1,Run of river,0,,2035,LU,ERAA 2025 pre-CfE
+LUV1,Closed loop pumping,1100,0.01,2035,LU,ERAA 2025 pre-CfE
+LV00,Pondage,0,0.02,2035,LV,ERAA 2025 pre-CfE
+MD00,Run of river,0,,2035,,ERAA 2025 pre-CfE
+ME00,Reservoir,0,1.11,2035,ME,ERAA 2025 pre-CfE
+ME00,Run of river,0,,2035,ME,ERAA 2025 pre-CfE
+MK00,Open loop pumping,347.34,0.27,2035,MK,ERAA 2025 pre-CfE
+MK00,Reservoir,0,0.6,2035,MK,ERAA 2025 pre-CfE
+MK00,Run of river,0,,2035,MK,ERAA 2025 pre-CfE
+NL00,Run of river,0,,2035,NL,ERAA 2025 pre-CfE
+NOM1,Open loop pumping,76.00000001,1.26,2035,NO,ERAA 2025 pre-CfE
+NOM1,Reservoir,0,12.15,2035,NO,ERAA 2025 pre-CfE
+NOM1,Run of river,0,,2035,NO,ERAA 2025 pre-CfE
+NON1,Open loop pumping,3.58000008,1.65,2035,NO,ERAA 2025 pre-CfE
+NON1,Reservoir,0,31.52,2035,NO,ERAA 2025 pre-CfE
+NON1,Run of river,0,,2035,NO,ERAA 2025 pre-CfE
+NOS1,Open loop pumping,5.687999904,0.31,2035,NO,ERAA 2025 pre-CfE
+NOS1,Reservoir,0,31.11,2035,NO,ERAA 2025 pre-CfE
+NOS1,Run of river,0,,2035,NO,ERAA 2025 pre-CfE
+NOS2,Open loop pumping,252.1599999,7.73,2035,NO,ERAA 2025 pre-CfE
+NOS2,Reservoir,0,38.05,2035,NO,ERAA 2025 pre-CfE
+NOS2,Run of river,0,,2035,NO,ERAA 2025 pre-CfE
+NOS3,Open loop pumping,430.86,3.37,2035,NO,ERAA 2025 pre-CfE
+NOS3,Reservoir,0,18.54,2035,NO,ERAA 2025 pre-CfE
+NOS3,Run of river,0,,2035,NO,ERAA 2025 pre-CfE
+PL00,Closed loop pumping,1486,0.01,2035,PL,ERAA 2025 pre-CfE
+PL00,Open loop pumping,84,0,2035,PL,ERAA 2025 pre-CfE
+PL00,Reservoir,0,0,2035,PL,ERAA 2025 pre-CfE
+PL00,Run of river,0,,2035,PL,ERAA 2025 pre-CfE
+PT00,Open loop pumping,3837,2.02,2035,PT,ERAA 2025 pre-CfE
+PT00,Pondage,0,0,2035,PT,ERAA 2025 pre-CfE
+PT00,Reservoir,0,1.29,2035,PT,ERAA 2025 pre-CfE
+PT00,Run of river,0,,2035,PT,ERAA 2025 pre-CfE
+RO00,Pondage,0,,2035,RO,ERAA 2025 pre-CfE
+RO00,Reservoir,0,3.16,2035,RO,ERAA 2025 pre-CfE
+RO00,Run of river,0,,2035,RO,ERAA 2025 pre-CfE
+RS00,Closed loop pumping,1314,0.25,2035,RS,ERAA 2025 pre-CfE
+RS00,Reservoir,0,0.65,2035,RS,ERAA 2025 pre-CfE
+RS00,Run of river,0,,2035,RS,ERAA 2025 pre-CfE
+SE01,Reservoir,0,14.43,2035,SE,ERAA 2025 pre-CfE
+SE02,Reservoir,0,14.8,2035,SE,ERAA 2025 pre-CfE
+SE03,Reservoir,0,2.64,2035,SE,ERAA 2025 pre-CfE
+SE04,Reservoir,0,0.07,2035,SE,ERAA 2025 pre-CfE
+SI00,Open loop pumping,664,0,2035,SI,ERAA 2025 pre-CfE
+SI00,Pondage,0,0,2035,SI,ERAA 2025 pre-CfE
+SI00,Reservoir,0,0,2035,SI,ERAA 2025 pre-CfE
+SI00,Run of river,0,,2035,SI,ERAA 2025 pre-CfE
+SK00,Closed loop pumping,660,0,2035,SK,ERAA 2025 pre-CfE
+SK00,Open loop pumping,178.28,0.05,2035,SK,ERAA 2025 pre-CfE
+SK00,Pondage,0,0.01,2035,SK,ERAA 2025 pre-CfE
+SK00,Reservoir,0,0.02,2035,SK,ERAA 2025 pre-CfE
+SK00,Run of river,0,,2035,SK,ERAA 2025 pre-CfE
+UK00,Closed loop pumping,4115.9,0.02,2035,UK,ERAA 2025 pre-CfE
+UK00,Run of river,0,,2035,UK,ERAA 2025 pre-CfE
+UKNI,Run of river,0,,2035,UK,ERAA 2025 pre-CfE

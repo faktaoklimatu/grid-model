@@ -1,0 +1,16 @@
+name,region,Price,Demand
+Základní,CZ,91.313,66.478
+Základní,DE,91.636,590.797
+Základní,PL,94.941,169.314
+Základní+,CZ,89.075,66.478
+Základní+,DE,89.644,590.797
+Základní+,PL,94.58,169.314
+Bez Sev.en,CZ,91.547,66.478
+Bez Sev.en,DE,91.661,590.797
+Bez Sev.en,PL,95.01,169.314
+Bez Sev.en a SUAS,CZ,93.363,66.478
+Bez Sev.en a SUAS,DE,91.744,590.797
+Bez Sev.en a SUAS,PL,96.429,169.314
+Stresový,CZ,128.609,66.478
+Stresový,DE,128.417,590.797
+Stresový,PL,128.34,169.314

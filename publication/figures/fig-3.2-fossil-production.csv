@@ -1,0 +1,21 @@
+name,region,source_group,production_TWh
+Základní,CZ,"Uhlí, teplárny",4.827
+Základní,CZ,"Uhlí, elektrárny",1.07
+Základní,CZ,"Zemní plyn, teplárny",4.717
+Základní,CZ,"Zemní plyn, elektrárny",4.691
+Základní+,CZ,"Uhlí, teplárny",4.759
+Základní+,CZ,"Uhlí, elektrárny",1.01
+Základní+,CZ,"Zemní plyn, teplárny",4.625
+Základní+,CZ,"Zemní plyn, elektrárny",4.446
+Bez Sev.en,CZ,"Uhlí, teplárny",4.53
+Bez Sev.en,CZ,"Uhlí, elektrárny",1.123
+Bez Sev.en,CZ,"Zemní plyn, teplárny",4.605
+Bez Sev.en,CZ,"Zemní plyn, elektrárny",4.696
+Bez Sev.en a SUAS,CZ,"Uhlí, teplárny",4.028
+Bez Sev.en a SUAS,CZ,"Uhlí, elektrárny",1.183
+Bez Sev.en a SUAS,CZ,"Zemní plyn, teplárny",3.979
+Bez Sev.en a SUAS,CZ,"Zemní plyn, elektrárny",4.704
+Stresový,CZ,"Uhlí, teplárny",4.048
+Stresový,CZ,"Uhlí, elektrárny",2.038
+Stresový,CZ,"Zemní plyn, teplárny",3.989
+Stresový,CZ,"Zemní plyn, elektrárny",4.938

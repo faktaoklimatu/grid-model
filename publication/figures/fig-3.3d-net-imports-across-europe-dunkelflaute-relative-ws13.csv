@@ -1,0 +1,33 @@
+region,net_import_TWh,demand_TWh,country_name
+AT,-0.118,3.528,Rakousko
+BA,-0.107,0.524,Bosna a Hercegovina
+BE,0.914,4.307,Belgie
+BG,0.141,1.79,Bulharsko
+CH,-0.874,3.216,Švýcarsko
+CZ,0.507,2.986,Česko
+DE,3.777,27.94,Německo
+DK,0.456,2.298,Dánsko
+EE,0.175,0.434,Estonsko
+ES,-0.539,11.85,Španělsko
+FI,0.258,4.101,Finsko
+FR,-0.542,27.249,Francie
+GB,-1.303,15.835,Spojené království
+GR,-0.464,2.372,Řecko
+HR,-0.323,0.709,Chorvatsko
+HU,0.314,2.154,Maďarsko
+IE,-0.033,1.769,Irsko
+IT,-1.212,13.845,Itálie
+LT,-0.131,0.671,Litva
+LU,0.314,0.359,Lucembursko
+LV,-0.015,0.298,Lotyšsko
+ME,-0.086,0.15,Černá Hora
+MK,0.093,0.38,Severní Makedonie
+NL,0.326,6.877,Nizozemsko
+NO,-1.183,7.084,Norsko
+PL,-0.568,7.499,Polsko
+PT,0.087,2.589,Portugalsko
+RO,-0.547,2.445,Rumunsko
+RS,1.113,2.226,Srbsko
+SE,-1.152,7.414,Švédsko
+SI,0.063,0.707,Slovinsko
+SK,0.053,1.383,Slovensko

@@ -1,0 +1,369 @@
+MARKET_NODE,OP_STAT,MAX LOAD CAP (MW),STORAGE CAPACITY (MWh),TARGET_YEAR,Country,data_version
+AT00,Available on market,916,1832,2028,AT,ERAA 2025 final
+AT00,Out of market - for PV/battery dispatch optimization,2619.988,5239.976,2028,AT,ERAA 2025 final
+BE00,Available on market,1200.62728,4091.277896,2028,BE,ERAA 2025 final
+BG00,Available on market,848.4,1820,2028,BG,ERAA 2025 final
+CH00,Out of market - for PV/battery dispatch optimization,2131,1060,2028,CH,ERAA 2025 final
+CY00,Available on market,160,400,2028,CY,ERAA 2025 final
+CZ00,Available on market,1255.99,2511.99,2028,CZ,ERAA 2025 final
+DE00,Available on market,15021.71,30077.475,2028,DE,ERAA 2025 final
+DE00,Out of market - for PV/battery dispatch optimization,22009.3,45119.065,2028,DE,ERAA 2025 final
+DKE1,Available on market,225.43,450.84,2028,DK,ERAA 2025 final
+DKW1,Available on market,211.79,423.58,2028,DK,ERAA 2025 final
+EE00,Available on market,258,518,2028,EE,ERAA 2025 final
+ES00,Available on market,2285.52,5841.04,2028,ES,ERAA 2025 final
+FI00,Available on market,1911.1,3344.425,2028,FI,ERAA 2025 final
+GR00,Available on market,1800,4500,2028,GR,ERAA 2025 final
+HR00,Available on market,66,66,2028,HR,ERAA 2025 final
+HU00,Available on market,504.7519667,1009.503933,2028,HU,ERAA 2025 final
+HU00,Out of market - for PV/battery dispatch optimization,79.01333333,221.2373333,2028,HU,ERAA 2025 final
+IE00,Available on market,539,1610,2028,IE,ERAA 2025 final
+ITCA,Available on market,150.4,326.4,2028,IT,ERAA 2025 final
+ITCN,Available on market,589.4,1400.25,2028,IT,ERAA 2025 final
+ITCS,Available on market,1268.549,3124.976,2028,IT,ERAA 2025 final
+ITN1,Available on market,4817.547,12937.57548,2028,IT,ERAA 2025 final
+ITS1,Available on market,422.799,946.596,2028,IT,ERAA 2025 final
+ITSA,Available on market,1035.9,3599.115,2028,IT,ERAA 2025 final
+ITSI,Available on market,482.198,1233.692,2028,IT,ERAA 2025 final
+LT00,Available on market,1120,3427.7,2028,LT,ERAA 2025 final
+LT00,Out of market - primary purpose other operational activities,200,200,2028,LT,ERAA 2025 final
+LUG1,Out of market - for PV/battery dispatch optimization,10,10,2028,LU,ERAA 2025 final
+LV00,Available on market,170,340,2028,LV,ERAA 2025 final
+MT00,Available on market,40,84,2028,MT,ERAA 2025 final
+NL00,Available on market,6434.4,12928.8,2028,NL,ERAA 2025 final
+PL00,Available on market,2113,9008,2028,PL,ERAA 2025 final
+PT00,Available on market,300,1200,2028,PT,ERAA 2025 final
+RO00,Available on market,1400,2800,2028,RO,ERAA 2025 final
+RS00,Available on market,622.49,1978.56,2028,RS,ERAA 2025 final
+SE01,Available on market,50,2,2028,SE,ERAA 2025 final
+SE02,Available on market,50,82,2028,SE,ERAA 2025 final
+SE03,Available on market,50,582,2028,SE,ERAA 2025 final
+SE04,Available on market,50,560,2028,SE,ERAA 2025 final
+SI00,Available on market,285.0833333,513.15,2028,SI,ERAA 2025 final
+SK00,Available on market,230,460,2028,SK,ERAA 2025 final
+UK00,Available on market,22039.01,38670.86,2028,UK,ERAA 2025 final
+UKNI,Available on market,100,140,2028,UK,ERAA 2025 final
+AT00,Available on market,1300,2600,2030,AT,ERAA 2025 final
+AT00,Out of market - for PV/battery dispatch optimization,3699.99,7399.98,2030,AT,ERAA 2025 final
+BE00,Available on market,2327.691176,7391.487363,2030,BE,ERAA 2025 final
+BG00,Available on market,1228.4,2680,2030,BG,ERAA 2025 final
+CH00,Out of market - for PV/battery dispatch optimization,2297,1150,2030,CH,ERAA 2025 final
+CY00,Available on market,160,400,2030,CY,ERAA 2025 final
+CZ00,Available on market,1722.6,3445.2,2030,CZ,ERAA 2025 final
+DE00,Available on market,20953.54,42310.325,2030,DE,ERAA 2025 final
+DE00,Out of market - for PV/battery dispatch optimization,27181.7,58440.655,2030,DE,ERAA 2025 final
+DKE1,Available on market,257.87,515.74,2030,DK,ERAA 2025 final
+DKW1,Available on market,569.43,16498.86,2030,DK,ERAA 2025 final
+EE00,Available on market,1000,2000,2030,EE,ERAA 2025 final
+ES00,Available on market,2558.52,6387.04,2030,ES,ERAA 2025 final
+FI00,Available on market,3111.1,6222.2,2030,FI,ERAA 2025 final
+GR00,Available on market,2977.5,7561.5,2030,GR,ERAA 2025 final
+GR03,Available on market,50,130,2030,GR,ERAA 2025 final
+HR00,Available on market,66,66,2030,HR,ERAA 2025 final
+HU00,Available on market,538.4515667,1076.903133,2030,HU,ERAA 2025 final
+HU00,Out of market - for PV/battery dispatch optimization,118.9633333,333.0973333,2030,HU,ERAA 2025 final
+IE00,Available on market,539,1610,2030,IE,ERAA 2025 final
+ITCA,Available on market,561.8,3557,2030,IT,ERAA 2025 final
+ITCN,Available on market,652.2,1568.85,2030,IT,ERAA 2025 final
+ITCS,Available on market,2087.149,9308.776,2030,IT,ERAA 2025 final
+ITN1,Available on market,5189.147,13933.37548,2030,IT,ERAA 2025 final
+ITS1,Available on market,2534.199,17777.196,2030,IT,ERAA 2025 final
+ITSA,Available on market,2353.1,14045.115,2030,IT,ERAA 2025 final
+ITSI,Available on market,2210.798,14910.292,2030,IT,ERAA 2025 final
+LT00,Available on market,1360,4205.7,2030,LT,ERAA 2025 final
+LT00,Out of market - primary purpose other operational activities,200,200,2030,LT,ERAA 2025 final
+LUG1,Out of market - for PV/battery dispatch optimization,25,25,2030,LU,ERAA 2025 final
+LV00,Available on market,220,440,2030,LV,ERAA 2025 final
+MK00,Available on market,80,320,2030,MK,ERAA 2025 final
+MT00,Available on market,40,84,2030,MT,ERAA 2025 final
+NL00,Available on market,9130,52717,2030,NL,ERAA 2025 final
+PL00,Available on market,6110,26992,2030,PL,ERAA 2025 final
+PT00,Available on market,2000,8000,2030,PT,ERAA 2025 final
+RO00,Available on market,2000,4000,2030,RO,ERAA 2025 final
+RS00,Available on market,622.49,1978.56,2030,RS,ERAA 2025 final
+SE01,Available on market,50,3.73,2030,SE,ERAA 2025 final
+SE02,Available on market,50,94.72,2030,SE,ERAA 2025 final
+SE03,Available on market,50,692.39,2030,SE,ERAA 2025 final
+SE04,Available on market,50,637.28,2030,SE,ERAA 2025 final
+SI00,Available on market,448.0833333,806.55,2030,SI,ERAA 2025 final
+SK00,Available on market,386,779,2030,SK,ERAA 2025 final
+UK00,Available on market,24700.37,43639.78,2030,UK,ERAA 2025 final
+UKNI,Available on market,100,140,2030,UK,ERAA 2025 final
+AT00,Available on market,2680,5360,2033,AT,ERAA 2025 final
+AT00,Out of market - for PV/battery dispatch optimization,4389.993,8779.986,2033,AT,ERAA 2025 final
+BE00,Available on market,3269,10166.10501,2033,BE,ERAA 2025 final
+BG00,Available on market,1228.4,2680,2033,BG,ERAA 2025 final
+CH00,Out of market - for PV/battery dispatch optimization,2719,1350,2033,CH,ERAA 2025 final
+CY00,Available on market,160,400,2033,CY,ERAA 2025 final
+CZ00,Available on market,1907.66,3815.32,2033,CZ,ERAA 2025 final
+DE00,Available on market,31466.77,65128.1,2033,DE,ERAA 2025 final
+DE00,Out of market - for PV/battery dispatch optimization,33324.8,76647.04,2033,DE,ERAA 2025 final
+DKE1,Available on market,282.64,565.28,2033,DK,ERAA 2025 final
+DKW1,Available on market,615.11,16590.21,2033,DK,ERAA 2025 final
+EE00,Available on market,1000,2000,2033,EE,ERAA 2025 final
+ES00,Available on market,2767.92,6805.84,2033,ES,ERAA 2025 final
+FI00,Available on market,4111.1,8222.2,2033,FI,ERAA 2025 final
+GR00,Available on market,4800,12239.25,2033,GR,ERAA 2025 final
+GR03,Available on market,110,284,2033,GR,ERAA 2025 final
+HR00,Available on market,66,66,2033,HR,ERAA 2025 final
+HU00,Available on market,538.4515667,1076.903133,2033,HU,ERAA 2025 final
+HU00,Out of market - for PV/battery dispatch optimization,179.1533333,501.6293333,2033,HU,ERAA 2025 final
+IE00,Available on market,539,1610,2033,IE,ERAA 2025 final
+ITCA,Available on market,764,5120.3,2033,IT,ERAA 2025 final
+ITCN,Available on market,708.3,1719.15,2033,IT,ERAA 2025 final
+ITCS,Available on market,2508.349,12352.876,2033,IT,ERAA 2025 final
+ITN1,Available on market,5520.647,14821.67548,2033,IT,ERAA 2025 final
+ITS1,Available on market,3432.399,24908.496,2033,IT,ERAA 2025 final
+ITSA,Available on market,2632.4,16198.215,2033,IT,ERAA 2025 final
+ITSI,Available on market,2932.298,20546.692,2033,IT,ERAA 2025 final
+LT00,Available on market,1710,4885.7,2033,LT,ERAA 2025 final
+LT00,Out of market - primary purpose other operational activities,200,200,2033,LT,ERAA 2025 final
+LUG1,Out of market - for PV/battery dispatch optimization,32.5,32.5,2033,LU,ERAA 2025 final
+LV00,Available on market,220,440,2033,LV,ERAA 2025 final
+MK00,Available on market,80,320,2033,MK,ERAA 2025 final
+MT00,Available on market,40,84,2033,MT,ERAA 2025 final
+NL00,Available on market,16587.2,132078.6,2033,NL,ERAA 2025 final
+PL00,Available on market,6110,26992,2033,PL,ERAA 2025 final
+PT00,Available on market,2300,9200,2033,PT,ERAA 2025 final
+RO00,Available on market,2000,4000,2033,RO,ERAA 2025 final
+RS00,Available on market,622.49,1978.56,2033,RS,ERAA 2025 final
+SE01,Available on market,50,13.492,2033,SE,ERAA 2025 final
+SE02,Available on market,50,114.688,2033,SE,ERAA 2025 final
+SE03,Available on market,50,936.956,2033,SE,ERAA 2025 final
+SE04,Available on market,50,706.712,2033,SE,ERAA 2025 final
+SI00,Available on market,770.5833333,1387.05,2033,SI,ERAA 2025 final
+SK00,Available on market,664,1384,2033,SK,ERAA 2025 final
+UK00,Available on market,25511.02,45221.26,2033,UK,ERAA 2025 final
+UKNI,Available on market,100,140,2033,UK,ERAA 2025 final
+AT00,Available on market,3600,7200,2035,AT,ERAA 2025 final
+AT00,Out of market - for PV/battery dispatch optimization,4849.995,9699.99,2035,AT,ERAA 2025 final
+BE00,Available on market,3851,12199.10501,2035,BE,ERAA 2025 final
+BG00,Available on market,1228.4,2680,2035,BG,ERAA 2025 final
+CH00,Out of market - for PV/battery dispatch optimization,2986,1490,2035,CH,ERAA 2025 final
+CY00,Available on market,160,400,2035,CY,ERAA 2025 final
+CZ00,Available on market,2031.03,4062.06,2035,CZ,ERAA 2025 final
+DE00,Available on market,39552.58,83695.88,2035,DE,ERAA 2025 final
+DE00,Out of market - for PV/battery dispatch optimization,36343.2,87223.68,2035,DE,ERAA 2025 final
+DKE1,Available on market,293.68,587.36,2035,DK,ERAA 2025 final
+DKW1,Available on market,625.31,16610.61,2035,DK,ERAA 2025 final
+EE00,Available on market,1500,3000,2035,EE,ERAA 2025 final
+ES00,Available on market,2907.52,7085.04,2035,ES,ERAA 2025 final
+FI00,Available on market,4711.1,11777.75,2035,FI,ERAA 2025 final
+GR00,Available on market,6015,15337.5,2035,GR,ERAA 2025 final
+GR03,Available on market,150,386,2035,GR,ERAA 2025 final
+HR00,Available on market,66,66,2035,HR,ERAA 2025 final
+HU00,Available on market,538.4515667,1076.903133,2035,HU,ERAA 2025 final
+HU00,Out of market - for PV/battery dispatch optimization,221.5774802,620.4169444,2035,HU,ERAA 2025 final
+IE00,Available on market,539,1610,2035,IE,ERAA 2025 final
+ITCA,Available on market,898.8,6162.5,2035,IT,ERAA 2025 final
+ITCN,Available on market,745.7,1819.35,2035,IT,ERAA 2025 final
+ITCS,Available on market,2789.149,14382.276,2035,IT,ERAA 2025 final
+ITN1,Available on market,5741.647,15413.87548,2035,IT,ERAA 2025 final
+ITS1,Available on market,4031.199,29662.696,2035,IT,ERAA 2025 final
+ITSA,Available on market,2818.6,17633.615,2035,IT,ERAA 2025 final
+ITSI,Available on market,3413.298,24304.292,2035,IT,ERAA 2025 final
+LT00,Available on market,1810,5175.7,2035,LT,ERAA 2025 final
+LT00,Out of market - primary purpose other operational activities,200,200,2035,LT,ERAA 2025 final
+LUG1,Out of market - for PV/battery dispatch optimization,37.5,37.5,2035,LU,ERAA 2025 final
+LV00,Available on market,420,840,2035,LV,ERAA 2025 final
+MK00,Available on market,80,320,2035,MK,ERAA 2025 final
+MT00,Available on market,40,84,2035,MT,ERAA 2025 final
+NL00,Available on market,21744,209418,2035,NL,ERAA 2025 final
+PL00,Available on market,6110,26992,2035,PL,ERAA 2025 final
+PT00,Available on market,2500,10000,2035,PT,ERAA 2025 final
+RO00,Available on market,2000,4000,2035,RO,ERAA 2025 final
+RS00,Available on market,622.49,1978.56,2035,RS,ERAA 2025 final
+SE01,Available on market,50,20,2035,SE,ERAA 2025 final
+SE02,Available on market,50,128,2035,SE,ERAA 2025 final
+SE03,Available on market,50,1100,2035,SE,ERAA 2025 final
+SE04,Available on market,50,753,2035,SE,ERAA 2025 final
+SI00,Available on market,985.5833333,1774.05,2035,SI,ERAA 2025 final
+SK00,Available on market,799,1723,2035,SK,ERAA 2025 final
+UK00,Available on market,26280.16,46550.93,2035,UK,ERAA 2025 final
+UKNI,Available on market,100,140,2035,UK,ERAA 2025 final
+AT00,Available on market,916,1832,2028,AT,ERAA 2025 pre-CfE
+AT00,Out of market - for PV/battery dispatch optimization,2619.988,5239.976,2028,AT,ERAA 2025 pre-CfE
+BE00,Available on market,1156.62728,3925.25456,2028,BE,ERAA 2025 pre-CfE
+BG00,Available on market,848.4,1820,2028,BG,ERAA 2025 pre-CfE
+CH00,Out of market - for PV/battery dispatch optimization,2131,1060,2028,CH,ERAA 2025 pre-CfE
+CY00,Available on market,160,400,2028,CY,ERAA 2025 pre-CfE
+CZ00,Available on market,1255.99,2511.99,2028,CZ,ERAA 2025 pre-CfE
+DE00,Available on market,15021.71,30077.475,2028,DE,ERAA 2025 pre-CfE
+DE00,Out of market - for PV/battery dispatch optimization,22009.3,45119.065,2028,DE,ERAA 2025 pre-CfE
+DKE1,Available on market,225.43,450.84,2028,DK,ERAA 2025 pre-CfE
+DKW1,Available on market,211.79,423.58,2028,DK,ERAA 2025 pre-CfE
+EE00,Available on market,200,400,2028,EE,ERAA 2025 pre-CfE
+ES00,Available on market,3286.3,7640.6,2028,ES,ERAA 2025 pre-CfE
+FI00,Available on market,1911.1,3344.425,2028,FI,ERAA 2025 pre-CfE
+FR00,Available on market,470,940,2028,FR,ERAA 2025 pre-CfE
+GR00,Available on market,1800,4500,2028,GR,ERAA 2025 pre-CfE
+HR00,Available on market,66,66,2028,HR,ERAA 2025 pre-CfE
+HU00,Available on market,504.7519667,1009.503933,2028,HU,ERAA 2025 pre-CfE
+HU00,Out of market - for PV/battery dispatch optimization,79.01333333,221.2373333,2028,HU,ERAA 2025 pre-CfE
+IE00,Available on market,539,1610,2028,IE,ERAA 2025 pre-CfE
+ITCA,Available on market,152.8,334.7,2028,IT,ERAA 2025 pre-CfE
+ITCN,Available on market,540.6,1208.3,2028,IT,ERAA 2025 pre-CfE
+ITCS,Available on market,1131.7,2617.31,2028,IT,ERAA 2025 pre-CfE
+ITN1,Available on market,4133.25,10348.96468,2028,IT,ERAA 2025 pre-CfE
+ITS1,Available on market,372.8,816.6,2028,IT,ERAA 2025 pre-CfE
+ITSA,Available on market,1038.93,3611.2653,2028,IT,ERAA 2025 pre-CfE
+ITSI,Available on market,362.2,753.7,2028,IT,ERAA 2025 pre-CfE
+LT00,Available on market,1120,3427.7,2028,LT,ERAA 2025 pre-CfE
+LT00,Out of market - primary purpose other operational activities,200,200,2028,LT,ERAA 2025 pre-CfE
+LUG1,Out of market - for PV/battery dispatch optimization,10,10,2028,LU,ERAA 2025 pre-CfE
+LV00,Available on market,170,340,2028,LV,ERAA 2025 pre-CfE
+MT00,Available on market,40,84,2028,MT,ERAA 2025 pre-CfE
+NL00,Available on market,6434.4,12928.8,2028,NL,ERAA 2025 pre-CfE
+PL00,Available on market,2113,9008,2028,PL,ERAA 2025 pre-CfE
+PT00,Available on market,300,1200,2028,PT,ERAA 2025 pre-CfE
+RO00,Available on market,900,1800,2028,RO,ERAA 2025 pre-CfE
+RS00,Available on market,622.49,1978.56,2028,RS,ERAA 2025 pre-CfE
+SE01,Available on market,50,2,2028,SE,ERAA 2025 pre-CfE
+SE02,Available on market,50,82,2028,SE,ERAA 2025 pre-CfE
+SE03,Available on market,50,582,2028,SE,ERAA 2025 pre-CfE
+SE04,Available on market,50,560,2028,SE,ERAA 2025 pre-CfE
+SI00,Available on market,203.5833333,366.45,2028,SI,ERAA 2025 pre-CfE
+SK00,Available on market,230,460,2028,SK,ERAA 2025 pre-CfE
+UK00,Available on market,22039.01,38670.86,2028,UK,ERAA 2025 pre-CfE
+UKNI,Available on market,100,140,2028,UK,ERAA 2025 pre-CfE
+AT00,Available on market,1300,2600,2030,AT,ERAA 2025 pre-CfE
+AT00,Out of market - for PV/battery dispatch optimization,3699.99,7399.98,2030,AT,ERAA 2025 pre-CfE
+BE00,Available on market,2242.691176,7185.382353,2030,BE,ERAA 2025 pre-CfE
+BG00,Available on market,1228.4,2680,2030,BG,ERAA 2025 pre-CfE
+CH00,Out of market - for PV/battery dispatch optimization,2297,1150,2030,CH,ERAA 2025 pre-CfE
+CY00,Available on market,160,400,2030,CY,ERAA 2025 pre-CfE
+CZ00,Available on market,1722.6,3445.2,2030,CZ,ERAA 2025 pre-CfE
+DE00,Available on market,20953.54,42310.325,2030,DE,ERAA 2025 pre-CfE
+DE00,Out of market - for PV/battery dispatch optimization,27181.7,58440.655,2030,DE,ERAA 2025 pre-CfE
+DKE1,Available on market,257.87,515.74,2030,DK,ERAA 2025 pre-CfE
+DKW1,Available on market,569.43,16498.86,2030,DK,ERAA 2025 pre-CfE
+EE00,Available on market,1000,2000,2030,EE,ERAA 2025 pre-CfE
+ES00,Available on market,7675.3,20026.6,2030,ES,ERAA 2025 pre-CfE
+FI00,Available on market,3111.1,6222.2,2030,FI,ERAA 2025 pre-CfE
+FR00,Available on market,470,940,2030,FR,ERAA 2025 pre-CfE
+GR00,Available on market,2977.5,7561.5,2030,GR,ERAA 2025 pre-CfE
+GR03,Available on market,50,130,2030,GR,ERAA 2025 pre-CfE
+HR00,Available on market,66,66,2030,HR,ERAA 2025 pre-CfE
+HU00,Available on market,538.4515667,1076.903133,2030,HU,ERAA 2025 pre-CfE
+HU00,Out of market - for PV/battery dispatch optimization,118.9633333,333.0973333,2030,HU,ERAA 2025 pre-CfE
+IE00,Available on market,539,1610,2030,IE,ERAA 2025 pre-CfE
+ITCA,Available on market,564.2,3565.3,2030,IT,ERAA 2025 pre-CfE
+ITCN,Available on market,603.4,1376.9,2030,IT,ERAA 2025 pre-CfE
+ITCS,Available on market,1950.3,8801.11,2030,IT,ERAA 2025 pre-CfE
+ITN1,Available on market,4504.85,11344.76468,2030,IT,ERAA 2025 pre-CfE
+ITS1,Available on market,2484.2,17647.2,2030,IT,ERAA 2025 pre-CfE
+ITSA,Available on market,2356.13,14057.2653,2030,IT,ERAA 2025 pre-CfE
+ITSI,Available on market,2090.8,14430.3,2030,IT,ERAA 2025 pre-CfE
+LT00,Available on market,1360,4205.7,2030,LT,ERAA 2025 pre-CfE
+LT00,Out of market - primary purpose other operational activities,200,200,2030,LT,ERAA 2025 pre-CfE
+LUG1,Out of market - for PV/battery dispatch optimization,25,25,2030,LU,ERAA 2025 pre-CfE
+LV00,Available on market,220,440,2030,LV,ERAA 2025 pre-CfE
+MK00,Available on market,80,320,2030,MK,ERAA 2025 pre-CfE
+MT00,Available on market,40,84,2030,MT,ERAA 2025 pre-CfE
+NL00,Available on market,9130,52717,2030,NL,ERAA 2025 pre-CfE
+PL00,Available on market,6110,26992,2030,PL,ERAA 2025 pre-CfE
+PT00,Available on market,2000,8000,2030,PT,ERAA 2025 pre-CfE
+RO00,Available on market,1200,2400,2030,RO,ERAA 2025 pre-CfE
+RS00,Available on market,622.49,1978.56,2030,RS,ERAA 2025 pre-CfE
+SE01,Available on market,50,3.73,2030,SE,ERAA 2025 pre-CfE
+SE02,Available on market,50,94.72,2030,SE,ERAA 2025 pre-CfE
+SE03,Available on market,50,692.39,2030,SE,ERAA 2025 pre-CfE
+SE04,Available on market,50,637.28,2030,SE,ERAA 2025 pre-CfE
+SI00,Available on market,366.5833333,659.85,2030,SI,ERAA 2025 pre-CfE
+SK00,Available on market,386,779,2030,SK,ERAA 2025 pre-CfE
+UK00,Available on market,24700.37,43639.78,2030,UK,ERAA 2025 pre-CfE
+UKNI,Available on market,100,140,2030,UK,ERAA 2025 pre-CfE
+AT00,Available on market,2680,5360,2033,AT,ERAA 2025 pre-CfE
+AT00,Out of market - for PV/battery dispatch optimization,4389.993,8779.986,2033,AT,ERAA 2025 pre-CfE
+BE00,Available on market,3162,9916,2033,BE,ERAA 2025 pre-CfE
+BG00,Available on market,1228.4,2680,2033,BG,ERAA 2025 pre-CfE
+CH00,Out of market - for PV/battery dispatch optimization,2719,1350,2033,CH,ERAA 2025 pre-CfE
+CY00,Available on market,160,400,2033,CY,ERAA 2025 pre-CfE
+CZ00,Available on market,1907.66,3815.32,2033,CZ,ERAA 2025 pre-CfE
+DE00,Available on market,31466.77,65128.1,2033,DE,ERAA 2025 pre-CfE
+DE00,Out of market - for PV/battery dispatch optimization,33324.8,76647.04,2033,DE,ERAA 2025 pre-CfE
+DKE1,Available on market,282.64,565.28,2033,DK,ERAA 2025 pre-CfE
+DKW1,Available on market,615.11,16590.21,2033,DK,ERAA 2025 pre-CfE
+EE00,Available on market,1000,2000,2033,EE,ERAA 2025 pre-CfE
+ES00,Available on market,13382.7,31443.4,2033,ES,ERAA 2025 pre-CfE
+FI00,Available on market,4111.1,8222.2,2033,FI,ERAA 2025 pre-CfE
+FR00,Available on market,470,940,2033,FR,ERAA 2025 pre-CfE
+GR00,Available on market,4800,12239.25,2033,GR,ERAA 2025 pre-CfE
+GR03,Available on market,110,284,2033,GR,ERAA 2025 pre-CfE
+HR00,Available on market,66,66,2033,HR,ERAA 2025 pre-CfE
+HU00,Available on market,538.4515667,1076.903133,2033,HU,ERAA 2025 pre-CfE
+HU00,Out of market - for PV/battery dispatch optimization,179.1533333,501.6293333,2033,HU,ERAA 2025 pre-CfE
+IE00,Available on market,539,1610,2033,IE,ERAA 2025 pre-CfE
+ITCA,Available on market,766.4,5128.6,2033,IT,ERAA 2025 pre-CfE
+ITCN,Available on market,659.5,1527.2,2033,IT,ERAA 2025 pre-CfE
+ITCS,Available on market,2371.5,11845.21,2033,IT,ERAA 2025 pre-CfE
+ITN1,Available on market,4836.35,12233.06468,2033,IT,ERAA 2025 pre-CfE
+ITS1,Available on market,3382.4,24778.5,2033,IT,ERAA 2025 pre-CfE
+ITSA,Available on market,2635.43,16210.3653,2033,IT,ERAA 2025 pre-CfE
+ITSI,Available on market,2812.3,20066.7,2033,IT,ERAA 2025 pre-CfE
+LT00,Available on market,1710,4885.7,2033,LT,ERAA 2025 pre-CfE
+LT00,Out of market - primary purpose other operational activities,200,200,2033,LT,ERAA 2025 pre-CfE
+LUG1,Out of market - for PV/battery dispatch optimization,32.5,32.5,2033,LU,ERAA 2025 pre-CfE
+LV00,Available on market,220,440,2033,LV,ERAA 2025 pre-CfE
+MK00,Available on market,80,320,2033,MK,ERAA 2025 pre-CfE
+MT00,Available on market,40,84,2033,MT,ERAA 2025 pre-CfE
+NL00,Available on market,16587.2,132078.6,2033,NL,ERAA 2025 pre-CfE
+PL00,Available on market,6110,26992,2033,PL,ERAA 2025 pre-CfE
+PT00,Available on market,2300,9200,2033,PT,ERAA 2025 pre-CfE
+RO00,Available on market,1700,3400,2033,RO,ERAA 2025 pre-CfE
+RS00,Available on market,622.49,1978.56,2033,RS,ERAA 2025 pre-CfE
+SE01,Available on market,50,13.492,2033,SE,ERAA 2025 pre-CfE
+SE02,Available on market,50,114.688,2033,SE,ERAA 2025 pre-CfE
+SE03,Available on market,50,936.956,2033,SE,ERAA 2025 pre-CfE
+SE04,Available on market,50,706.712,2033,SE,ERAA 2025 pre-CfE
+SI00,Available on market,663.0833333,1193.55,2033,SI,ERAA 2025 pre-CfE
+SK00,Available on market,664,1384,2033,SK,ERAA 2025 pre-CfE
+UK00,Available on market,25511.02,45221.26,2033,UK,ERAA 2025 pre-CfE
+UKNI,Available on market,100,140,2033,UK,ERAA 2025 pre-CfE
+AT00,Available on market,3600,7200,2035,AT,ERAA 2025 pre-CfE
+AT00,Out of market - for PV/battery dispatch optimization,4849.995,9699.99,2035,AT,ERAA 2025 pre-CfE
+BE00,Available on market,3747,11955,2035,BE,ERAA 2025 pre-CfE
+BG00,Available on market,1228.4,2680,2035,BG,ERAA 2025 pre-CfE
+CH00,Out of market - for PV/battery dispatch optimization,2986,1490,2035,CH,ERAA 2025 pre-CfE
+CY00,Available on market,160,400,2035,CY,ERAA 2025 pre-CfE
+CZ00,Available on market,2031.03,4062.06,2035,CZ,ERAA 2025 pre-CfE
+DE00,Available on market,39552.58,83695.88,2035,DE,ERAA 2025 pre-CfE
+DE00,Out of market - for PV/battery dispatch optimization,36343.2,87223.68,2035,DE,ERAA 2025 pre-CfE
+DKE1,Available on market,293.68,587.36,2035,DK,ERAA 2025 pre-CfE
+DKW1,Available on market,625.31,16610.61,2035,DK,ERAA 2025 pre-CfE
+EE00,Available on market,1500,3000,2035,EE,ERAA 2025 pre-CfE
+ES00,Available on market,17187.3,39044.6,2035,ES,ERAA 2025 pre-CfE
+FI00,Available on market,4711.1,11777.75,2035,FI,ERAA 2025 pre-CfE
+FR00,Available on market,470,940,2035,FR,ERAA 2025 pre-CfE
+GR00,Available on market,6015,15337.5,2035,GR,ERAA 2025 pre-CfE
+GR03,Available on market,150,386,2035,GR,ERAA 2025 pre-CfE
+HR00,Available on market,66,66,2035,HR,ERAA 2025 pre-CfE
+HU00,Available on market,538.4515667,1076.903133,2035,HU,ERAA 2025 pre-CfE
+HU00,Out of market - for PV/battery dispatch optimization,221.5774802,620.4169444,2035,HU,ERAA 2025 pre-CfE
+IE00,Available on market,539,1610,2035,IE,ERAA 2025 pre-CfE
+ITCA,Available on market,901.2,6170.8,2035,IT,ERAA 2025 pre-CfE
+ITCN,Available on market,696.9,1627.4,2035,IT,ERAA 2025 pre-CfE
+ITCS,Available on market,2652.3,13874.61,2035,IT,ERAA 2025 pre-CfE
+ITN1,Available on market,5057.35,12825.26468,2035,IT,ERAA 2025 pre-CfE
+ITS1,Available on market,3981.2,29532.7,2035,IT,ERAA 2025 pre-CfE
+ITSA,Available on market,2821.63,17645.7653,2035,IT,ERAA 2025 pre-CfE
+ITSI,Available on market,3293.3,23824.3,2035,IT,ERAA 2025 pre-CfE
+LT00,Available on market,1810,5175.7,2035,LT,ERAA 2025 pre-CfE
+LT00,Out of market - primary purpose other operational activities,200,200,2035,LT,ERAA 2025 pre-CfE
+LUG1,Out of market - for PV/battery dispatch optimization,37.5,37.5,2035,LU,ERAA 2025 pre-CfE
+LV00,Available on market,420,840,2035,LV,ERAA 2025 pre-CfE
+MK00,Available on market,80,320,2035,MK,ERAA 2025 pre-CfE
+MT00,Available on market,40,84,2035,MT,ERAA 2025 pre-CfE
+NL00,Available on market,21744,209418,2035,NL,ERAA 2025 pre-CfE
+PL00,Available on market,6110,26992,2035,PL,ERAA 2025 pre-CfE
+PT00,Available on market,2500,10000,2035,PT,ERAA 2025 pre-CfE
+RO00,Available on market,2000,4000,2035,RO,ERAA 2025 pre-CfE
+RS00,Available on market,622.49,1978.56,2035,RS,ERAA 2025 pre-CfE
+SE01,Available on market,50,20,2035,SE,ERAA 2025 pre-CfE
+SE02,Available on market,50,128,2035,SE,ERAA 2025 pre-CfE
+SE03,Available on market,50,1100,2035,SE,ERAA 2025 pre-CfE
+SE04,Available on market,50,753,2035,SE,ERAA 2025 pre-CfE
+SI00,Available on market,878.0833333,1580.55,2035,SI,ERAA 2025 pre-CfE
+SK00,Available on market,799,1723,2035,SK,ERAA 2025 pre-CfE
+UK00,Available on market,26280.16,46550.93,2035,UK,ERAA 2025 pre-CfE
+UKNI,Available on market,100,140,2035,UK,ERAA 2025 pre-CfE

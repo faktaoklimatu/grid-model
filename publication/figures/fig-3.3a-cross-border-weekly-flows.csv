@@ -1,0 +1,1041 @@
+name,weather,neighbour,week,ImportTWh,ExportTWh
+Základní,WS04,AT,1,0.101,0.01
+Základní,WS04,AT,2,0.087,0.004
+Základní,WS04,AT,3,0.101,0
+Základní,WS04,AT,4,0.057,0.01
+Základní,WS04,AT,5,0.082,0
+Základní,WS04,AT,6,0.09,0.001
+Základní,WS04,AT,7,0.073,0.001
+Základní,WS04,AT,8,0.092,0.001
+Základní,WS04,AT,9,0.086,0
+Základní,WS04,AT,10,0.087,0
+Základní,WS04,AT,11,0.103,0
+Základní,WS04,AT,12,0.072,0.001
+Základní,WS04,AT,13,0.082,0
+Základní,WS04,AT,14,0.075,0.004
+Základní,WS04,AT,15,0.115,0
+Základní,WS04,AT,16,0.123,0
+Základní,WS04,AT,17,0.115,0
+Základní,WS04,AT,18,0.072,0.004
+Základní,WS04,AT,19,0.104,0
+Základní,WS04,AT,20,0.1,0
+Základní,WS04,AT,21,0.112,0
+Základní,WS04,AT,22,0.111,0
+Základní,WS04,AT,23,0.105,0
+Základní,WS04,AT,24,0.111,0
+Základní,WS04,AT,25,0.085,0
+Základní,WS04,AT,26,0.127,0
+Základní,WS04,AT,27,0.119,0
+Základní,WS04,AT,28,0.125,0
+Základní,WS04,AT,29,0.112,0
+Základní,WS04,AT,30,0.127,0
+Základní,WS04,AT,31,0.085,0
+Základní,WS04,AT,32,0.11,0
+Základní,WS04,AT,33,0.117,0
+Základní,WS04,AT,34,0.114,0
+Základní,WS04,AT,35,0.112,0
+Základní,WS04,AT,36,0.082,0
+Základní,WS04,AT,37,0.106,0
+Základní,WS04,AT,38,0.11,0.001
+Základní,WS04,AT,39,0.087,0
+Základní,WS04,AT,40,0.086,0.001
+Základní,WS04,AT,41,0.112,0
+Základní,WS04,AT,42,0.103,0
+Základní,WS04,AT,43,0.072,0.003
+Základní,WS04,AT,44,0.069,0
+Základní,WS04,AT,45,0.062,0.007
+Základní,WS04,AT,46,0.052,0.003
+Základní,WS04,AT,47,0.061,0
+Základní,WS04,AT,48,0.06,0.006
+Základní,WS04,AT,49,0.066,0.012
+Základní,WS04,AT,50,0.094,0
+Základní,WS04,AT,51,0.065,0.002
+Základní,WS04,AT,52,0.047,0.001
+Základní,WS04,DE,1,0.163,0.005
+Základní,WS04,DE,2,0.11,0.012
+Základní,WS04,DE,3,0.174,0.006
+Základní,WS04,DE,4,0.041,0.032
+Základní,WS04,DE,5,0.063,0.05
+Základní,WS04,DE,6,0.062,0.042
+Základní,WS04,DE,7,0.012,0.062
+Základní,WS04,DE,8,0.138,0.024
+Základní,WS04,DE,9,0.077,0.048
+Základní,WS04,DE,10,0.122,0.015
+Základní,WS04,DE,11,0.128,0.012
+Základní,WS04,DE,12,0.07,0.002
+Základní,WS04,DE,13,0.057,0.023
+Základní,WS04,DE,14,0.063,0.018
+Základní,WS04,DE,15,0.072,0.023
+Základní,WS04,DE,16,0.095,0.001
+Základní,WS04,DE,17,0.095,0.019
+Základní,WS04,DE,18,0.108,0.026
+Základní,WS04,DE,19,0.098,0.002
+Základní,WS04,DE,20,0.124,0.001
+Základní,WS04,DE,21,0.117,0
+Základní,WS04,DE,22,0.121,0
+Základní,WS04,DE,23,0.137,0
+Základní,WS04,DE,24,0.134,0
+Základní,WS04,DE,25,0.123,0
+Základní,WS04,DE,26,0.152,0
+Základní,WS04,DE,27,0.128,0.002
+Základní,WS04,DE,28,0.163,0
+Základní,WS04,DE,29,0.116,0
+Základní,WS04,DE,30,0.131,0
+Základní,WS04,DE,31,0.149,0
+Základní,WS04,DE,32,0.164,0
+Základní,WS04,DE,33,0.151,0
+Základní,WS04,DE,34,0.104,0
+Základní,WS04,DE,35,0.084,0
+Základní,WS04,DE,36,0.097,0
+Základní,WS04,DE,37,0.114,0
+Základní,WS04,DE,38,0.136,0.001
+Základní,WS04,DE,39,0.083,0
+Základní,WS04,DE,40,0.14,0.001
+Základní,WS04,DE,41,0.148,0
+Základní,WS04,DE,42,0.178,0.001
+Základní,WS04,DE,43,0.066,0.011
+Základní,WS04,DE,44,0.05,0.047
+Základní,WS04,DE,45,0.033,0.074
+Základní,WS04,DE,46,0.058,0.034
+Základní,WS04,DE,47,0.089,0.023
+Základní,WS04,DE,48,0.077,0.041
+Základní,WS04,DE,49,0.044,0.041
+Základní,WS04,DE,50,0.111,0.013
+Základní,WS04,DE,51,0.089,0.042
+Základní,WS04,DE,52,0.056,0.032
+Základní,WS04,PL,1,0.035,0.023
+Základní,WS04,PL,2,0.035,0.024
+Základní,WS04,PL,3,0.005,0.046
+Základní,WS04,PL,4,0.014,0.011
+Základní,WS04,PL,5,0.042,0.008
+Základní,WS04,PL,6,0.056,0.019
+Základní,WS04,PL,7,0.001,0.017
+Základní,WS04,PL,8,0.04,0.037
+Základní,WS04,PL,9,0.023,0.035
+Základní,WS04,PL,10,0.021,0.061
+Základní,WS04,PL,11,0,0.115
+Základní,WS04,PL,12,0.022,0.04
+Základní,WS04,PL,13,0.003,0.087
+Základní,WS04,PL,14,0.028,0.052
+Základní,WS04,PL,15,0.01,0.082
+Základní,WS04,PL,16,0.017,0.029
+Základní,WS04,PL,17,0.016,0.02
+Základní,WS04,PL,18,0.049,0.007
+Základní,WS04,PL,19,0.002,0.112
+Základní,WS04,PL,20,0.008,0.068
+Základní,WS04,PL,21,0.001,0.07
+Základní,WS04,PL,22,0.008,0.043
+Základní,WS04,PL,23,0.031,0.033
+Základní,WS04,PL,24,0.026,0.07
+Základní,WS04,PL,25,0.029,0.057
+Základní,WS04,PL,26,0.009,0.068
+Základní,WS04,PL,27,0.023,0.026
+Základní,WS04,PL,28,0,0.094
+Základní,WS04,PL,29,0.021,0.062
+Základní,WS04,PL,30,0.008,0.067
+Základní,WS04,PL,31,0.045,0.005
+Základní,WS04,PL,32,0.001,0.099
+Základní,WS04,PL,33,0.005,0.064
+Základní,WS04,PL,34,0.005,0.057
+Základní,WS04,PL,35,0.008,0.057
+Základní,WS04,PL,36,0.024,0.045
+Základní,WS04,PL,37,0.022,0.052
+Základní,WS04,PL,38,0.035,0.028
+Základní,WS04,PL,39,0.021,0.05
+Základní,WS04,PL,40,0.056,0.003
+Základní,WS04,PL,41,0.01,0.1
+Základní,WS04,PL,42,0.01,0.076
+Základní,WS04,PL,43,0.015,0.057
+Základní,WS04,PL,44,0.009,0.06
+Základní,WS04,PL,45,0.003,0.059
+Základní,WS04,PL,46,0.018,0.025
+Základní,WS04,PL,47,0.031,0.047
+Základní,WS04,PL,48,0.01,0.039
+Základní,WS04,PL,49,0.017,0.022
+Základní,WS04,PL,50,0.011,0.045
+Základní,WS04,PL,51,0.025,0.042
+Základní,WS04,PL,52,0.016,0.061
+Základní,WS04,SK,1,0.037,0.001
+Základní,WS04,SK,2,0.039,0.007
+Základní,WS04,SK,3,0.023,0.003
+Základní,WS04,SK,4,0.02,0.003
+Základní,WS04,SK,5,0.084,0
+Základní,WS04,SK,6,0.093,0.001
+Základní,WS04,SK,7,0.098,0
+Základní,WS04,SK,8,0.091,0
+Základní,WS04,SK,9,0.111,0.004
+Základní,WS04,SK,10,0.05,0
+Základní,WS04,SK,11,0.077,0
+Základní,WS04,SK,12,0.078,0
+Základní,WS04,SK,13,0.08,0.007
+Základní,WS04,SK,14,0.056,0.005
+Základní,WS04,SK,15,0.083,0.001
+Základní,WS04,SK,16,0.05,0
+Základní,WS04,SK,17,0.037,0.003
+Základní,WS04,SK,18,0.015,0.027
+Základní,WS04,SK,19,0.027,0.015
+Základní,WS04,SK,20,0.011,0.029
+Základní,WS04,SK,21,0.001,0.041
+Základní,WS04,SK,22,0.005,0.004
+Základní,WS04,SK,23,0.004,0.022
+Základní,WS04,SK,24,0.006,0.013
+Základní,WS04,SK,25,0.017,0.012
+Základní,WS04,SK,26,0.004,0.019
+Základní,WS04,SK,27,0.024,0.02
+Základní,WS04,SK,28,0.005,0.005
+Základní,WS04,SK,29,0.037,0.008
+Základní,WS04,SK,30,0.021,0
+Základní,WS04,SK,31,0.026,0.017
+Základní,WS04,SK,32,0.012,0.011
+Základní,WS04,SK,33,0.014,0.01
+Základní,WS04,SK,34,0.064,0.001
+Základní,WS04,SK,35,0.055,0.002
+Základní,WS04,SK,36,0.038,0.003
+Základní,WS04,SK,37,0.019,0.017
+Základní,WS04,SK,38,0.029,0.002
+Základní,WS04,SK,39,0.012,0.008
+Základní,WS04,SK,40,0.038,0.007
+Základní,WS04,SK,41,0.013,0.002
+Základní,WS04,SK,42,0.01,0.006
+Základní,WS04,SK,43,0.033,0.005
+Základní,WS04,SK,44,0.063,0.005
+Základní,WS04,SK,45,0.057,0
+Základní,WS04,SK,46,0.032,0.002
+Základní,WS04,SK,47,0.033,0.005
+Základní,WS04,SK,48,0.036,0.002
+Základní,WS04,SK,49,0.02,0.005
+Základní,WS04,SK,50,0.04,0.003
+Základní,WS04,SK,51,0.074,0.001
+Základní,WS04,SK,52,0.056,0.003
+Základní+,WS04,AT,1,0.084,0.011
+Základní+,WS04,AT,2,0.071,0.003
+Základní+,WS04,AT,3,0.064,0
+Základní+,WS04,AT,4,0.051,0.006
+Základní+,WS04,AT,5,0.08,0
+Základní+,WS04,AT,6,0.087,0
+Základní+,WS04,AT,7,0.072,0.001
+Základní+,WS04,AT,8,0.081,0
+Základní+,WS04,AT,9,0.08,0
+Základní+,WS04,AT,10,0.065,0
+Základní+,WS04,AT,11,0.098,0
+Základní+,WS04,AT,12,0.063,0.002
+Základní+,WS04,AT,13,0.076,0
+Základní+,WS04,AT,14,0.062,0.004
+Základní+,WS04,AT,15,0.105,0
+Základní+,WS04,AT,16,0.115,0
+Základní+,WS04,AT,17,0.099,0.001
+Základní+,WS04,AT,18,0.037,0.003
+Základní+,WS04,AT,19,0.091,0
+Základní+,WS04,AT,20,0.095,0.002
+Základní+,WS04,AT,21,0.093,0
+Základní+,WS04,AT,22,0.1,0
+Základní+,WS04,AT,23,0.089,0
+Základní+,WS04,AT,24,0.111,0
+Základní+,WS04,AT,25,0.074,0
+Základní+,WS04,AT,26,0.115,0
+Základní+,WS04,AT,27,0.103,0
+Základní+,WS04,AT,28,0.098,0
+Základní+,WS04,AT,29,0.1,0
+Základní+,WS04,AT,30,0.12,0
+Základní+,WS04,AT,31,0.065,0.003
+Základní+,WS04,AT,32,0.084,0
+Základní+,WS04,AT,33,0.108,0
+Základní+,WS04,AT,34,0.113,0
+Základní+,WS04,AT,35,0.105,0
+Základní+,WS04,AT,36,0.059,0
+Základní+,WS04,AT,37,0.101,0
+Základní+,WS04,AT,38,0.076,0.001
+Základní+,WS04,AT,39,0.08,0
+Základní+,WS04,AT,40,0.06,0.011
+Základní+,WS04,AT,41,0.09,0.001
+Základní+,WS04,AT,42,0.08,0
+Základní+,WS04,AT,43,0.061,0.003
+Základní+,WS04,AT,44,0.063,0
+Základní+,WS04,AT,45,0.06,0.007
+Základní+,WS04,AT,46,0.043,0.003
+Základní+,WS04,AT,47,0.042,0.001
+Základní+,WS04,AT,48,0.05,0.004
+Základní+,WS04,AT,49,0.061,0.011
+Základní+,WS04,AT,50,0.078,0
+Základní+,WS04,AT,51,0.046,0
+Základní+,WS04,AT,52,0.04,0.001
+Základní+,WS04,DE,1,0.3,0.005
+Základní+,WS04,DE,2,0.199,0.012
+Základní+,WS04,DE,3,0.326,0.004
+Základní+,WS04,DE,4,0.061,0.04
+Základní+,WS04,DE,5,0.089,0.057
+Základní+,WS04,DE,6,0.106,0.051
+Základní+,WS04,DE,7,0.01,0.073
+Základní+,WS04,DE,8,0.24,0.03
+Základní+,WS04,DE,9,0.125,0.07
+Základní+,WS04,DE,10,0.199,0.014
+Základní+,WS04,DE,11,0.202,0.007
+Základní+,WS04,DE,12,0.094,0.004
+Základní+,WS04,DE,13,0.081,0.027
+Základní+,WS04,DE,14,0.101,0.026
+Základní+,WS04,DE,15,0.096,0.029
+Základní+,WS04,DE,16,0.136,0.001
+Základní+,WS04,DE,17,0.145,0.024
+Základní+,WS04,DE,18,0.205,0.033
+Základní+,WS04,DE,19,0.13,0.003
+Základní+,WS04,DE,20,0.161,0
+Základní+,WS04,DE,21,0.177,0
+Základní+,WS04,DE,22,0.146,0
+Základní+,WS04,DE,23,0.226,0
+Základní+,WS04,DE,24,0.198,0.001
+Základní+,WS04,DE,25,0.179,0
+Základní+,WS04,DE,26,0.211,0
+Základní+,WS04,DE,27,0.189,0.002
+Základní+,WS04,DE,28,0.237,0
+Základní+,WS04,DE,29,0.16,0
+Základní+,WS04,DE,30,0.16,0
+Základní+,WS04,DE,31,0.241,0
+Základní+,WS04,DE,32,0.24,0
+Základní+,WS04,DE,33,0.216,0
+Základní+,WS04,DE,34,0.142,0
+Základní+,WS04,DE,35,0.102,0
+Základní+,WS04,DE,36,0.141,0
+Základní+,WS04,DE,37,0.14,0
+Základní+,WS04,DE,38,0.204,0.001
+Základní+,WS04,DE,39,0.101,0.001
+Základní+,WS04,DE,40,0.234,0
+Základní+,WS04,DE,41,0.221,0
+Základní+,WS04,DE,42,0.257,0.001
+Základní+,WS04,DE,43,0.102,0.011
+Základní+,WS04,DE,44,0.07,0.054
+Základní+,WS04,DE,45,0.044,0.101
+Základní+,WS04,DE,46,0.092,0.047
+Základní+,WS04,DE,47,0.147,0.024
+Základní+,WS04,DE,48,0.133,0.05
+Základní+,WS04,DE,49,0.058,0.051
+Základní+,WS04,DE,50,0.18,0.017
+Základní+,WS04,DE,51,0.164,0.051
+Základní+,WS04,DE,52,0.074,0.036
+Základní+,WS04,PL,1,0.029,0.064
+Základní+,WS04,PL,2,0.028,0.032
+Základní+,WS04,PL,3,0.003,0.088
+Základní+,WS04,PL,4,0.012,0.014
+Základní+,WS04,PL,5,0.041,0.011
+Základní+,WS04,PL,6,0.05,0.024
+Základní+,WS04,PL,7,0.001,0.018
+Základní+,WS04,PL,8,0.037,0.056
+Základní+,WS04,PL,9,0.02,0.033
+Základní+,WS04,PL,10,0.016,0.068
+Základní+,WS04,PL,11,0,0.125
+Základní+,WS04,PL,12,0.02,0.041
+Základní+,WS04,PL,13,0.003,0.087
+Základní+,WS04,PL,14,0.026,0.057
+Základní+,WS04,PL,15,0.009,0.091
+Základní+,WS04,PL,16,0.016,0.038
+Základní+,WS04,PL,17,0.014,0.03
+Základní+,WS04,PL,18,0.046,0.024
+Základní+,WS04,PL,19,0.002,0.113
+Základní+,WS04,PL,20,0.008,0.075
+Základní+,WS04,PL,21,0.001,0.077
+Základní+,WS04,PL,22,0.006,0.059
+Základní+,WS04,PL,23,0.026,0.051
+Základní+,WS04,PL,24,0.027,0.076
+Základní+,WS04,PL,25,0.021,0.061
+Základní+,WS04,PL,26,0.007,0.076
+Základní+,WS04,PL,27,0.011,0.036
+Základní+,WS04,PL,28,0,0.101
+Základní+,WS04,PL,29,0.018,0.066
+Základní+,WS04,PL,30,0.007,0.08
+Základní+,WS04,PL,31,0.037,0.014
+Základní+,WS04,PL,32,0,0.107
+Základní+,WS04,PL,33,0.003,0.081
+Základní+,WS04,PL,34,0.005,0.065
+Základní+,WS04,PL,35,0.008,0.066
+Základní+,WS04,PL,36,0.021,0.051
+Základní+,WS04,PL,37,0.017,0.056
+Základní+,WS04,PL,38,0.023,0.031
+Základní+,WS04,PL,39,0.019,0.055
+Základní+,WS04,PL,40,0.044,0.011
+Základní+,WS04,PL,41,0.009,0.106
+Základní+,WS04,PL,42,0.007,0.09
+Základní+,WS04,PL,43,0.014,0.056
+Základní+,WS04,PL,44,0.009,0.061
+Základní+,WS04,PL,45,0.002,0.063
+Základní+,WS04,PL,46,0.02,0.032
+Základní+,WS04,PL,47,0.022,0.05
+Základní+,WS04,PL,48,0.011,0.049
+Základní+,WS04,PL,49,0.017,0.024
+Základní+,WS04,PL,50,0.011,0.055
+Základní+,WS04,PL,51,0.018,0.051
+Základní+,WS04,PL,52,0.014,0.062
+Základní+,WS04,SK,1,0.028,0.011
+Základní+,WS04,SK,2,0.034,0.017
+Základní+,WS04,SK,3,0.013,0.017
+Základní+,WS04,SK,4,0.023,0.005
+Základní+,WS04,SK,5,0.087,0.003
+Základní+,WS04,SK,6,0.089,0.006
+Základní+,WS04,SK,7,0.099,0
+Základní+,WS04,SK,8,0.068,0.003
+Základní+,WS04,SK,9,0.106,0.011
+Základní+,WS04,SK,10,0.038,0.003
+Základní+,WS04,SK,11,0.079,0.003
+Základní+,WS04,SK,12,0.077,0.001
+Základní+,WS04,SK,13,0.078,0.012
+Základní+,WS04,SK,14,0.049,0.013
+Základní+,WS04,SK,15,0.081,0.004
+Základní+,WS04,SK,16,0.039,0.001
+Základní+,WS04,SK,17,0.036,0.015
+Základní+,WS04,SK,18,0.013,0.051
+Základní+,WS04,SK,19,0.02,0.024
+Základní+,WS04,SK,20,0.008,0.043
+Základní+,WS04,SK,21,0.001,0.078
+Základní+,WS04,SK,22,0.003,0.022
+Základní+,WS04,SK,23,0.002,0.069
+Základní+,WS04,SK,24,0.005,0.037
+Základní+,WS04,SK,25,0.012,0.025
+Základní+,WS04,SK,26,0.004,0.045
+Základní+,WS04,SK,27,0.012,0.031
+Základní+,WS04,SK,28,0.002,0.019
+Základní+,WS04,SK,29,0.032,0.02
+Základní+,WS04,SK,30,0.019,0.008
+Základní+,WS04,SK,31,0.019,0.045
+Základní+,WS04,SK,32,0.004,0.033
+Základní+,WS04,SK,33,0.013,0.036
+Základní+,WS04,SK,34,0.05,0.003
+Základní+,WS04,SK,35,0.047,0.005
+Základní+,WS04,SK,36,0.026,0.01
+Základní+,WS04,SK,37,0.016,0.024
+Základní+,WS04,SK,38,0.021,0.005
+Základní+,WS04,SK,39,0.01,0.017
+Základní+,WS04,SK,40,0.028,0.027
+Základní+,WS04,SK,41,0.008,0.023
+Základní+,WS04,SK,42,0.004,0.024
+Základní+,WS04,SK,43,0.03,0.013
+Základní+,WS04,SK,44,0.061,0.01
+Základní+,WS04,SK,45,0.069,0.002
+Základní+,WS04,SK,46,0.031,0.014
+Základní+,WS04,SK,47,0.035,0.012
+Základní+,WS04,SK,48,0.039,0.015
+Základní+,WS04,SK,49,0.022,0.01
+Základní+,WS04,SK,50,0.04,0.012
+Základní+,WS04,SK,51,0.072,0.013
+Základní+,WS04,SK,52,0.056,0.009
+Bez Sev.en,WS04,AT,1,0.102,0.009
+Bez Sev.en,WS04,AT,2,0.093,0.004
+Bez Sev.en,WS04,AT,3,0.104,0
+Bez Sev.en,WS04,AT,4,0.066,0.005
+Bez Sev.en,WS04,AT,5,0.084,0
+Bez Sev.en,WS04,AT,6,0.094,0
+Bez Sev.en,WS04,AT,7,0.072,0.001
+Bez Sev.en,WS04,AT,8,0.092,0.001
+Bez Sev.en,WS04,AT,9,0.087,0
+Bez Sev.en,WS04,AT,10,0.089,0
+Bez Sev.en,WS04,AT,11,0.105,0
+Bez Sev.en,WS04,AT,12,0.073,0.001
+Bez Sev.en,WS04,AT,13,0.082,0
+Bez Sev.en,WS04,AT,14,0.077,0.004
+Bez Sev.en,WS04,AT,15,0.117,0
+Bez Sev.en,WS04,AT,16,0.126,0
+Bez Sev.en,WS04,AT,17,0.116,0
+Bez Sev.en,WS04,AT,18,0.073,0.004
+Bez Sev.en,WS04,AT,19,0.105,0
+Bez Sev.en,WS04,AT,20,0.1,0
+Bez Sev.en,WS04,AT,21,0.113,0
+Bez Sev.en,WS04,AT,22,0.112,0
+Bez Sev.en,WS04,AT,23,0.105,0
+Bez Sev.en,WS04,AT,24,0.111,0
+Bez Sev.en,WS04,AT,25,0.085,0
+Bez Sev.en,WS04,AT,26,0.128,0
+Bez Sev.en,WS04,AT,27,0.119,0
+Bez Sev.en,WS04,AT,28,0.126,0
+Bez Sev.en,WS04,AT,29,0.113,0
+Bez Sev.en,WS04,AT,30,0.128,0
+Bez Sev.en,WS04,AT,31,0.086,0
+Bez Sev.en,WS04,AT,32,0.112,0
+Bez Sev.en,WS04,AT,33,0.117,0
+Bez Sev.en,WS04,AT,34,0.115,0
+Bez Sev.en,WS04,AT,35,0.112,0
+Bez Sev.en,WS04,AT,36,0.081,0
+Bez Sev.en,WS04,AT,37,0.108,0
+Bez Sev.en,WS04,AT,38,0.109,0.001
+Bez Sev.en,WS04,AT,39,0.087,0
+Bez Sev.en,WS04,AT,40,0.086,0.001
+Bez Sev.en,WS04,AT,41,0.118,0
+Bez Sev.en,WS04,AT,42,0.105,0
+Bez Sev.en,WS04,AT,43,0.073,0.003
+Bez Sev.en,WS04,AT,44,0.071,0
+Bez Sev.en,WS04,AT,45,0.069,0.004
+Bez Sev.en,WS04,AT,46,0.053,0.003
+Bez Sev.en,WS04,AT,47,0.063,0
+Bez Sev.en,WS04,AT,48,0.065,0.004
+Bez Sev.en,WS04,AT,49,0.069,0.012
+Bez Sev.en,WS04,AT,50,0.096,0
+Bez Sev.en,WS04,AT,51,0.068,0.002
+Bez Sev.en,WS04,AT,52,0.048,0.001
+Bez Sev.en,WS04,DE,1,0.164,0.004
+Bez Sev.en,WS04,DE,2,0.112,0.012
+Bez Sev.en,WS04,DE,3,0.18,0.004
+Bez Sev.en,WS04,DE,4,0.046,0.019
+Bez Sev.en,WS04,DE,5,0.065,0.041
+Bez Sev.en,WS04,DE,6,0.066,0.037
+Bez Sev.en,WS04,DE,7,0.015,0.057
+Bez Sev.en,WS04,DE,8,0.139,0.024
+Bez Sev.en,WS04,DE,9,0.078,0.047
+Bez Sev.en,WS04,DE,10,0.123,0.015
+Bez Sev.en,WS04,DE,11,0.127,0.011
+Bez Sev.en,WS04,DE,12,0.07,0.002
+Bez Sev.en,WS04,DE,13,0.058,0.022
+Bez Sev.en,WS04,DE,14,0.063,0.018
+Bez Sev.en,WS04,DE,15,0.074,0.02
+Bez Sev.en,WS04,DE,16,0.099,0
+Bez Sev.en,WS04,DE,17,0.098,0.019
+Bez Sev.en,WS04,DE,18,0.108,0.026
+Bez Sev.en,WS04,DE,19,0.097,0.002
+Bez Sev.en,WS04,DE,20,0.125,0.001
+Bez Sev.en,WS04,DE,21,0.117,0
+Bez Sev.en,WS04,DE,22,0.127,0
+Bez Sev.en,WS04,DE,23,0.137,0
+Bez Sev.en,WS04,DE,24,0.135,0
+Bez Sev.en,WS04,DE,25,0.124,0
+Bez Sev.en,WS04,DE,26,0.151,0
+Bez Sev.en,WS04,DE,27,0.129,0.002
+Bez Sev.en,WS04,DE,28,0.165,0
+Bez Sev.en,WS04,DE,29,0.117,0
+Bez Sev.en,WS04,DE,30,0.132,0
+Bez Sev.en,WS04,DE,31,0.15,0
+Bez Sev.en,WS04,DE,32,0.166,0
+Bez Sev.en,WS04,DE,33,0.15,0
+Bez Sev.en,WS04,DE,34,0.104,0
+Bez Sev.en,WS04,DE,35,0.084,0
+Bez Sev.en,WS04,DE,36,0.097,0
+Bez Sev.en,WS04,DE,37,0.114,0
+Bez Sev.en,WS04,DE,38,0.14,0.001
+Bez Sev.en,WS04,DE,39,0.085,0
+Bez Sev.en,WS04,DE,40,0.139,0.001
+Bez Sev.en,WS04,DE,41,0.16,0
+Bez Sev.en,WS04,DE,42,0.181,0.001
+Bez Sev.en,WS04,DE,43,0.067,0.01
+Bez Sev.en,WS04,DE,44,0.054,0.039
+Bez Sev.en,WS04,DE,45,0.038,0.049
+Bez Sev.en,WS04,DE,46,0.06,0.027
+Bez Sev.en,WS04,DE,47,0.09,0.022
+Bez Sev.en,WS04,DE,48,0.08,0.032
+Bez Sev.en,WS04,DE,49,0.048,0.035
+Bez Sev.en,WS04,DE,50,0.119,0.012
+Bez Sev.en,WS04,DE,51,0.089,0.042
+Bez Sev.en,WS04,DE,52,0.056,0.03
+Bez Sev.en,WS04,PL,1,0.038,0.018
+Bez Sev.en,WS04,PL,2,0.04,0.019
+Bez Sev.en,WS04,PL,3,0.006,0.038
+Bez Sev.en,WS04,PL,4,0.019,0.005
+Bez Sev.en,WS04,PL,5,0.048,0.006
+Bez Sev.en,WS04,PL,6,0.059,0.019
+Bez Sev.en,WS04,PL,7,0.001,0.015
+Bez Sev.en,WS04,PL,8,0.041,0.037
+Bez Sev.en,WS04,PL,9,0.023,0.034
+Bez Sev.en,WS04,PL,10,0.02,0.06
+Bez Sev.en,WS04,PL,11,0,0.114
+Bez Sev.en,WS04,PL,12,0.023,0.037
+Bez Sev.en,WS04,PL,13,0.003,0.085
+Bez Sev.en,WS04,PL,14,0.027,0.048
+Bez Sev.en,WS04,PL,15,0.011,0.08
+Bez Sev.en,WS04,PL,16,0.017,0.025
+Bez Sev.en,WS04,PL,17,0.016,0.021
+Bez Sev.en,WS04,PL,18,0.049,0.007
+Bez Sev.en,WS04,PL,19,0.002,0.112
+Bez Sev.en,WS04,PL,20,0.009,0.069
+Bez Sev.en,WS04,PL,21,0.001,0.069
+Bez Sev.en,WS04,PL,22,0.008,0.043
+Bez Sev.en,WS04,PL,23,0.031,0.033
+Bez Sev.en,WS04,PL,24,0.027,0.07
+Bez Sev.en,WS04,PL,25,0.029,0.057
+Bez Sev.en,WS04,PL,26,0.011,0.067
+Bez Sev.en,WS04,PL,27,0.025,0.026
+Bez Sev.en,WS04,PL,28,0,0.092
+Bez Sev.en,WS04,PL,29,0.022,0.061
+Bez Sev.en,WS04,PL,30,0.008,0.067
+Bez Sev.en,WS04,PL,31,0.045,0.005
+Bez Sev.en,WS04,PL,32,0.001,0.098
+Bez Sev.en,WS04,PL,33,0.005,0.064
+Bez Sev.en,WS04,PL,34,0.005,0.057
+Bez Sev.en,WS04,PL,35,0.008,0.059
+Bez Sev.en,WS04,PL,36,0.024,0.045
+Bez Sev.en,WS04,PL,37,0.022,0.053
+Bez Sev.en,WS04,PL,38,0.035,0.027
+Bez Sev.en,WS04,PL,39,0.021,0.049
+Bez Sev.en,WS04,PL,40,0.056,0.003
+Bez Sev.en,WS04,PL,41,0.011,0.097
+Bez Sev.en,WS04,PL,42,0.011,0.073
+Bez Sev.en,WS04,PL,43,0.015,0.053
+Bez Sev.en,WS04,PL,44,0.01,0.05
+Bez Sev.en,WS04,PL,45,0.006,0.046
+Bez Sev.en,WS04,PL,46,0.02,0.019
+Bez Sev.en,WS04,PL,47,0.03,0.044
+Bez Sev.en,WS04,PL,48,0.011,0.032
+Bez Sev.en,WS04,PL,49,0.017,0.021
+Bez Sev.en,WS04,PL,50,0.012,0.043
+Bez Sev.en,WS04,PL,51,0.026,0.041
+Bez Sev.en,WS04,PL,52,0.016,0.06
+Bez Sev.en,WS04,SK,1,0.04,0.001
+Bez Sev.en,WS04,SK,2,0.043,0.005
+Bez Sev.en,WS04,SK,3,0.024,0.003
+Bez Sev.en,WS04,SK,4,0.028,0.001
+Bez Sev.en,WS04,SK,5,0.096,0
+Bez Sev.en,WS04,SK,6,0.098,0.001
+Bez Sev.en,WS04,SK,7,0.103,0
+Bez Sev.en,WS04,SK,8,0.093,0
+Bez Sev.en,WS04,SK,9,0.112,0.004
+Bez Sev.en,WS04,SK,10,0.051,0
+Bez Sev.en,WS04,SK,11,0.081,0
+Bez Sev.en,WS04,SK,12,0.086,0
+Bez Sev.en,WS04,SK,13,0.081,0.007
+Bez Sev.en,WS04,SK,14,0.058,0.005
+Bez Sev.en,WS04,SK,15,0.092,0.001
+Bez Sev.en,WS04,SK,16,0.055,0
+Bez Sev.en,WS04,SK,17,0.038,0.004
+Bez Sev.en,WS04,SK,18,0.015,0.027
+Bez Sev.en,WS04,SK,19,0.027,0.015
+Bez Sev.en,WS04,SK,20,0.011,0.029
+Bez Sev.en,WS04,SK,21,0.001,0.041
+Bez Sev.en,WS04,SK,22,0.005,0.004
+Bez Sev.en,WS04,SK,23,0.004,0.022
+Bez Sev.en,WS04,SK,24,0.006,0.013
+Bez Sev.en,WS04,SK,25,0.017,0.012
+Bez Sev.en,WS04,SK,26,0.004,0.019
+Bez Sev.en,WS04,SK,27,0.025,0.02
+Bez Sev.en,WS04,SK,28,0.009,0.005
+Bez Sev.en,WS04,SK,29,0.038,0.008
+Bez Sev.en,WS04,SK,30,0.022,0
+Bez Sev.en,WS04,SK,31,0.026,0.017
+Bez Sev.en,WS04,SK,32,0.013,0.011
+Bez Sev.en,WS04,SK,33,0.015,0.01
+Bez Sev.en,WS04,SK,34,0.065,0.001
+Bez Sev.en,WS04,SK,35,0.056,0.002
+Bez Sev.en,WS04,SK,36,0.037,0.003
+Bez Sev.en,WS04,SK,37,0.019,0.017
+Bez Sev.en,WS04,SK,38,0.033,0.001
+Bez Sev.en,WS04,SK,39,0.012,0.008
+Bez Sev.en,WS04,SK,40,0.038,0.007
+Bez Sev.en,WS04,SK,41,0.015,0.002
+Bez Sev.en,WS04,SK,42,0.011,0.006
+Bez Sev.en,WS04,SK,43,0.038,0.005
+Bez Sev.en,WS04,SK,44,0.069,0.005
+Bez Sev.en,WS04,SK,45,0.068,0
+Bez Sev.en,WS04,SK,46,0.035,0.002
+Bez Sev.en,WS04,SK,47,0.034,0.004
+Bez Sev.en,WS04,SK,48,0.042,0.002
+Bez Sev.en,WS04,SK,49,0.029,0.005
+Bez Sev.en,WS04,SK,50,0.044,0.002
+Bez Sev.en,WS04,SK,51,0.076,0.001
+Bez Sev.en,WS04,SK,52,0.058,0.003
+Bez Sev.en a SUAS,WS04,AT,1,0.107,0.006
+Bez Sev.en a SUAS,WS04,AT,2,0.096,0.004
+Bez Sev.en a SUAS,WS04,AT,3,0.11,0
+Bez Sev.en a SUAS,WS04,AT,4,0.076,0.001
+Bez Sev.en a SUAS,WS04,AT,5,0.087,0
+Bez Sev.en a SUAS,WS04,AT,6,0.102,0
+Bez Sev.en a SUAS,WS04,AT,7,0.073,0.001
+Bez Sev.en a SUAS,WS04,AT,8,0.096,0.001
+Bez Sev.en a SUAS,WS04,AT,9,0.089,0
+Bez Sev.en a SUAS,WS04,AT,10,0.09,0
+Bez Sev.en a SUAS,WS04,AT,11,0.11,0
+Bez Sev.en a SUAS,WS04,AT,12,0.077,0.001
+Bez Sev.en a SUAS,WS04,AT,13,0.087,0
+Bez Sev.en a SUAS,WS04,AT,14,0.079,0.004
+Bez Sev.en a SUAS,WS04,AT,15,0.12,0
+Bez Sev.en a SUAS,WS04,AT,16,0.126,0
+Bez Sev.en a SUAS,WS04,AT,17,0.116,0
+Bez Sev.en a SUAS,WS04,AT,18,0.073,0.004
+Bez Sev.en a SUAS,WS04,AT,19,0.104,0
+Bez Sev.en a SUAS,WS04,AT,20,0.101,0
+Bez Sev.en a SUAS,WS04,AT,21,0.112,0
+Bez Sev.en a SUAS,WS04,AT,22,0.112,0
+Bez Sev.en a SUAS,WS04,AT,23,0.105,0
+Bez Sev.en a SUAS,WS04,AT,24,0.114,0
+Bez Sev.en a SUAS,WS04,AT,25,0.087,0
+Bez Sev.en a SUAS,WS04,AT,26,0.132,0
+Bez Sev.en a SUAS,WS04,AT,27,0.129,0
+Bez Sev.en a SUAS,WS04,AT,28,0.129,0
+Bez Sev.en a SUAS,WS04,AT,29,0.118,0
+Bez Sev.en a SUAS,WS04,AT,30,0.129,0
+Bez Sev.en a SUAS,WS04,AT,31,0.086,0
+Bez Sev.en a SUAS,WS04,AT,32,0.12,0
+Bez Sev.en a SUAS,WS04,AT,33,0.12,0
+Bez Sev.en a SUAS,WS04,AT,34,0.12,0
+Bez Sev.en a SUAS,WS04,AT,35,0.115,0
+Bez Sev.en a SUAS,WS04,AT,36,0.082,0
+Bez Sev.en a SUAS,WS04,AT,37,0.112,0
+Bez Sev.en a SUAS,WS04,AT,38,0.114,0.001
+Bez Sev.en a SUAS,WS04,AT,39,0.087,0
+Bez Sev.en a SUAS,WS04,AT,40,0.087,0.001
+Bez Sev.en a SUAS,WS04,AT,41,0.117,0
+Bez Sev.en a SUAS,WS04,AT,42,0.107,0
+Bez Sev.en a SUAS,WS04,AT,43,0.081,0.002
+Bez Sev.en a SUAS,WS04,AT,44,0.081,0
+Bez Sev.en a SUAS,WS04,AT,45,0.078,0.004
+Bez Sev.en a SUAS,WS04,AT,46,0.059,0.001
+Bez Sev.en a SUAS,WS04,AT,47,0.072,0
+Bez Sev.en a SUAS,WS04,AT,48,0.072,0.003
+Bez Sev.en a SUAS,WS04,AT,49,0.073,0.009
+Bez Sev.en a SUAS,WS04,AT,50,0.104,0
+Bez Sev.en a SUAS,WS04,AT,51,0.078,0.001
+Bez Sev.en a SUAS,WS04,AT,52,0.049,0
+Bez Sev.en a SUAS,WS04,DE,1,0.168,0.003
+Bez Sev.en a SUAS,WS04,DE,2,0.118,0.009
+Bez Sev.en a SUAS,WS04,DE,3,0.197,0.004
+Bez Sev.en a SUAS,WS04,DE,4,0.061,0.012
+Bez Sev.en a SUAS,WS04,DE,5,0.068,0.036
+Bez Sev.en a SUAS,WS04,DE,6,0.076,0.021
+Bez Sev.en a SUAS,WS04,DE,7,0.021,0.05
+Bez Sev.en a SUAS,WS04,DE,8,0.143,0.021
+Bez Sev.en a SUAS,WS04,DE,9,0.086,0.042
+Bez Sev.en a SUAS,WS04,DE,10,0.122,0.013
+Bez Sev.en a SUAS,WS04,DE,11,0.141,0.009
+Bez Sev.en a SUAS,WS04,DE,12,0.082,0
+Bez Sev.en a SUAS,WS04,DE,13,0.061,0.017
+Bez Sev.en a SUAS,WS04,DE,14,0.065,0.018
+Bez Sev.en a SUAS,WS04,DE,15,0.084,0.016
+Bez Sev.en a SUAS,WS04,DE,16,0.1,0.001
+Bez Sev.en a SUAS,WS04,DE,17,0.102,0.019
+Bez Sev.en a SUAS,WS04,DE,18,0.108,0.028
+Bez Sev.en a SUAS,WS04,DE,19,0.1,0.002
+Bez Sev.en a SUAS,WS04,DE,20,0.128,0.001
+Bez Sev.en a SUAS,WS04,DE,21,0.119,0
+Bez Sev.en a SUAS,WS04,DE,22,0.127,0
+Bez Sev.en a SUAS,WS04,DE,23,0.137,0
+Bez Sev.en a SUAS,WS04,DE,24,0.136,0.001
+Bez Sev.en a SUAS,WS04,DE,25,0.127,0
+Bez Sev.en a SUAS,WS04,DE,26,0.167,0
+Bez Sev.en a SUAS,WS04,DE,27,0.143,0.002
+Bez Sev.en a SUAS,WS04,DE,28,0.168,0
+Bez Sev.en a SUAS,WS04,DE,29,0.124,0
+Bez Sev.en a SUAS,WS04,DE,30,0.138,0
+Bez Sev.en a SUAS,WS04,DE,31,0.151,0
+Bez Sev.en a SUAS,WS04,DE,32,0.174,0
+Bez Sev.en a SUAS,WS04,DE,33,0.16,0
+Bez Sev.en a SUAS,WS04,DE,34,0.116,0
+Bez Sev.en a SUAS,WS04,DE,35,0.086,0
+Bez Sev.en a SUAS,WS04,DE,36,0.098,0
+Bez Sev.en a SUAS,WS04,DE,37,0.115,0
+Bez Sev.en a SUAS,WS04,DE,38,0.144,0.001
+Bez Sev.en a SUAS,WS04,DE,39,0.088,0
+Bez Sev.en a SUAS,WS04,DE,40,0.143,0.001
+Bez Sev.en a SUAS,WS04,DE,41,0.162,0
+Bez Sev.en a SUAS,WS04,DE,42,0.186,0.001
+Bez Sev.en a SUAS,WS04,DE,43,0.072,0.006
+Bez Sev.en a SUAS,WS04,DE,44,0.057,0.027
+Bez Sev.en a SUAS,WS04,DE,45,0.042,0.039
+Bez Sev.en a SUAS,WS04,DE,46,0.066,0.019
+Bez Sev.en a SUAS,WS04,DE,47,0.094,0.014
+Bez Sev.en a SUAS,WS04,DE,48,0.088,0.023
+Bez Sev.en a SUAS,WS04,DE,49,0.058,0.031
+Bez Sev.en a SUAS,WS04,DE,50,0.129,0.01
+Bez Sev.en a SUAS,WS04,DE,51,0.09,0.036
+Bez Sev.en a SUAS,WS04,DE,52,0.06,0.021
+Bez Sev.en a SUAS,WS04,PL,1,0.046,0.014
+Bez Sev.en a SUAS,WS04,PL,2,0.046,0.017
+Bez Sev.en a SUAS,WS04,PL,3,0.011,0.029
+Bez Sev.en a SUAS,WS04,PL,4,0.03,0.002
+Bez Sev.en a SUAS,WS04,PL,5,0.053,0.004
+Bez Sev.en a SUAS,WS04,PL,6,0.066,0.014
+Bez Sev.en a SUAS,WS04,PL,7,0.003,0.009
+Bez Sev.en a SUAS,WS04,PL,8,0.044,0.027
+Bez Sev.en a SUAS,WS04,PL,9,0.025,0.029
+Bez Sev.en a SUAS,WS04,PL,10,0.022,0.055
+Bez Sev.en a SUAS,WS04,PL,11,0,0.104
+Bez Sev.en a SUAS,WS04,PL,12,0.025,0.033
+Bez Sev.en a SUAS,WS04,PL,13,0.003,0.077
+Bez Sev.en a SUAS,WS04,PL,14,0.028,0.041
+Bez Sev.en a SUAS,WS04,PL,15,0.011,0.071
+Bez Sev.en a SUAS,WS04,PL,16,0.018,0.023
+Bez Sev.en a SUAS,WS04,PL,17,0.016,0.021
+Bez Sev.en a SUAS,WS04,PL,18,0.049,0.007
+Bez Sev.en a SUAS,WS04,PL,19,0.002,0.112
+Bez Sev.en a SUAS,WS04,PL,20,0.008,0.068
+Bez Sev.en a SUAS,WS04,PL,21,0.001,0.067
+Bez Sev.en a SUAS,WS04,PL,22,0.008,0.043
+Bez Sev.en a SUAS,WS04,PL,23,0.031,0.032
+Bez Sev.en a SUAS,WS04,PL,24,0.026,0.07
+Bez Sev.en a SUAS,WS04,PL,25,0.029,0.057
+Bez Sev.en a SUAS,WS04,PL,26,0.011,0.066
+Bez Sev.en a SUAS,WS04,PL,27,0.025,0.026
+Bez Sev.en a SUAS,WS04,PL,28,0,0.089
+Bez Sev.en a SUAS,WS04,PL,29,0.023,0.06
+Bez Sev.en a SUAS,WS04,PL,30,0.008,0.067
+Bez Sev.en a SUAS,WS04,PL,31,0.046,0.005
+Bez Sev.en a SUAS,WS04,PL,32,0.001,0.097
+Bez Sev.en a SUAS,WS04,PL,33,0.006,0.054
+Bez Sev.en a SUAS,WS04,PL,34,0.006,0.049
+Bez Sev.en a SUAS,WS04,PL,35,0.008,0.047
+Bez Sev.en a SUAS,WS04,PL,36,0.024,0.045
+Bez Sev.en a SUAS,WS04,PL,37,0.022,0.051
+Bez Sev.en a SUAS,WS04,PL,38,0.039,0.023
+Bez Sev.en a SUAS,WS04,PL,39,0.021,0.048
+Bez Sev.en a SUAS,WS04,PL,40,0.055,0.003
+Bez Sev.en a SUAS,WS04,PL,41,0.011,0.096
+Bez Sev.en a SUAS,WS04,PL,42,0.012,0.064
+Bez Sev.en a SUAS,WS04,PL,43,0.018,0.041
+Bez Sev.en a SUAS,WS04,PL,44,0.013,0.039
+Bez Sev.en a SUAS,WS04,PL,45,0.008,0.032
+Bez Sev.en a SUAS,WS04,PL,46,0.025,0.016
+Bez Sev.en a SUAS,WS04,PL,47,0.034,0.037
+Bez Sev.en a SUAS,WS04,PL,48,0.017,0.027
+Bez Sev.en a SUAS,WS04,PL,49,0.021,0.017
+Bez Sev.en a SUAS,WS04,PL,50,0.017,0.039
+Bez Sev.en a SUAS,WS04,PL,51,0.031,0.036
+Bez Sev.en a SUAS,WS04,PL,52,0.017,0.052
+Bez Sev.en a SUAS,WS04,SK,1,0.048,0
+Bez Sev.en a SUAS,WS04,SK,2,0.057,0.004
+Bez Sev.en a SUAS,WS04,SK,3,0.032,0.002
+Bez Sev.en a SUAS,WS04,SK,4,0.037,0
+Bez Sev.en a SUAS,WS04,SK,5,0.106,0
+Bez Sev.en a SUAS,WS04,SK,6,0.111,0
+Bez Sev.en a SUAS,WS04,SK,7,0.11,0
+Bez Sev.en a SUAS,WS04,SK,8,0.105,0
+Bez Sev.en a SUAS,WS04,SK,9,0.118,0.004
+Bez Sev.en a SUAS,WS04,SK,10,0.053,0
+Bez Sev.en a SUAS,WS04,SK,11,0.091,0
+Bez Sev.en a SUAS,WS04,SK,12,0.101,0
+Bez Sev.en a SUAS,WS04,SK,13,0.095,0.005
+Bez Sev.en a SUAS,WS04,SK,14,0.059,0.005
+Bez Sev.en a SUAS,WS04,SK,15,0.102,0.001
+Bez Sev.en a SUAS,WS04,SK,16,0.056,0
+Bez Sev.en a SUAS,WS04,SK,17,0.038,0.004
+Bez Sev.en a SUAS,WS04,SK,18,0.015,0.027
+Bez Sev.en a SUAS,WS04,SK,19,0.029,0.015
+Bez Sev.en a SUAS,WS04,SK,20,0.012,0.029
+Bez Sev.en a SUAS,WS04,SK,21,0.001,0.041
+Bez Sev.en a SUAS,WS04,SK,22,0.005,0.004
+Bez Sev.en a SUAS,WS04,SK,23,0.004,0.022
+Bez Sev.en a SUAS,WS04,SK,24,0.007,0.012
+Bez Sev.en a SUAS,WS04,SK,25,0.017,0.012
+Bez Sev.en a SUAS,WS04,SK,26,0.005,0.016
+Bez Sev.en a SUAS,WS04,SK,27,0.03,0.018
+Bez Sev.en a SUAS,WS04,SK,28,0.009,0.005
+Bez Sev.en a SUAS,WS04,SK,29,0.04,0.006
+Bez Sev.en a SUAS,WS04,SK,30,0.022,0
+Bez Sev.en a SUAS,WS04,SK,31,0.026,0.017
+Bez Sev.en a SUAS,WS04,SK,32,0.016,0.01
+Bez Sev.en a SUAS,WS04,SK,33,0.018,0.01
+Bez Sev.en a SUAS,WS04,SK,34,0.077,0.001
+Bez Sev.en a SUAS,WS04,SK,35,0.057,0.002
+Bez Sev.en a SUAS,WS04,SK,36,0.04,0.003
+Bez Sev.en a SUAS,WS04,SK,37,0.021,0.017
+Bez Sev.en a SUAS,WS04,SK,38,0.038,0.001
+Bez Sev.en a SUAS,WS04,SK,39,0.013,0.008
+Bez Sev.en a SUAS,WS04,SK,40,0.037,0.007
+Bez Sev.en a SUAS,WS04,SK,41,0.015,0.002
+Bez Sev.en a SUAS,WS04,SK,42,0.018,0.005
+Bez Sev.en a SUAS,WS04,SK,43,0.046,0.005
+Bez Sev.en a SUAS,WS04,SK,44,0.076,0.003
+Bez Sev.en a SUAS,WS04,SK,45,0.074,0
+Bez Sev.en a SUAS,WS04,SK,46,0.043,0.002
+Bez Sev.en a SUAS,WS04,SK,47,0.04,0.004
+Bez Sev.en a SUAS,WS04,SK,48,0.051,0.001
+Bez Sev.en a SUAS,WS04,SK,49,0.035,0.003
+Bez Sev.en a SUAS,WS04,SK,50,0.055,0
+Bez Sev.en a SUAS,WS04,SK,51,0.085,0
+Bez Sev.en a SUAS,WS04,SK,52,0.065,0.003
+Stresový,WS04,AT,1,0.1,0.008
+Stresový,WS04,AT,2,0.093,0.003
+Stresový,WS04,AT,3,0.096,0
+Stresový,WS04,AT,4,0.078,0.007
+Stresový,WS04,AT,5,0.117,0
+Stresový,WS04,AT,6,0.091,0
+Stresový,WS04,AT,7,0.071,0.001
+Stresový,WS04,AT,8,0.107,0
+Stresový,WS04,AT,9,0.1,0
+Stresový,WS04,AT,10,0.106,0
+Stresový,WS04,AT,11,0.121,0
+Stresový,WS04,AT,12,0.092,0
+Stresový,WS04,AT,13,0.102,0
+Stresový,WS04,AT,14,0.09,0.003
+Stresový,WS04,AT,15,0.123,0
+Stresový,WS04,AT,16,0.133,0
+Stresový,WS04,AT,17,0.127,0
+Stresový,WS04,AT,18,0.092,0.002
+Stresový,WS04,AT,19,0.124,0
+Stresový,WS04,AT,20,0.117,0
+Stresový,WS04,AT,21,0.128,0
+Stresový,WS04,AT,22,0.123,0
+Stresový,WS04,AT,23,0.119,0
+Stresový,WS04,AT,24,0.13,0
+Stresový,WS04,AT,25,0.097,0
+Stresový,WS04,AT,26,0.14,0
+Stresový,WS04,AT,27,0.142,0
+Stresový,WS04,AT,28,0.137,0
+Stresový,WS04,AT,29,0.126,0
+Stresový,WS04,AT,30,0.138,0
+Stresový,WS04,AT,31,0.113,0
+Stresový,WS04,AT,32,0.136,0
+Stresový,WS04,AT,33,0.125,0
+Stresový,WS04,AT,34,0.132,0
+Stresový,WS04,AT,35,0.123,0
+Stresový,WS04,AT,36,0.107,0
+Stresový,WS04,AT,37,0.12,0
+Stresový,WS04,AT,38,0.125,0
+Stresový,WS04,AT,39,0.107,0
+Stresový,WS04,AT,40,0.1,0
+Stresový,WS04,AT,41,0.127,0
+Stresový,WS04,AT,42,0.124,0
+Stresový,WS04,AT,43,0.104,0.001
+Stresový,WS04,AT,44,0.071,0
+Stresový,WS04,AT,45,0.095,0
+Stresový,WS04,AT,46,0.062,0.003
+Stresový,WS04,AT,47,0.057,0
+Stresový,WS04,AT,48,0.081,0
+Stresový,WS04,AT,49,0.068,0.007
+Stresový,WS04,AT,50,0.09,0
+Stresový,WS04,AT,51,0.089,0.001
+Stresový,WS04,AT,52,0.048,0.004
+Stresový,WS04,DE,1,0.179,0.003
+Stresový,WS04,DE,2,0.134,0.005
+Stresový,WS04,DE,3,0.185,0.006
+Stresový,WS04,DE,4,0.07,0.017
+Stresový,WS04,DE,5,0.067,0.076
+Stresový,WS04,DE,6,0.079,0.023
+Stresový,WS04,DE,7,0.017,0.075
+Stresový,WS04,DE,8,0.151,0.009
+Stresový,WS04,DE,9,0.118,0.02
+Stresový,WS04,DE,10,0.14,0.01
+Stresový,WS04,DE,11,0.149,0.005
+Stresový,WS04,DE,12,0.11,0.001
+Stresový,WS04,DE,13,0.08,0.014
+Stresový,WS04,DE,14,0.098,0.016
+Stresový,WS04,DE,15,0.11,0.008
+Stresový,WS04,DE,16,0.141,0
+Stresový,WS04,DE,17,0.138,0.01
+Stresový,WS04,DE,18,0.118,0.019
+Stresový,WS04,DE,19,0.127,0.001
+Stresový,WS04,DE,20,0.156,0
+Stresový,WS04,DE,21,0.163,0
+Stresový,WS04,DE,22,0.176,0
+Stresový,WS04,DE,23,0.162,0
+Stresový,WS04,DE,24,0.164,0
+Stresový,WS04,DE,25,0.157,0
+Stresový,WS04,DE,26,0.191,0
+Stresový,WS04,DE,27,0.167,0
+Stresový,WS04,DE,28,0.202,0
+Stresový,WS04,DE,29,0.167,0
+Stresový,WS04,DE,30,0.185,0
+Stresový,WS04,DE,31,0.184,0
+Stresový,WS04,DE,32,0.187,0
+Stresový,WS04,DE,33,0.198,0
+Stresový,WS04,DE,34,0.148,0
+Stresový,WS04,DE,35,0.132,0
+Stresový,WS04,DE,36,0.132,0
+Stresový,WS04,DE,37,0.153,0
+Stresový,WS04,DE,38,0.174,0
+Stresový,WS04,DE,39,0.13,0
+Stresový,WS04,DE,40,0.179,0
+Stresový,WS04,DE,41,0.185,0
+Stresový,WS04,DE,42,0.2,0
+Stresový,WS04,DE,43,0.089,0.001
+Stresový,WS04,DE,44,0.066,0.027
+Stresový,WS04,DE,45,0.053,0.023
+Stresový,WS04,DE,46,0.084,0.013
+Stresový,WS04,DE,47,0.144,0.003
+Stresový,WS04,DE,48,0.113,0.015
+Stresový,WS04,DE,49,0.098,0.014
+Stresový,WS04,DE,50,0.147,0.009
+Stresový,WS04,DE,51,0.112,0.015
+Stresový,WS04,DE,52,0.099,0.008
+Stresový,WS04,PL,1,0.052,0.012
+Stresový,WS04,PL,2,0.063,0.011
+Stresový,WS04,PL,3,0.023,0.02
+Stresový,WS04,PL,4,0.05,0.005
+Stresový,WS04,PL,5,0.076,0.002
+Stresový,WS04,PL,6,0.088,0.005
+Stresový,WS04,PL,7,0.047,0.003
+Stresový,WS04,PL,8,0.06,0.013
+Stresový,WS04,PL,9,0.031,0.019
+Stresový,WS04,PL,10,0.039,0.039
+Stresový,WS04,PL,11,0.002,0.038
+Stresový,WS04,PL,12,0.048,0.015
+Stresový,WS04,PL,13,0.005,0.071
+Stresový,WS04,PL,14,0.036,0.024
+Stresový,WS04,PL,15,0.015,0.047
+Stresový,WS04,PL,16,0.018,0.019
+Stresový,WS04,PL,17,0.021,0.017
+Stresový,WS04,PL,18,0.062,0.003
+Stresový,WS04,PL,19,0.003,0.11
+Stresový,WS04,PL,20,0.01,0.064
+Stresový,WS04,PL,21,0.002,0.061
+Stresový,WS04,PL,22,0.015,0.037
+Stresový,WS04,PL,23,0.04,0.027
+Stresový,WS04,PL,24,0.031,0.059
+Stresový,WS04,PL,25,0.04,0.05
+Stresový,WS04,PL,26,0.012,0.062
+Stresový,WS04,PL,27,0.033,0.03
+Stresový,WS04,PL,28,0.005,0.084
+Stresový,WS04,PL,29,0.028,0.052
+Stresový,WS04,PL,30,0.01,0.053
+Stresový,WS04,PL,31,0.059,0.006
+Stresový,WS04,PL,32,0.002,0.087
+Stresový,WS04,PL,33,0.009,0.04
+Stresový,WS04,PL,34,0.009,0.039
+Stresový,WS04,PL,35,0.012,0.033
+Stresový,WS04,PL,36,0.027,0.043
+Stresový,WS04,PL,37,0.03,0.044
+Stresový,WS04,PL,38,0.055,0.012
+Stresový,WS04,PL,39,0.026,0.045
+Stresový,WS04,PL,40,0.068,0.003
+Stresový,WS04,PL,41,0.021,0.08
+Stresový,WS04,PL,42,0.026,0.054
+Stresový,WS04,PL,43,0.038,0.02
+Stresový,WS04,PL,44,0.022,0.02
+Stresový,WS04,PL,45,0.004,0.012
+Stresový,WS04,PL,46,0.038,0.009
+Stresový,WS04,PL,47,0.045,0.019
+Stresový,WS04,PL,48,0.023,0.02
+Stresový,WS04,PL,49,0.031,0.016
+Stresový,WS04,PL,50,0.026,0.03
+Stresový,WS04,PL,51,0.045,0.024
+Stresový,WS04,PL,52,0.03,0.047
+Stresový,WS04,SK,1,0.025,0.007
+Stresový,WS04,SK,2,0.028,0.005
+Stresový,WS04,SK,3,0.01,0.013
+Stresový,WS04,SK,4,0.047,0.001
+Stresový,WS04,SK,5,0.16,0
+Stresový,WS04,SK,6,0.095,0.002
+Stresový,WS04,SK,7,0.121,0
+Stresový,WS04,SK,8,0.093,0.002
+Stresový,WS04,SK,9,0.121,0.004
+Stresový,WS04,SK,10,0.062,0
+Stresový,WS04,SK,11,0.077,0
+Stresový,WS04,SK,12,0.068,0
+Stresový,WS04,SK,13,0.087,0.002
+Stresový,WS04,SK,14,0.072,0.002
+Stresový,WS04,SK,15,0.117,0.001
+Stresový,WS04,SK,16,0.082,0
+Stresový,WS04,SK,17,0.043,0.001
+Stresový,WS04,SK,18,0.032,0.018
+Stresový,WS04,SK,19,0.052,0.014
+Stresový,WS04,SK,20,0.026,0.023
+Stresový,WS04,SK,21,0.005,0.031
+Stresový,WS04,SK,22,0.005,0.005
+Stresový,WS04,SK,23,0.007,0.012
+Stresový,WS04,SK,24,0.011,0.007
+Stresový,WS04,SK,25,0.025,0.006
+Stresový,WS04,SK,26,0.006,0.012
+Stresový,WS04,SK,27,0.037,0.017
+Stresový,WS04,SK,28,0.034,0.002
+Stresový,WS04,SK,29,0.044,0.003
+Stresový,WS04,SK,30,0.03,0
+Stresový,WS04,SK,31,0.028,0.015
+Stresový,WS04,SK,32,0.036,0.007
+Stresový,WS04,SK,33,0.026,0.004
+Stresový,WS04,SK,34,0.102,0
+Stresový,WS04,SK,35,0.074,0
+Stresový,WS04,SK,36,0.057,0.002
+Stresový,WS04,SK,37,0.028,0.014
+Stresový,WS04,SK,38,0.054,0.001
+Stresový,WS04,SK,39,0.018,0.008
+Stresový,WS04,SK,40,0.044,0.004
+Stresový,WS04,SK,41,0.025,0.003
+Stresový,WS04,SK,42,0.017,0.013
+Stresový,WS04,SK,43,0.023,0.007
+Stresový,WS04,SK,44,0.043,0.009
+Stresový,WS04,SK,45,0.087,0
+Stresový,WS04,SK,46,0.043,0.005
+Stresový,WS04,SK,47,0.017,0.02
+Stresový,WS04,SK,48,0.05,0.002
+Stresový,WS04,SK,49,0.029,0.003
+Stresový,WS04,SK,50,0.027,0.005
+Stresový,WS04,SK,51,0.045,0.002
+Stresový,WS04,SK,52,0.046,0.008
